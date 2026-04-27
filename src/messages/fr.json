@@ -40,29 +40,61 @@
     }
   },
   "knowledge": {
-    "title": "Explorez les Merveilles Naturelles de Vøringsfossen",
-    "sections": [
-      {
-        "id": "waterfall",
-        "title": "Chute Époustouflante",
-        "content": "Vøringsfossen a une chute totale de 182 mètres, ce qui en fait l'une des chutes d'eau les plus hautes de Norvège. La cascade descend en deux segments depuis le rebord du canyon, créant un magnifique rideau d'eau blanc. Depuis la plateforme d'observation, vous pouvez expérimenter la puissance de la cascade et sentir la fraîcheur du brouillard de près."
-      },
-      {
-        "id": "canyon",
-        "title": "Canyon de Måbødalen",
-        "content": "La cascade se trouve au cœur du profond canyon de Måbødalen, une merveille naturelle formée pendant l'ère glaciaire. Les parois du canyon s'élèvent à des centaines de mètres des deux côtés. Debout au bord du canyon, vous apprécierez pleinement la puissance sauvage de la nature."
-      },
-      {
-        "id": "viewpoint",
-        "title": "Plateforme d'Observation Moderne",
-        "content": "La plateforme d'observation actuelle, construite en 2018, offre une expérience de visionnage sûre et époustouflante. Avec ses barrières en verre, les visiteurs peuvent contempler en toute sécurité la cascade et le canyon. La plateforme n'est qu'à quelques dizaines de mètres des chutes, où le brouillard s'élève régulièrement, créant une expérience immersive."
-      },
-      {
-        "id": "history",
-        "title": "Patrimoine Historique",
-        "content": "Vøringsfossen est un repère norvégien iconic depuis l'Antiquité. Les poètes du XIXe siècle la décrivaient comme la frontière entre le paradis et l'enfer, giving the waterfall a mythological significance. Aujourd'hui, elle représente le meilleur du tourisme naturel norvégien, attirant des centaines de milliers de visiteurs du monde entier chaque année."
-      }
-    ]
+    "title": "Guide Complet de Vøringsfossen",
+    "coreIntro": {
+      "title": "Introduction Principale",
+      "content": "La première fois que vous découvrez Vøringsfossen, vous ne le voyez pas avec vos yeux—vous l'entendez. Vous êtes encore dans la voiture, vitres à demi ouvertes, quand le grondement lointain arrive en roulant depuis la montagne comme un tonnerre sourd. Le son devient de plus en plus fort jusqu'à ce que vous sortiez et marchiez vers le bord de la falaise, et soudain un rideau d'eau apparaît devant vous—182 mètres de haut, divisé en deux sections. D'abord les chutes elles-mêmes fendent le rocher, puis plongent, s'écrasant dans l'étang profond au fond du canyon, envoyant des embruns à des centaines de mètres. Debout sur la plateforme d'observation, vous pouvez sentir le métal sous vos pieds vibrer légèrement—c'est la transmission de la puissance de la chute d'eau. Les embruns hit your face comme une pluie fine, portant le parfum de mousse et d'aiguilles de pin, et occasionnellement un arc-en-ciel apparaît dans la lumière du soleil. Ce n'est pas un ruisseau de forêt gentil—c'est la puissance brute de la nature nordique en plein affichage. La neige fond dévale la roche de basalte, à travers le plateau de Hardangervidda, puis se jette sans hésitation dans le canyon. Toute la scène rayonne d'un sentiment irrésistible de mouvement, vous faisant sentir que le temps ici a été étiré par le son de l'eau, devenant épais et lourd. Les locaux appellent l'atmosphère de cette région \"fjellstillhet\" (tranquillité de montagne), mais ici, le silence est remplacé par le grondement, pourtant cela apporte une paix intérieure encore plus profonde. Vous comprenez vraiment que sur cette terre norvégienne, la nature est le vrai protagoniste—l'humanité effectue simplement une pause douce à côté."
+    },
+    "basicInfo": {
+      "title": "Informations de Base",
+      "hours": "Heures d'Ouverture",
+      "hoursContent": "Ouvert toute l'année, mais la meilleure période de visite est de mai à septembre, lorsque la fonte des neiges crée le plus grand volume d'eau et que la cascade displays son pouvoir le plus majestueux. Certaines plateformes d'observation ferment en hiver en raison de la neige, mais vous pouvez voir depuis la route principale. Il est recommandé de vérifier les conditions de circulation en temps réel auprès de l'Administration norvégienne des routes publiques (Statens vegvesen) avant le départ, particulièrement d'octobre à avril lorsque les routes de montagne peuvent être fermées. Les plateformes d'observation elles-mêmes n'ont pas de restrictions d'horaire, mais le centre de visiteurs est ouvert de 10h à 18h en été, avec des horaires réduits le reste de l'année.",
+      "ticket": "Prix des Billets",
+      "ticketContent": "Entrée gratuite aux plateformes d'observation. Cependant, le stationnement est de 150 NOK par voiture en été (environ 100 RMB), réduit de moitié en hiver. Des achats supplémentaires sont requis au café et à la boutique de souvenirs du centre de visiteurs. Les visites guidées (environ 3 heures) organisées localement coûtent environ 600 NOK par personne.",
+      "address": "Adresse",
+      "addressContent": "Vøringsfossen, 5784 Eidfjord, Norway",
+      "transport": "Transport",
+      "transportContent": "Depuis Bergen, prenez la E16 pendant environ 2h30 jusqu'à Voss, puis tournez vers Eidfjord et continuez le long de la Riksvei 7 pendant environ 1 heure. La conduite est recommandée—les paysages de fjords en chemin sont à couper le souffle. Alternativement, prenez le train de Bergen à Voss (environ 1h30, des trains toutes les heures), puis le bus (Route 940) jusqu'à Eidfjord, environ 4 départs par jour, trajet total environ 4 heures. Depuis Oslo, la conduite prend environ 5 heures. Les pneus neige sont obligatoires en hiver, et certaines sections nécessitent une conduite prudente. Des navettes locales opèrent depuis le village d'Eidfjord, de 10h à 17h en été, 50 NOK par trajet simple."
+    },
+    "history": {
+      "title": "Histoire et Culture",
+      "historicalStatus": "Importance Historique",
+      "historicalStatusContent": "L'une des chutes d'eau les plus célèbres de Norvège, un hotspot touristique et de recherche géologique depuis le 19e siècle, et le symbole naturel où le plateau de Hardangervidda rencontre les fjords.",
+      "historyBackground": "Contexte Historique",
+      "historyBackgroundContent": "L'histoire de Vøringsfossen a commencé il y a environ dix mille ans, lorsque la dernière période glaciaire s'est terminée. Au fur et à mesure que les glaciers se retiraient, ils laissaient derrière eux des fjords en forme de U et des falaises abruptes. L'eau de fonte du plateau de Hardangervidda s'écoulait à travers les vallées de rift, formant cette cascade dans la vallée de Bjoreiddalen. Les premiers enregistrements provenaient de missionnaires dano-norvégiens du 18e siècle, qui l'appelaient \"le rideau d'eau terrifiant\". Mais ce n'est qu'au milieu du 19e siècle, avec la montée du romantisme européen, que les intellectuelle norvégiens ont commencé à considérer leurs chutes d'eau, fjords et glaciers comme des symboles de l'esprit national, truly amenant Vøringsfossen dans la conscience publique. Dans les années 1840, le peintre Johan Christian Dahl a capturé le jeu de lumière ici, et son œuvre a causé une sensation lors de son exposition à Copenhague. Explorateurs et voyageurs ont bientôt suivi. Les Britanniques ont été les premiers à construire un chemin de diligence d'Eidfjord aux chutes, et en 1880 un petit hôtel a ouvert pour les visiteurs épuisés. Pendant la Seconde Guerre mondiale, les combattants de la résistance norvégienne ont utilisé le terrain près des chutes pour cacher des fournitures aux patrouilles nazies. Dans les années 1960, avec l'accès routier établi, c'est devenu un arrêt obligatoire pour les road trips. En 2012, un glissement de terrain a presque changé le cours de la cascade; les scientifiques ont rapidement construit un canal de déviation après une évaluation d'urgence. En 2020, une toute nouvelle plateforme d'observation en porte-à-faux a ouvert, conçue par le cabinet d'architecture norvégien Reiulf Ramstad Arkitekter, qui a passé cinq ans à étudier les formations rocheuses pour finalement créer une plateforme d'observation qui semble pousser naturellement de la falaise. Aujourd'hui, Vøringsfossen attire plus de 300 000 visiteurs par an, mais son âme reste inchangée—cette puissance froide, mouillée, primitive, où chaque ruée d'eau semble raconter la première fissure de glace il y a dix mille ans lorsque le glacier s'est retiré pour la première fois.",
+      "culturalValue": "Valeur Culturelle",
+      "culturalValueContent": "Comme source d'inspiration pendant la période du romantisme national norvégien, elle est apparue dans de nombreuses peintures et poèmes. La culture samie locale la considère comme sacrée, et des vestiges sacrificiels demeurent à ce jour."
+    },
+    "architecture": {
+      "title": "Caractéristiques Architecturales",
+      "features": "Caractéristiques Architecturales",
+      "featuresContent": "La cascade elle-même est un paysage d'érosion naturel sans structures artificielles. Cependant, la récemment construite \"Vøringfossen Viewpoint\" est une plateforme d'observation en acier en porte-à-faux s'étendant au-dessus de la falaise, devenant un modèle d'architecture moderne en coexistence harmonieuse avec la nature.",
+      "style": "Style Architectural",
+      "styleContent": "En tant que cascade naturelle, il n'y a pas de style architectural spécifique. La plateforme d'observation adopte un design moderne minimaliste,强调 l'intégration avec les textures rocheuses environnantes, et sa structure en porte-à-faux asymétrique reflète la révérence de l'architecture nordique pour la nature."
+    },
+    "tourRoute": {
+      "title": "Circuit Touristique",
+      "overview": "Aperçu du Circuit",
+      "overviewContent": "Il est recommandé d'arriver avant 10h, avant l'arrivée des bus de tourisme en grand nombre, lorsque la lumièreslant à travers la cascade créant les ombres les plus nettes. L'ensemble de la visite prend environ 1,5 à 2 heures, incluant la plateforme d'observation principale, les sentiers inférieurs et le centre de visiteurs. Le rythme devrait être lent—car à chaque pas, l'angle change et la forme de l'eau se transforme entièrement. Après le stationnement, first walk to the upper viewing platform for the panoramic view, puis descend the stairs for 25 minutes to the wooden boardwalk at the canyon floor. Viewing from below is a completely different experience: vous serez enveloppé par les embruns, comme si vous étiez debout dans une tempête sans fin. Finalement, retournez au centre de visiteurs pour un café chaud, regardant la cascade continuer sa danse éternelle dehors la fenêtre.",
+      "steps": "Étapes du Circuit",
+      "stepsContent": "Tôt le matin, marchez sur la nouvelle plateforme d'observation en acier—elle vous donnera une sensation vertigineuse de flotter au-dessus du canyon, avec la cascade rugissant à une douzaine de mètres à votre droite\nDescendez lentement les escaliers le long de la paroi rocheuse, chaque pas révélant l'eau taillant différentes formes sur le rocher, le son devenant plus fort, assez fort pour briser toutes vos pensées vagabondes\nDescendez à une plateforme rocheuse naturelle à mi-chemin—ici il y a presque pas de touristes—vous pouvez vous asseoir sur de la mousse mouillée par les embruns et regarder tranquillement où la cascade se divise en deux courants\nContinuez vers le bas jusqu'au sentier de planche en bois au fond, où le point final est un petit pavillon en bois; debout ici, les embruns de la cascade humidifieront instantanément vos cheveux, et des arcs-en-ciel doubles apparaissent lorsque la lumière du soleil brille à travers\nSi votre énergie le permet, depuis la fin du sentier de planche, marchez encore 200 mètres plus profondément dans le canyon, où un tas de pierres ancien laissé par des chasseurs se trouve—vous pouvez voir le profil complet de la cascade de côté\nRetournez au deuxième étage du centre de visiteurs, commandez un chocolat chaud, asseyez-vous près de la fenêtre du sol au plafond et regardez la lumière et l'ombre se déplacer lentement sur la cascade; attendez jusqu'après 14h quand les groupes en bus partent, et toute la zone retrouve sa tranquillité",
+      "tips": "Conseils pour le Circuit",
+      "tipsContent": "Ne portez jamais de talons hauts ou de chaussures en cuir—le sentier de planche et les sections rocheuses sont extrêmement glissants. Portez des chaussures de randonnée imperméables. Il n'y a pas de rambardes au bord de la plateforme, alors soyez extrêmement prudent lorsque vous prenez des photos, especialmente les jours de vent quand les embruns rendent les surfaces métalliques aussi glissantes que de la glace. Si vous voulez éviter les foules, try to avoid Norwegian public holidays like Constitution Day on May 17th."
+    },
+    "photography": {
+      "title": "Guide Photographique",
+      "spots": "Spots Photo",
+      "spotsContent": "Côté droit de la plateforme d'observation supérieure: Photographiez avant 10h pour une vue complète de la cascade, utilisez un objectif grand-angle pour inclure le plateau de Hardangervidda lointain, le ciel bleu contrastant avec les embruns blancs\nFin du sentier de planche en bois inférieur: Photos à contre-jour vers 13h, les gouttelettes d'eau deviennent des milliers de diamants étincelants à contre-jour, excellents effets de silhouette\nMontez la petite colline à gauche du parking (environ 3 minutes): Un spot secret peu connu, peut capturer la cascade avec l'eau bleu lac du lointain fjord d'Eidfjord\nEscaliers en bois derrière le centre de visiteurs: Pendant la soirée, utilisez un téléobjectif pour comprimer l'espace, créant profondeur avant et arrière avec la cascade et les pins sur la paroi rocheuse",
+      "tips": "Conseils Photo",
+      "tipsContent": "L'utilisation d'un filtre polarisant circulaire (CPL) peut éliminer les reflets de l'eau, rendant les couleurs de l'eau plus profondes. Les drones sont interdits près de la cascade—les embruns sont mortels pour les équipements électroniques, et la zone est sous contrôle du parc national. Utilisez un étui imperméable pour votre appareil photo pendant la prise de vue; les embruns peuvent recouvrir la surface de l'objectif d'un film d'eau en quelques minutes."
+    },
+    "accommodation": {
+      "title": "Recommandations d'Hébergement",
+      "recommendations": "Recommandations d'Hébergement",
+      "recommendationsContent": "Choix Économique: Eidfjord Turisthytte auberge de jeunesse à Eidfjord—chambres propres et simples, cuisine partagée pour se restaurer, peut entendre le grondement lointain de la cascade depuis la fenêtre, lits environ 300 NOK par nuit\nExpérience Unique: Skinnarbu Hytte sur le plateau de Hardangervidda au-dessus de la cascade—une cabane de montagne traditionnelle en bois convertie en gîte avec seulement cinq chambres, le propriétaire vous racontera comment les Samis faisaient paître les rennes ici, les étoiles nocturnes comme un gâteau au chocolat saupoudré de sucre en poudre\nLuxe: Eidfjord Fjordhotel à Eidfjord—chambres avec fenêtres du sol au plafond donnant sur le fjord, dîner avec viande de renne et saumon fraîchement péché, jacuzzi extérieur, regardant le crépuscule lointain engloutir la cascade, environ 2 000 NOK par nuit",
+      "tips": "Conseils d'Hébergement",
+      "tipsContent": "Le village d'Eidfjord est très petit avec des options d'hébergement limitées; pendant la haute saison (juin à août), réservez au moins deux mois à l'avance. Si vous conduisez et recherchez l'expérience naturelle ultime, consider campground on Hardangervidda plateau, but you need to bring your own tent or RV. Norway's \"freedom to roam\" permet le camping dans la nature pour une nuit; maintenez une distance de sécurité des rivières et emportez toutes vos ordures."
+    }
   },
   "gallery": {
     "title": "Galerie Photo",

@@ -40,29 +40,61 @@
     }
   },
   "knowledge": {
-    "title": "Explore Vøringsfossen's Natural Wonders",
-    "sections": [
-      {
-        "id": "waterfall",
-        "title": "Stunning Drop",
-        "content": "Vøringsfossen has a total drop of 182 meters, making it one of Norway's highest waterfalls. The waterfall cascades in two segments from the valley rim, creating a magnificent white curtain of water. From the viewing platform, you can experience the waterfall's power and feel the refreshing mist up close."
-      },
-      {
-        "id": "canyon",
-        "title": "Måbødalen Canyon",
-        "content": "The waterfall sits within the deep Måbødalen canyon, a natural wonder formed during the Ice Age. The canyon walls rise hundreds of meters on both sides. Standing at the canyon edge, you'll fully appreciate nature's raw power and feel humbled by the immense scale of the landscape."
-      },
-      {
-        "id": "viewpoint",
-        "title": "Modern Viewing Platform",
-        "content": "The current viewing platform, built in 2018, offers a safe and stunning viewing experience. With glass barriers, visitors can safely overlook the waterfall and canyon. The platform is only tens of meters from the falls, where mist regularly drifts up, creating an immersive experience."
-      },
-      {
-        "id": "history",
-        "title": "Historical Heritage",
-        "content": "Vøringsfossen has been an iconic Norwegian landmark since ancient times. 19th century poets described it as the boundary between heaven and hell, giving the waterfall mythological significance. Today, it represents Norwegian nature tourism at its finest, attracting hundreds of thousands of visitors from around the world annually."
-      }
-    ]
+    "title": "Complete Vøringsfossen Travel Guide",
+    "coreIntro": {
+      "title": "Core Introduction",
+      "content": "The first time you experience Vøringsfossen, you don't see it with your eyes—you hear it. You're still in the car, windows half-open, when the distant roar comes rolling down from the mountain like low thunder. The sound grows louder and louder until you step out and walk to the cliff's edge, and suddenly a curtain of water appears before you—182 meters high, divided into two sections. First the falls themselves split the rock, then plunge down, crashing into the deep pool at the canyon floor, sending mist hundreds of meters into the air. Standing on the viewing platform, you can feel the metal beneath your feet vibrating slightly—that's the transmission of the waterfall's power. The mist hits your face like fine rain, carrying the scent of moss and pine needles, and occasionally a rainbow bursts through in the sunlight. This isn't a gentle forest stream—it's the raw power of Nordic nature on full display. Snowmelt cascades down basalt rock, across the wilderness of Hardangervidda plateau, then throws itself毫不犹豫地 into the canyon without hesitation. The entire scene radiates an irresistible sense of movement, making you feel that time here has been stretched by the sound of water, becoming thick and heavy. Locals call the atmosphere of this area \"fjellstillhet\" (mountain stillness), but here, silence is replaced by thunder, yet it brings an even deeper inner peace. You truly understand that on this Norwegian land, nature is the true protagonist—humanity merely pauses gently beside it."
+    },
+    "basicInfo": {
+      "title": "Basic Information",
+      "hours": "Opening Hours",
+      "hoursContent": "Open year-round, but the best viewing period is May to September, when snowmelt creates the largest water volume and the waterfall displays its most majestic power. Some viewing platforms close in winter due to snow, but you can view from the main road. It is recommended to check real-time road conditions with the Norwegian Public Roads Administration (Statens vegvesen) before departure, especially from October to April when mountain roads may be closed. The viewing platforms themselves have no time restrictions, but the visitor center hours are 10:00-18:00 daily in summer, shorter in other seasons.",
+      "ticket": "Ticket Price",
+      "ticketContent": "Free entry to viewing platforms. However, parking is 150 NOK per car in summer (approximately 100 RMB), halved in winter. Additional purchases required at the visitor center café and gift shop. Guided hiking tours (approximately 3 hours) organized locally cost about 600 NOK per person.",
+      "address": "Address",
+      "addressContent": "Vøringsfossen, 5784 Eidfjord, Norway",
+      "transport": "Transportation",
+      "transportContent": "From Bergen, drive along E16 for approximately 2.5 hours to Voss, then turn toward Eidfjord and continue along Riksvei 7 for about 1 hour. Driving is recommended—the fjord scenery along the way is breathtaking. Alternatively, take the train from Bergen to Voss (approximately 1.5 hours, hourly departures), then bus (Route 940) to Eidfjord, about 4 departures daily, total journey approximately 4 hours. Driving from Oslo takes approximately 5 hours. Snow tires are mandatory in winter, and some sections require careful driving. Local shuttle buses operate from Eidfjord town, 10:00-17:00 in summer, 50 NOK per one-way trip."
+    },
+    "history": {
+      "title": "History & Culture",
+      "historicalStatus": "Historical Significance",
+      "historicalStatusContent": "One of Norway's most famous waterfalls, a tourism and geological research hotspot since the 19th century, and the natural symbol where Hardangervidda plateau meets the fjords.",
+      "historyBackground": "Historical Background",
+      "historyBackgroundContent": "The story of Vøringsfossen began roughly ten thousand years ago, when the last ice age ended. As glaciers retreated, they left behind U-shaped fjords and steep cliffs. Meltwater from Hardangervidda flowed through the rift valleys, forming this waterfall in the Bjoreiddalen valley. The first records came from 18th-century Danish-Norwegian missionaries, who called it \"the terrifying water curtain.\" But it wasn't until the mid-19th century, with the rise of European Romanticism, that Norwegian intellectuals began viewing their nation's waterfalls, fjords, and glaciers as symbols of national spirit, truly bringing Vøringsfossen into public awareness. In the 1840s, painter Johan Christian Dahl captured the play of light here, and his work caused a sensation when exhibited in Copenhagen. Explorers and travelers soon followed. The British were the first to build a carriage path from Eidfjord to the falls, and in 1880 a small hotel opened for weary visitors. During WWII, Norwegian resistance fighters used the terrain near the falls to hide supplies from Nazi patrols. In the 1960s, with road access established, it became a must-stop for road trips. In 2012, a landslide nearly changed the waterfall's course; scientists quickly built a diversion channel after emergency assessment. In 2020, an entirely new cantilever viewing platform opened, designed by Norwegian architecture firm Reiulf Ramstad Arkitekter, who spent five years studying rock formations to finally create a viewing platform that appears to grow naturally from the cliff. Today, Vøringsfossen attracts over 300,000 visitors annually, but its soul remains unchanged—that cold, wet, primal power, where every rush of water seems to tell of the first crack of ice ten thousand years ago when the glacier first retreated.",
+      "culturalValue": "Cultural Value",
+      "culturalValueContent": "As the inspiration source during Norway's National Romantic period, it has appeared in many paintings and poems. Local Sami culture regards it as sacred, and sacrificial relics remain to this day."
+    },
+    "architecture": {
+      "title": "Architectural Features",
+      "features": "Architectural Features",
+      "featuresContent": "The waterfall itself is a natural erosion landscape with no artificial structures. However, the recently built \"Vøringfossen Viewpoint\" is a cantilevered steel structure viewing platform extending over the cliff, becoming a model of modern architecture in harmonious coexistence with nature.",
+      "style": "Architectural Style",
+      "styleContent": "As a natural waterfall, there is no specific architectural style. The viewing platform adopts minimalist modern design, emphasizing integration with surrounding rock textures, and its asymmetric cantilever structure reflects Nordic architecture's reverence for nature."
+    },
+    "tourRoute": {
+      "title": "Tour Route",
+      "overview": "Tour Route Overview",
+      "overviewContent": "It is recommended to arrive before 10 AM, before tour buses arrive in large numbers, when light slants across the waterfall creating the sharpest shadows. The entire visit takes about 1.5 to 2 hours, including the main viewing platform, lower trails, and visitor center. The pace should be slow—because with every few steps, the angle changes and the water's form transforms entirely. After parking, first walk to the upper viewing platform for the panoramic view, then descend the stairs for 25 minutes to the wooden boardwalk at the canyon floor. Viewing from below is a completely different experience: you will be enveloped by mist, as if standing in an endless storm. Finally, return to the visitor center for hot coffee, watching the waterfall continue its eternal dance outside the window.",
+      "steps": "Tour Route Steps",
+      "stepsContent": "In the early morning, walk onto the new steel viewing platform—it will give you a dizzying sensation of floating above the canyon, with the waterfall roaring down just a dozen meters to your right\nSlowly descend the stairs along the cliff face, each step revealing water carving different shapes on the rock, the sound growing louder, loud enough to shatter all your wandering thoughts\nDescend to a natural rock platform halfway down—here there are almost no tourists—you can sit on moss wet with mist and quietly watch where the waterfall splits into two streams\nContinue down to the wooden boardwalk at the bottom, where the endpoint is a small wooden pavilion; standing here, the waterfall's mist will instantly dampen your hair, and double rainbows appear when sunlight shines through\nIf your energy permits, from the boardwalk's end walk another 200 meters deeper into the canyon, where an ancient stone pile left by hunters stands—you can see the waterfall's full profile from the side\nReturn to the second floor of the visitor center, order a hot cocoa, sit by the floor-to-ceiling window and watch light and shadow slowly move across the waterfall; wait until after 2 PM when bus tours leave, and the entire area regains its tranquility",
+      "tips": "Tour Route Tips",
+      "tipsContent": "Never wear high heels or leather shoes—the boardwalk and rocky sections are extremely slippery. Wear waterproof hiking shoes. There are no railings at the platform edge, so be extremely careful when taking photos, especially on windy days when mist makes metal surfaces as slippery as ice. If you want to avoid crowds, try to avoid Norwegian public holidays like Constitution Day on May 17th."
+    },
+    "photography": {
+      "title": "Photography Guide",
+      "spots": "Photo Spots",
+      "spotsContent": "Right side of upper viewing platform: Shoot before 10 AM for a full waterfall view, use a wide-angle lens to include the distant Hardangervidda plateau, the blue sky contrasting with white mist\nEnd of lower wooden boardwalk: Backlit shots around 1 PM, water droplets become thousands of sparkling diamonds in backlight, excellent silhouette effects\nClimb the small hill to the left of the parking lot (about 3 minutes): A little-known secret spot, can capture the waterfall with the lake-blue water of distant Eidfjord fjord\nWooden steps behind the visitor center: During evening, use a telephoto lens to compress space, creating foreground and background depth with the waterfall and pines on the rock face",
+      "tips": "Photography Tips",
+      "tipsContent": "Using a circular polarizer (CPL) can eliminate water reflections, making water colors appear deeper. Drones are prohibited near the waterfall—the mist is deadly to electronic equipment, and the area is within national park control. Use a waterproof cover for your camera during shooting; mist can coat the lens surface with a film of water within minutes."
+    },
+    "accommodation": {
+      "title": "Accommodation Recommendations",
+      "recommendations": "Accommodation Recommendations",
+      "recommendationsContent": "Budget Choice: Eidfjord Turisthytte youth hostel in Eidfjord town—rooms are clean and simple, shared kitchen for self-catering, can hear the distant waterfall's faint roar from the window, beds approximately 300 NOK per night\nUnique Experience: Skinnarbu Hytte on Hardangervidda plateau above the waterfall—a traditional wooden mountain hut converted to a guesthouse with only five rooms, the owner will tell you how the Sami people herded reindeer here, night skies like a chocolate cake sprinkled with powdered sugar\nLuxury: Eidfjord Fjordhotel in Eidfjord town—rooms with floor-to-ceiling windows facing the fjord, dinner featuring reindeer meat and fresh-caught salmon, rooftop hot tub, watching distant twilight swallow the waterfall, approximately 2,000 NOK per night",
+      "tips": "Accommodation Tips",
+      "tipsContent": "Eidfjord town is very small with limited accommodation options; during peak season (June to August), book at least two months in advance. If driving and seeking the ultimate nature experience, consider campground on Hardangervidda plateau, but you need to bring your own tent or RV. Norway's \"freedom to roam\" allows camping in wilderness for one night; maintain safe distance from rivers and take all garbage with you."
+    }
   },
   "gallery": {
     "title": "Photo Gallery",

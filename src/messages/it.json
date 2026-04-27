@@ -40,29 +40,61 @@
     }
   },
   "knowledge": {
-    "title": "Esplora le Meraviglie Naturali di Vøringsfossen",
-    "sections": [
-      {
-        "id": "waterfall",
-        "title": "Dislivello Stupefacente",
-        "content": "Vøringsfossen ha un dislivello totale di 182 metri, rendendola una delle cascate più alte di Norvegia. La cascata scende in due segmenti dal bordo della gola, creando una magnifica cortina d'acqua bianca. Dalla piattaforma di osservazione, puoi sperimentare la potenza della cascata e sentire la fresca nebbia da vicino."
-      },
-      {
-        "id": "canyon",
-        "title": "Gola di Måbødalen",
-        "content": "La cascata si trova all'interno della profonda gola di Måbødalen, una meraviglia naturale formata durante l'Era Glaciale. Le pareti della gola si innalzano per centinaia di metri su entrambi i lati. Stando sul bordo della gola, apprezzerai pienamente la potenza selvaggia della natura."
-      },
-      {
-        "id": "viewpoint",
-        "title": "Piattaforma di Osservazione Moderna",
-        "content": "L'attuale piattaforma di osservazione, costruita nel 2018, offre un'esperienza di visualizzazione sicura e mozzafiato. Con le barriere in vetro, i visitatori possono contemplare in sicurezza la cascata e la gola. La piattaforma dista solo decine di metri dalle cascate, dove la nebbia regolarmente sale, creando un'esperienza coinvolgente."
-      },
-      {
-        "id": "history",
-        "title": "Eredità Storica",
-        "content": "Vøringsfossen è un punto di riferimento norvegese fin dall'antichità. I poeti del XIX secolo la descrivevano come il confine tra paradiso e inferno, conferendo alla cascata un significato mitologico. Oggi rappresenta il meglio del turismo naturalistico norvegese, attraendo centinaia di migliaia di visitatori da tutto il mondo ogni anno."
-      }
-    ]
+    "title": "Guida Completa di Vøringsfossen",
+    "coreIntro": {
+      "title": "Introduzione Principale",
+      "content": "La prima volta che scopri Vøringsfossen, non lo vedi con gli occhi—lo senti. Sei ancora in macchina, finestrini a metà aperti, quando il rombo lontano arriva rotolando dalla montagna come un tuono sordo. Il suono diventa sempre più forte finché non scendi e cammini verso il bordo della scogliera, e improvvisamente appare davanti a te una cortina d'acqua—182 metri di altezza, divisa in due sezioni. Prima le cascate stesse spaccano la roccia, poi si tuffano, sbattendo contro la pozza profonda sul fondo della gola, inviando spruzzi per centinaia di metri. In piedi sulla piattaforma di osservazione, puoi sentire il metallo sotto i tuoi piedi vibrare leggermente—quella è la trasmissione della potenza della cascata. Gli spruzzi colpiscono il tuo viso come pioggia sottile, portando il profumo di muschio e aghi di pino, e occasionalmente un arcobaleno esplode alla luce del sole. Questo non è un mite ruscello di foresta—è la potenza grezza della natura nordica in piena mostra. La neve sciolta scorre giù per la roccia basaltica, attraverso l'altopiano di Hardangervidda, poi si getta senza esitazione nella gola. L'intera scena irradia un senso irresistibile di movimento, facendoti sentire che il tempo qui è stato allungato dal suono dell'acqua, diventando denso e pesante. Gli abitanti del luogo chiamano l'atmosfera di questa zona \"fjellstillhet\" (quiete montana), ma qui, la quiete è sostituita dal fragore, eppure porta una pace interiore ancora più profonda. Comprendi davvero che su questa terra norvegese, la natura è la vera protagonista—l'umanità semplicemente si ferma delicatamente accanto."
+    },
+    "basicInfo": {
+      "title": "Informazioni di Base",
+      "hours": "Orari di Apertura",
+      "hoursContent": "Aperto tutto l'anno, ma il periodo migliore per la visita va da maggio a settembre, quando lo scioglimento delle nevi crea il maggiore volume d'acqua e la cascata mostra la sua potenza più maestosa. Alcune piattaforme di osservazione chiudono in inverno a causa della neve, ma è possibile vedere dalla strada principale. Si consiglia di verificare le condizioni del traffico in tempo reale con l'Amministrazione norvegese delle strade pubbliche (Statens vegvesen) prima della partenza, specialmente da ottobre ad aprile quando le strade di montagna potrebbero essere chiuse. Le piattaforme di osservazione stesse non hanno restrizioni di orario, ma il centro visitatori è aperto dalle 10:00 alle 18:00 in estate, con orari ridotti nelle altre stagioni.",
+      "ticket": "Prezzo del Biglietto",
+      "ticketContent": "Ingresso gratuito alle piattaforme di osservazione. Tuttavia, il parcheggio è di 150 NOK per auto in estate (circa 100 RMB), ridotto della metà in inverno. Sono necessari acquisti aggiuntivi al caffè e al negozio di souvenir del centro visitatori. Tour guidati (circa 3 ore) organizzati localmente costano circa 600 NOK a persona.",
+      "address": "Indirizzo",
+      "addressContent": "Vøringsfossen, 5784 Eidfjord, Norway",
+      "transport": "Trasporti",
+      "transportContent": "Da Bergen, percorrere la E16 per circa 2,5 ore fino a Voss, poi svoltare verso Eidfjord e continuare lungo la Riksvei 7 per circa 1 ora. Si consiglia la guida—i paesaggi dei fiordi lungo il percorso sono mozzafiato. In alternativa, prendere il treno da Bergen a Voss (circa 1,5 ore, treni ogni ora), poi l'autobus (Linea 940) fino a Eidfjord, circa 4 partenze al giorno, viaggio totale circa 4 ore. Da Oslo, la guida richiede circa 5 ore. I pneumatici da neve sono obbligatori in inverno, e alcune sezioni richiedono una guida attenta. Navette locali operano dal paese di Eidfjord, dalle 10:00 alle 17:00 in estate, 50 NOK per corsa singola."
+    },
+    "history": {
+      "title": "Storia e Cultura",
+      "historicalStatus": "Significato Storico",
+      "historicalStatusContent": "Una delle cascate più famose della Norvegia, un hotspot turistico e di ricerca geologica fin dal XIX secolo, e il simbolo naturale dove l'altopiano di Hardangervidda incontra i fiordi.",
+      "historyBackground": "Contesto Storico",
+      "historyBackgroundContent": "La storia di Vøringsfossen è iniziata circa diecimila anni fa, quando l'ultima era glaciale si è conclusa. Man mano che i ghiacciai si ritiravano, lasciavano dietro di sé fiordi a forma di U e scogliere ripide. L'acqua di scioglimento dell'altopiano di Hardangervidda scorreva attraverso le valli di rift, formando questa cascata nella valle di Bjoreiddalen. I primi documenti provenivano da missionari dano-norvegesi del XVIII secolo, che la chiamavano \"la terrificante cortina d'acqua\". Ma solo a metà del XIX secolo, con l'ascesa del Romanticismo europeo, gli intellettuali norvegesi iniziarono a considerare le cascate, i fiordi e i ghiacciai della loro nazione come simboli dello spirito nazionale, portando davvero Vøringsfossen alla coscienza pubblica. Negli anni 1840, il pittore Johan Christian Dahl catturò qui il gioco di luce, e la sua opera fece scalpore quando fu esposta a Copenaghen. Esploratori e viaggiatori seguirono a ruota. I britannici furono i primi a costruire un sentiero per carrozze da Eidfjord alle cascate, e nel 1880 fu aperto un piccolo hotel per i visitatori stanchi. Durante la seconda guerra mondiale, i combattenti della resistenza norvegese usarono il terreno vicino alle cascate per nascondere rifornimenti dalle pattuglie naziste. Negli anni '60, con l'apertura della strada, divenne una tappa obbligatoria per i viaggi in auto. Nel 2012, una frana cambiò quasi il corso della cascata; gli scienziati costruirono rapidamente un canale di deviazione dopo una valutazione di emergenza. Nel 2020, è stata aperta una completamente nuova piattaforma di osservazione a sbalzo, progettata dallo studio di architettura norvegese Reiulf Ramstad Arkitekter, che ha dedicato cinque anni allo studio delle formazioni rocciose per creare finalmente una piattaforma di osservazione che sembra crescere naturalmente dalla scogliera. Oggi, Vøringsfossen attira oltre 300.000 visitatori all'anno, ma la sua anima rimane immutata—quella potenza fredda, umida, primordiale, dove ogni flusso d'acqua sembra raccontare il primo crepaccio del ghiaccio diecimila anni fa quando il ghiacciaio si ritirò per la prima volta.",
+      "culturalValue": "Valore Culturale",
+      "culturalValueContent": "Come fonte di ispirazione durante il periodo del Romanticismo nazionale norvegese, è apparsa in molte pitture e poesie. La cultura sami locale la considera sacra, e reliquie di sacrifici rimangono ancora oggi."
+    },
+    "architecture": {
+      "title": "Caratteristiche Architettoniche",
+      "features": "Caratteristiche Architettoniche",
+      "featuresContent": "La cascata stessa è un paesaggio di erosione naturale senza strutture artificiali. Tuttavia, la recente \"Vøringfossen Viewpoint\" è una piattaforma di osservazione in acciaio a sbalzo che si estende sopra la scogliera, diventando un modello di architettura moderna in coesistenza armoniosa con la natura.",
+      "style": "Stile Architettonico",
+      "styleContent": "Come cascata naturale, non esiste uno stile architettonico specifico. La piattaforma di osservazione adotta un design moderno minimalista, enfatizzando l'integrazione con le texture rocciose circostanti, e la sua struttura a sbalzo asimmetrica riflette la reverenza dell'architettura nordica per la natura."
+    },
+    "tourRoute": {
+      "title": "Percorso Turistico",
+      "overview": "Panoramica del Percorso",
+      "overviewContent": "Si consiglia di arrivare prima delle 10:00, prima che arrivino in gran numero gli autobus turistici, quando la luce cade obliquamente sulla cascata creando le ombre più nitide. L'intera visita richiede circa 1,5-2 ore, incluse la piattaforma di osservazione principale, i sentieri inferiori e il centro visitatori. Il ritmo dovrebbe essere lento—perché ad ogni pochi passi, l'angolo cambia e la forma dell'acqua si trasforma completamente. Dopo aver parcheggiato, per prima cosa cammina verso la piattaforma di osservazione superiore per la vista panoramica, poi scendi le scale per 25 minuti fino al sentiero di legno sul fondo della gola. Guardare dal basso è un'esperienza completamente diversa: sarai avvolto dagli spruzzi, come se stessi in piedi in una tempesta senza fine. Infine, torna al centro visitatori per un caffè caldo, guardando la cascata continuare la sua danza eterna fuori dalla finestra.",
+      "steps": "Passaggi del Percorso",
+      "stepsContent": "Di primo mattino, cammina sulla nuova piattaforma di osservazione in acciaio—ti darà una sensazione vertiginosa di fluttuare sopra la gola, con la cascata che ruggisce a una dozzina di metri sulla tua destra\nScendi lentamente le scale lungo la parete della scogliera, ogni passo rivela l'acqua che scava diverse forme sulla roccia, il suono che diventa sempre più forte, abbastanza forte da frantumare tutti i tuoi pensieri vagabondi\nScendi fino a una piattaforma rocciosa naturale a metà strada—qui quasi non ci sono turisti—puoi sederti sul muschio bagnato dagli spruzzi e guardare tranquilmente dove la cascata si divide in due flussi\nContinua fino in fondo al sentiero di legno, dove il punto finale è un piccolo padiglione di legno; in piedi qui, gli spruzzi della cascata ti bagneranno istantaneamente i capelli, e appariranno arcobaleni doppi quando la luce del sole filtra attraverso\nSe le tue energie lo permettono, dalla fine del sentiero di legno cammina ancora 200 metri più in profondità nella gola, dove si trova un antico mucchio di pietre lasciato dai cacciatori—puoi vedere il profilo completo della cascata di lato\nTorna al secondo piano del centro visitatori, ordina un cacao caldo, siediti vicino alla finestra dal pavimento al soffitto e guarda luce e ombra muoversi lentamente sulla cascata; aspetta fino alle 14 circa quando i gruppi in autobus partono, e l'intera area ritrova la sua tranquillità",
+      "tips": "Consigli per il Percorso",
+      "tipsContent": "Non indossare mai tacchi alti o scarpe di pelle—il sentiero di legno e le sezioni rocciose sono estremamente scivolose. Indossa scarpe da trekking impermeabili. Non ci sono ringhiere al bordo della piattaforma, quindi sii estremamente prudente quando scatti foto, specialmente nei giorni ventosi quando gli spruzzi rendono le superfici metalliche scivolose come il ghiaccio. Se vuoi evitare la folla, cerca di evitare le festività nazionali norvegesi come la Giornata della Costituzione il 17 maggio."
+    },
+    "photography": {
+      "title": "Guida Fotografica",
+      "spots": "Punti Fotografici",
+      "spotsContent": "Lato destro della piattaforma di osservazione superiore: scatta prima delle 10:00 per una vista completa della cascata, usa un obiettivo grandangolare per includere anche il lontano altopiano di Hardangervidda, il blu del cielo che contrasta con il bianco degli spruzzi\nFine del sentiero di legno inferiore: foto controluce verso le 13:00, le goccioline d'acqua diventano migliaia di diamanti scintillanti controluce, eccellenti effetti silhouette\nSali la collinetta a sinistra del parcheggio (circa 3 minuti): un punto segreto poco conosciuto, può catturare la cascata con l'acqua blu lago del lontano fiordo di Eidfjord\nScale di legno dietro il centro visitatori: durante la sera, usa un teleobiettivo per comprimere lo spazio, creando profondità primo e sfondo con la cascata e i pini sulla parete rocciosa",
+      "tips": "Consigli Fotografici",
+      "tipsContent": "L'uso di un filtro polarizzatore circolare (CPL) può eliminare i riflessi dell'acqua, rendendo i colori dell'acqua più profondi. I droni sono vietati vicino alla cascata—gli spruzzi sono letali per le apparecchiature elettroniche, e l'area è sotto il controllo del parco nazionale. Usa una custodia impermeabile per la tua fotocamera durante le riprese; gli spruzzi possono coprire la superficie dell'obiettivo con un film d'acqua in pochi minuti."
+    },
+    "accommodation": {
+      "title": "Raccomandazioni per l'Alloggio",
+      "recommendations": "Raccomandazioni per l'Alloggio",
+      "recommendationsContent": "Scelta Economica: Eidfjord Turisthytte ostello della gioventù a Eidfjord—camere pulite e semplici, cucina condivisa per cucinare da soli, puoi sentire il lontano ruggito della cascata dalla finestra, letti circa 300 NOK per notte\nEsperienza Unica: Skinnarbu Hytte sull'altopiano di Hardangervidda sopra la cascata—una tradizionale capanna di montagna in legno trasformata in affittacamere con solo cinque camere, il proprietario ti racconterà come i Sami radunavano le renne qui, il cielo notturno come una torta al cioccolato cosparsa di zucchero a velo\nLusso: Eidfjord Fjordhotel a Eidfjord—camere con finestre dal pavimento al soffitto che si affacciano sul fiordo, cena con carne di renna e salmone appena pescato, vasca idromassaggio sul tetto, guardando il crepuscolo lontano inghiottire la cascata, circa 2.000 NOK per notte",
+      "tips": "Consigli per l'Alloggio",
+      "tipsContent": "Il paese di Eidfjord è molto piccolo con opzioni di alloggio limitate; durante l'alta stagione (giugno-agosto), prenota almeno due mesi prima. Se guidi e cerchi l'esperienza naturale estrema, considera il campeggio sull'altopiano di Hardangervidda, ma devi portare la tua tenda o camper. Il \"diritto di accesso libero\" della Norvegia permette il campeggio nella natura per una notte; mantieni una distanza sicura dai fiumi e porta via tutti i rifiuti."
+    }
   },
   "gallery": {
     "title": "Galleria Fotografica",
