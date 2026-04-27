@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Vøringsfossen Waterfall | Norway",
+    "description": "Complete guide to Vøringsfossen Waterfall in Norway. Hours, directions, photos and reviews."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Vøringsfossen",
+    "subtitle": "Norway's most spectacular waterfall wonder",
+    "rating": "4.7(8,234)",
+    "reviewCount": "8,234 reviews",
+    "hours": "Open 24 hours",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover the Waterfall",
+    "description": "Vøringsfossen is Norway's most famous waterfall, located between the steep cliffs of the Måbødalen valley. The waterfall plunges 182 meters from the valley edge, creating a thundering sound and breathtaking view. It stands as a symbol of Norway's natural landscape and an essential destination for every visitor.",
+    "visitGuide": {
+      "title": "Visit Guide",
+      "items": [
+        "The waterfall viewpoint is open 24/7, no tickets required.",
+        "Approximately 2.5 hours drive from Bergen via Route 7.",
+        "Wear comfortable hiking shoes as there are stairs and trails.",
+        "Spring and summer offer the most dramatic water flow."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "One of Norway's highest waterfalls",
+        "Måbødalen Nature Reserve",
+        "Most spectacular waterfall in Scandinavia"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Explore Vøringsfossen's Natural Wonders",
+    "sections": [
+      {
+        "id": "waterfall",
+        "title": "Stunning Drop",
+        "content": "Vøringsfossen has a total drop of 182 meters, making it one of Norway's highest waterfalls. The waterfall cascades in two segments from the valley rim, creating a magnificent white curtain of water. From the viewing platform, you can experience the waterfall's power and feel the refreshing mist up close."
+      },
+      {
+        "id": "canyon",
+        "title": "Måbødalen Canyon",
+        "content": "The waterfall sits within the deep Måbødalen canyon, a natural wonder formed during the Ice Age. The canyon walls rise hundreds of meters on both sides. Standing at the canyon edge, you'll fully appreciate nature's raw power and feel humbled by the immense scale of the landscape."
+      },
+      {
+        "id": "viewpoint",
+        "title": "Modern Viewing Platform",
+        "content": "The current viewing platform, built in 2018, offers a safe and stunning viewing experience. With glass barriers, visitors can safely overlook the waterfall and canyon. The platform is only tens of meters from the falls, where mist regularly drifts up, creating an immersive experience."
+      },
+      {
+        "id": "history",
+        "title": "Historical Heritage",
+        "content": "Vøringsfossen has been an iconic Norwegian landmark since ancient times. 19th century poets described it as the boundary between heaven and hell, giving the waterfall mythological significance. Today, it represents Norwegian nature tourism at its finest, attracting hundreds of thousands of visitors from around the world annually."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Stunning views of the waterfall and canyon",
+    "captions": [
+      "Panoramic view of Vøringsfossen",
+      "Måbødalen valley scenery",
+      "River below the waterfall",
+      "View from the platform",
+      "Autumn colors in the canyon",
+      "Waterfall mist phenomenon"
+    ],
+    "viewAll": "View locations on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View locations on Google Maps",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Absolutely breathtaking! The power and sound of the waterfall are unforgettable. The viewing platform is perfectly designed for experiencing the falls up close."
+      },
+      {
+        "name": "John D.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "A must-see when visiting Norway! Even in winter, the waterfall is spectacular. Arrive early for better parking."
+      },
+      {
+        "name": "Emma W.",
+        "date": "January 2026",
+        "rating": 4,
+        "text": "Stunning natural beauty, though the parking area is small. Be prepared to wait during peak season. Allow plenty of time for your visit."
+      },
+      {
+        "name": "Michael T.",
+        "date": "December 2025",
+        "rating": 5,
+        "text": "Standing on the platform watching water cascade down from such height... words cannot describe the feeling. The highlight of our Norway trip!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "5785 Eidfjord, Norway",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Vøringsfossen Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Norwegian Tourism Board",
+      "tourism": "Hardangerfjord Tourism",
+      "england": "Norway Fjords"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Vøringsfossen",
+    "text": "Vøringsfossen waterfall is jointly managed and maintained by the Norwegian Water Resources Directorate and the Hardanger Municipality.\nAs one of Norway's most famous natural attractions, Vøringsfossen is designated as a National Landscape Protection Area and is part of Norway's natural heritage protection system. The site features modern viewing facilities ensuring visitor safety while enjoying the natural wonder."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Ullensvang Hotel", "url": "https://www.booking.com"},
+      {"name": "Hardangerfjord Cruise", "url": "https://www.norled.no"},
+      {"name": "Bergen Fish Market", "url": "https://www.visitbergen.com"}
+    ],
+    "tours": [
+      {"name": "Norway in a Nutshell Tour", "url": "https://www.fjordtours.no"},
+      {"name": "Fjord Cruise Experience", "url": "https://www.hurtigruten.com"},
+      {"name": "Waterfall Hiking Tours", "url": "https://www.outdoorlife.no"}
+    ]
+  }
+}

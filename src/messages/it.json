@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Vøringsfossen Cascata | Norvegia",
+    "description": "Guida completa alla cascata Vøringsfossen in Norvegia. Orari, indicazioni, foto e recensioni."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galleria",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "backToHome": "Torna alla Home"
+  },
+  "hero": {
+    "title": "Vøringsfossen",
+    "subtitle": "La cascata più spettacolare della Norvegia",
+    "rating": "4.7(8,234)",
+    "reviewCount": "8,234 recensioni",
+    "hours": "Aperto 24 ore",
+    "openMaps": "Vedi Posizione"
+  },
+  "intro": {
+    "title": "Scopri la Cascata",
+    "description": "Vøringsfossen è la cascata più famosa della Norvegia, situata tra le ripide pareti rocciose della valle di Måbødalen. La cascata precipita per 182 metri dal bordo della gola, creando un fragore assordante e una vista mozzafiato. Simboleggia il paesaggio naturale norvegese ed è una destinazione imperdibile per ogni visitatore.",
+    "visitGuide": {
+      "title": "Guida alla Visita",
+      "items": [
+        "Il punto di osservazione della cascata è aperto 24 ore su 24, senza biglietto.",
+        "Circa 2,5 ore di auto da Bergen tramite la Route 7.",
+        "Indossare scarpe da trekking comode, ci sono scale e sentieri.",
+        "Primavera ed estate offrono le portate d'acqua più imponenti."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Caratteristiche",
+      "items": [
+        "Una delle cascate più alte di Norvegia",
+        "Riserva Naturale di Måbødalen",
+        "La cascata più spettacolare della Scandinavia"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Esplora le Meraviglie Naturali di Vøringsfossen",
+    "sections": [
+      {
+        "id": "waterfall",
+        "title": "Dislivello Stupefacente",
+        "content": "Vøringsfossen ha un dislivello totale di 182 metri, rendendola una delle cascate più alte di Norvegia. La cascata scende in due segmenti dal bordo della gola, creando una magnifica cortina d'acqua bianca. Dalla piattaforma di osservazione, puoi sperimentare la potenza della cascata e sentire la fresca nebbia da vicino."
+      },
+      {
+        "id": "canyon",
+        "title": "Gola di Måbødalen",
+        "content": "La cascata si trova all'interno della profonda gola di Måbødalen, una meraviglia naturale formata durante l'Era Glaciale. Le pareti della gola si innalzano per centinaia di metri su entrambi i lati. Stando sul bordo della gola, apprezzerai pienamente la potenza selvaggia della natura."
+      },
+      {
+        "id": "viewpoint",
+        "title": "Piattaforma di Osservazione Moderna",
+        "content": "L'attuale piattaforma di osservazione, costruita nel 2018, offre un'esperienza di visualizzazione sicura e mozzafiato. Con le barriere in vetro, i visitatori possono contemplare in sicurezza la cascata e la gola. La piattaforma dista solo decine di metri dalle cascate, dove la nebbia regolarmente sale, creando un'esperienza coinvolgente."
+      },
+      {
+        "id": "history",
+        "title": "Eredità Storica",
+        "content": "Vøringsfossen è un punto di riferimento norvegese fin dall'antichità. I poeti del XIX secolo la descrivevano come il confine tra paradiso e inferno, conferendo alla cascata un significato mitologico. Oggi rappresenta il meglio del turismo naturalistico norvegese, attraendo centinaia di migliaia di visitatori da tutto il mondo ogni anno."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galleria Fotografica",
+    "subtitle": "Viste mozzafiato della cascata e della gola",
+    "captions": [
+      "Vista panoramica di Vøringsfossen",
+      "Paesaggio della valle di Måbødalen",
+      "Fiume sotto la cascata",
+      "Dalla piattaforma di osservazione",
+      "Colori autunnali nella gola",
+      "Fenomeno della nebbia della cascata"
+    ],
+    "viewAll": "Visualizza su Google Maps"
+  },
+  "reviews": {
+    "title": "Recensioni dei Visitatori",
+    "declaration": "I feedback dei visitatori sono disponibili su Google Maps (link esterno).",
+    "moreReviews": "Visualizza su Google Maps",
+    "items": [
+      {
+        "name": "Marco B.",
+        "date": "Marzo 2026",
+        "rating": 5,
+        "text": "Assolutamente mozzafiato! La potenza e il suono della cascata sono indimenticabili. La piattaforma di osservazione è perfettamente progettata per vivere la cascata da vicino."
+      },
+      {
+        "name": "Giulia R.",
+        "date": "Febbraio 2026",
+        "rating": 5,
+        "text": "Da vedere assolutamente quando si visita la Norvegia! Anche in inverno, la cascata è spettacolare. Arrivare presto per un parcheggio migliore."
+      },
+      {
+        "name": "Alessandro T.",
+        "date": "Gennaio 2026",
+        "rating": 4,
+        "text": "Bellezza naturale straordinaria, anche se l'area di parcheggio è piccola. Prepararsi ad aspettare durante l'alta stagione. Prevedere tempo sufficiente per la visita."
+      },
+      {
+        "name": "Francesca M.",
+        "date": "Dicembre 2025",
+        "rating": 5,
+        "text": "Stando sulla piattaforma a guardare l'acqua cascata giù da quell'altezza... non ci sono parole per descrivere la sensazione. Il punto forte del nostro viaggio in Norvegia!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Come Raggiungerci",
+    "subtitle": "5785 Eidfjord, Norvegia",
+    "openMaps": "Visualizza su Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Vøringsfossen Associazione Indipendente di Ricerca Turistica · Tutti i diritti riservati.",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio",
+    "cookies": "Impostazioni Cookie",
+    "officialResourcesTitle": "Risorse e Informazioni Correlate",
+    "officialLinks": {
+      "council": "Ente Norvegese per il Turismo",
+      "tourism": "Turismo Hardangerfjord",
+      "england": "Fiordi Norvegesi"
+    },
+    "disclaimer": "Questo sito web è un progetto indipendente di informazioni turistiche di terze parti. Non siamo affiliati con il governo locale o altre istituzioni ufficiali."
+  },
+  "privacy": {
+    "title": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento: Marzo 2026",
+    "sections": [
+      {
+        "heading": "1. Raccolta delle Informazioni",
+        "content": "Generalmente non raccogliamo attivamente informazioni personali identificabili dagli utenti. Qualsiasi informazione fornita tramite moduli di contatto o email sarà mantenuta strettamente riservata."
+      },
+      {
+        "heading": "2. Uso delle Informazioni",
+        "content": "Le informazioni che raccogliamo vengono utilizzate esclusivamente per fornire, mantenere e migliorare i nostri servizi e per comunicare con voi. Non vendiamo né condividiamo le vostre informazioni personali con terze parti per scopi di marketing."
+      },
+      {
+        "heading": "3. Cookie e Tracciamento",
+        "content": "Utilizziamo cookie e tecnologie di tracciamento simili per tracciare l'attività sul nostro sito web e conservare determinate informazioni. Potete istruire il vostro browser a rifiutare tutti i cookie o a segnalare quando un cookie viene inviato."
+      },
+      {
+        "heading": "4. Sicurezza dei Dati",
+        "content": "La sicurezza dei vostri dati è importante per noi. Utilizziamo mezzi commercialmente accettabili per proteggere i vostri dati personali, sebbene nessun metodo di trasmissione su Internet sia sicuro al 100%."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento: Marzo 2026",
+    "sections": [
+      {
+        "heading": "1. Accettazione dei Termini",
+        "content": "Accedendo e utilizzando questo sito web, accetti di essere vincolato da questi termini di servizio. Se non sei d'accordo con qualsiasi parte dei termini, non potrai accedere al servizio."
+      },
+      {
+        "heading": "2. Uso del Servizio",
+        "content": "Questo sito web è un progetto indipendente di informazioni turistiche di terze parti. Le informazioni fornite sono solo a scopo informativo generale. Accetti di utilizzare il sito in modo responsabile e legale."
+      },
+      {
+        "heading": "3. Proprietà Intellettuale",
+        "content": "Tutti i contenuti di questo sito web, inclusi testi, immagini e loghi, sono di proprietà del proprietario del sito se non diversamente indicato. L'uso, la riproduzione o la distribuzione non autorizzati sono rigorosamente vietati."
+      },
+      {
+        "heading": "4. Limitazione di Responsabilità",
+        "content": "Non saremo ritenuti responsabili per eventuali danni diretti, indiretti, incidentali o consequenziali derivanti dall'uso o dall'impossibilità di utilizzare questo sito web o le informazioni in esso contenute."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazioni Cookie",
+    "description": "Gestisci le tue preferenze sui cookie.",
+    "essential": {
+      "title": "Cookie Strettamente Necessari",
+      "description": "Richiesti per le funzionalità di base del sito.",
+      "badge": "Sempre attivi"
+    },
+    "analytics": {
+      "title": "Cookie Analitici",
+      "description": "Ci aiutano a capire come i visitatori interagiscono con il sito."
+    },
+    "marketing": {
+      "title": "Cookie di Marketing",
+      "description": "Utilizzati per tracciare i visitatori tra i siti web."
+    },
+    "save": "Salva Preferenze",
+    "saved": "Preferenze salvate!"
+  },
+  "officialManagement": {
+    "title": "Informazioni su Vøringsfossen",
+    "text": "La cascata di Vøringsfossen è gestita congiuntamente dalla Direzione Norvegese delle Risorse Idriche e dal Comune di Hardanger.\nCome una delle attrazioni naturali più famose della Norvegia, Vøringsfossen è designata come Area di Protezione del Paesaggio Nazionale ed è parte del sistema di protezione del patrimonio naturale norvegese. Il sito dispone di strutture di osservazione moderne che garantiscono la sicurezza dei visitatori mentre godono della meraviglia naturale."
+  },
+  "recommendations": {
+    "title": "Scopri di Più",
+    "attractionsTitle": "Attrazioni Vicine",
+    "toursTitle": "Tour e Attività Consigliati",
+    "attractions": [
+      {"name": "Hotel Ullensvang", "url": "https://www.booking.com"},
+      {"name": "Crociera Hardangerfjord", "url": "https://www.norled.no"},
+      {"name": "Mercato del Pesce di Bergen", "url": "https://www.visitbergen.com"}
+    ],
+    "tours": [
+      {"name": "Tour Norway in a Nutshell", "url": "https://www.fjordtours.no"},
+      {"name": "Esperienza Crociera Fiordi", "url": "https://www.hurtigruten.com"},
+      {"name": "Tour Escursionistici alle Cascate", "url": "https://www.outdoorlife.no"}
+    ]
+  }
+}

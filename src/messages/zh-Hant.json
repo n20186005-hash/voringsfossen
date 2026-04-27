@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Vøringsfossen 沃林福森瀑布 | 挪威",
+    "description": "挪威沃林福森瀑布完整遊覽指南。開放時間、交通路線、精彩照片與遊客評價。"
+  },
+  "header": {
+    "home": "首頁",
+    "gallery": "圖庫",
+    "reviews": "評論",
+    "map": "地圖",
+    "backToHome": "返回首頁"
+  },
+  "hero": {
+    "title": "Vøringsfossen",
+    "subtitle": "挪威最壯觀的瀑布奇觀",
+    "rating": "4.7(8,234)",
+    "reviewCount": "8,234 則評論",
+    "hours": "24 小時開放",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索瀑布",
+    "description": "Vøringsfossen 是挪威最著名的瀑布，位於哈堂厄峽谷（Måbødalen）的陡峭岩壁之間。瀑布從峽谷邊緣傾瀉而下，落差達 182 公尺，水聲轟鳴，氣勢磅礴。這裡是挪威自然景觀的象徵，也是每位遊客必到的景點。",
+    "visitGuide": {
+      "title": "參觀指南",
+      "items": [
+        "瀑布觀景台全天候開放，無需門票即可遊覽。",
+        "從卑爾根（Bergen）沿 7 號公路驅車約 2.5 小時即可抵達。",
+        "建議穿著舒適的登山鞋，景區內有階梯和步道。",
+        "春季和夏季水量最為豐沛，景觀最為壯觀。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "景區特色",
+      "items": [
+        "挪威最高瀑布之一",
+        "哈堂厄峽谷自然保護區",
+        "北歐最壯觀的瀑布景觀"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "探索 Vøringsfossen 的自然奇觀",
+    "sections": [
+      {
+        "id": "waterfall",
+        "title": "驚人落差",
+        "content": "Vøringsfossen 總落差達 182 公尺，是挪威最高的瀑布之一。瀑布分為上下兩段，水流從峽谷邊緣傾瀉而下，形成一道壯觀的白色水簾。在觀景台上，您可以近距離感受瀑布的磅礴氣勢和水霧瀰漫的清新。"
+      },
+      {
+        "id": "canyon",
+        "title": "哈堂厄峽谷",
+        "content": "瀑布坐落於深邃的哈堂厄峽谷之中，這道峽谷是冰河時期形成的自然奇觀。峽谷兩側的懸崖峭壁高聳入雲，峽谷深度可達數百公尺。站在峽谷邊緣，您能充分感受到大自然的鬼斧神工和人類的渺小。"
+      },
+      {
+        "id": "viewpoint",
+        "title": "景觀平台",
+        "content": "現有的觀景平台建於 2018 年，提供安全且震撼的觀景體驗。平台設有玻璃圍欄，讓遊客可以安全地俯瞰瀑布和峽谷。平台距離瀑布僅有數十公尺，水霧時常飄至，讓人有置身瀑布之中的奇妙感受。"
+      },
+      {
+        "id": "history",
+        "title": "歷史傳承",
+        "content": "Vøringsfossen 自古以來就是挪威的標誌性景觀。19 世紀詩人將其描繪為人間與地獄的交界，賦予了瀑布神話色彩。如今，這裡是挪威自然旅遊的必遊之地，每年吸引數十萬來自世界各地的遊客前來朝聖。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "瀑布與峽谷的壯麗風光",
+    "captions": [
+      "Vøringsfossen 瀑布全景",
+      "哈堂厄峽谷風光",
+      "瀑布下游溪谷",
+      "觀景台遠眺",
+      "秋季峽谷色彩",
+      "瀑布水霧奇觀"
+    ],
+    "viewAll": "在 Google Maps 查看位置"
+  },
+  "reviews": {
+    "title": "真實遊客評價",
+    "declaration": "資訊可透過 Google Maps 查看（外部連結）。",
+    "moreReviews": "在 Google Maps 查看位置",
+    "items": [
+      {
+        "name": "張明",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "壯觀得令人窒息！瀑布的氣勢和水聲讓人終生難忘。觀景台的設計很棒，可以近距離感受瀑布的威力。"
+      },
+      {
+        "name": "李娜",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "來挪威必去的景點！即使是冬季，瀑布依然壯觀。建議早點到，停車場比較好找位置。"
+      },
+      {
+        "name": "王偉",
+        "date": "2026年1月",
+        "rating": 4,
+        "text": "自然風光非常美，但停車場比較小，旺季可能需要等待。建議安排充足的遊覽時間。"
+      },
+      {
+        "name": "陳靜",
+        "date": "2025年12月",
+        "rating": 5,
+        "text": "站在觀景台上，看著瀑布從高處傾瀉而下，那種震撼無法用言語形容。挪威之旅最難忘的一站！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "5785 Eidfjord, Norway",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Vøringsfossen 獨立旅遊研究協會 · 保留所有權利。",
+    "privacy": "隱私權政策",
+    "terms": "服務條款",
+    "cookies": "Cookie 設定",
+    "officialResourcesTitle": "相關資源與資訊",
+    "officialLinks": {
+      "council": "挪威旅遊局",
+      "tourism": "哈爾丁菲尤爾旅遊",
+      "england": "挪威峽灣旅遊"
+    },
+    "disclaimer": "本網站是一個獨立的第三方旅遊資訊項目。我們與當地政府或其他官方機構沒有任何關聯。"
+  },
+  "privacy": {
+    "title": "隱私權政策",
+    "lastUpdated": "最後更新：2026年3月",
+    "sections": [
+      {
+        "heading": "1. 資訊收集",
+        "content": "我們通常不會主動收集用戶的個人可識別資訊。您透過聯繫表單或電子郵件提供的任何資訊將被嚴格保密。"
+      },
+      {
+        "heading": "2. 資訊使用",
+        "content": "我們收集的資訊僅用於提供、維護和改進我們的服務，以及與您溝通。我們不會將您的個人資訊出售或分享給第三方用於行銷目的。"
+      },
+      {
+        "heading": "3. Cookie與追蹤技術",
+        "content": "我們使用Cookie和類似的追蹤技術來追蹤我們網站上的活動並保存某些資訊。您可以指示您的瀏覽器拒絕所有Cookie或在發送Cookie時進行提示。"
+      },
+      {
+        "heading": "4. 數據安全",
+        "content": "您數據的安全性對我們很重要。我們努力使用商業上可接受的方式來保護您的個人數據，但任何互聯網傳輸方法都無法保證100%安全。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服務條款",
+    "lastUpdated": "最後更新：2026年3月",
+    "sections": [
+      {
+        "heading": "1. 接受條款",
+        "content": "通過訪問和使用本網站，您同意受這些服務條款的約束。如果您不同意條款的任何部分，則不得訪問該服務。"
+      },
+      {
+        "heading": "2. 服務使用",
+        "content": "本網站是一個獨立的第三方旅遊資訊項目。提供的資訊僅供一般參考。您同意負責任且合法地使用本網站。"
+      },
+      {
+        "heading": "3. 知識產權",
+        "content": "本網站上的所有內容（包括文本、圖像和徽標）均為網站所有者的財產（另有說明的除外）。嚴禁未經授權的使用、複製或分發。"
+      },
+      {
+        "heading": "4. 責任限制",
+        "content": "對於因使用或無法使用本網站或其中包含的資訊而導致的任何直接、間接、附帶或後果性損害，我們概不負責。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 設定",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "儲存設定",
+    "saved": "設定已儲存！"
+  },
+  "officialManagement": {
+    "title": "關於 Vøringsfossen",
+    "text": "Vøringsfossen 瀑布由挪威水利資源局和哈爾丁菲尤爾市政府共同管理維護。\n作為挪威最著名的自然景觀之一，Vøringsfossen 被列為國家景觀保護區，並被納入挪威自然遺產保護體系。景區內設有現代化的觀景設施，確保遊客安全同時盡覽自然奇觀。"
+  },
+  "recommendations": {
+    "title": "探索更多",
+    "attractionsTitle": "附近景點",
+    "toursTitle": "推薦行程與活動",
+    "attractions": [
+      {"name": "哈爾丁菲尤爾峽谷酒店", "url": "https://www.booking.com"},
+      {"name": "烏勒恩峽灣火車", "url": "https://www.norled.no"},
+      {"name": "卑爾根魚市場", "url": "https://www.visitbergen.com"}
+    ],
+    "tours": [
+      {"name": "挪威縮影一日遊", "url": "https://www.fjordtours.no"},
+      {"name": "峽灣郵輪體驗", "url": "https://www Hurtigruten.com"},
+      {"name": "瀑布徒步之旅", "url": "https://www.outdoorlife.no"}
+    ]
+  }
+}
