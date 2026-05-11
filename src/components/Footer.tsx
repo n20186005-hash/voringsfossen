@@ -30,6 +30,15 @@ export default function Footer() {
               <a href="https://www.fjordnorway.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.england')}
               </a>
+              <a href="https://www.norway.no/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.norway')}
+              </a>
+              <a href="https://www.bergen.kommune.no/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.bergen')}
+              </a>
+              <a href="https://www.kulturminnesok.no/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.kulturminnesok')}
+              </a>
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">

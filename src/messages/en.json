@@ -154,7 +154,10 @@
     "officialLinks": {
       "council": "Norwegian Tourism Board",
       "tourism": "Hardangerfjord Tourism",
-      "england": "Norway Fjords"
+      "england": "Norway Fjords",
+      "norway": "Norway.no",
+      "bergen": "Bergen Kommune",
+      "kulturminnesok": "Kulturminnesøk"
     },
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
   },
