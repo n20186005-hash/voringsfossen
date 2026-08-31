@@ -1,26 +1,28 @@
 {
   "meta": {
-    "title": "Vøringsfossen Chute d'eau | Norvège",
-    "description": "Guide complet de la chute d'eau Vøringsfossen en Norvège. Heures, directions, photos et avis."
+    "title": "Vøringsfossen Chute d'eau (Eidfjord) - Guide et Localisation | Norvège",
+    "description": "Guide complet de la chute d'eau Vøringsfossen à Eidfjord, Vestland, Norvège. Heures, directions, équipements pratiques, légendes, photos et avis."
   },
   "header": {
     "home": "Accueil",
+    "transport": "Transports",
+    "facilities": "Équipements",
     "gallery": "Galerie",
     "reviews": "Avis",
     "map": "Carte",
     "backToHome": "Retour à l'accueil"
   },
   "hero": {
-    "title": "Vøringsfossen",
+    "title": "Vøringsfossen (Eidfjord)",
     "subtitle": "La chute d'eau la plus spectaculaire de Norvège",
-    "rating": "4.8(10,104)",
-    "reviewCount": "10,104 avis",
+    "rating": "4.8(11,265)",
+    "reviewCount": "11,265 avis",
     "hours": "Ouvert 24h/24",
     "openMaps": "Voir l'emplacement"
   },
   "intro": {
     "title": "Découvrir la Chute d'eau",
-    "description": "Vøringsfossen est la chute d'eau la plus célèbre de Norvège, située entre les parois rocheuses abruptes de la vallée de Måbødalen. La cascade plonge de 182 mètres du bord du canyon, créant un grondement assourdissant et une vue à couper le souffle. Elle incarne le paysage naturel norvégien et constitue une destination incontournable pour chaque visiteur.",
+    "description": "Vøringsfossen est la chute d'eau la plus célèbre de Norvège, située à Eidfjord, dans le comté de Vestland, au cœur du pays des fjords. La cascade plonge de 182 mètres du bord du canyon entre les parois rocheuses abruptes de la vallée de Måbødalen, créant un grondement assourdissant et une vue à couper le souffle. Elle incarne le paysage naturel norvégien : du plateau de Hardangervidda tout proche aux rives du lac Eidfjordvatnet, les visiteurs peuvent facilement explorer les merveilles naturelles qui entourent la cascade.",
     "visitGuide": {
       "title": "Guide de Visite",
       "items": [
@@ -52,7 +54,7 @@
       "ticket": "Prix des Billets",
       "ticketContent": "Entrée gratuite aux plateformes d'observation. Cependant, le stationnement est de 150 NOK par voiture en été (environ 100 RMB), réduit de moitié en hiver. Des achats supplémentaires sont requis au café et à la boutique de souvenirs du centre de visiteurs. Les visites guidées (environ 3 heures) organisées localement coûtent environ 600 NOK par personne.",
       "address": "Adresse",
-      "addressContent": "Vøringsfossen, 5784 Eidfjord, Norway",
+      "addressContent": "Vøringsfossen, 5785 Eidfjord, Vestland, Norway",
       "transport": "Transport",
       "transportContent": "Depuis Bergen, prenez la E16 pendant environ 2h30 jusqu'à Voss, puis tournez vers Eidfjord et continuez le long de la Riksvei 7 pendant environ 1 heure. La conduite est recommandée—les paysages de fjords en chemin sont à couper le souffle. Alternativement, prenez le train de Bergen à Voss (environ 1h30, des trains toutes les heures), puis le bus (Route 940) jusqu'à Eidfjord, environ 4 départs par jour, trajet total environ 4 heures. Depuis Oslo, la conduite prend environ 5 heures. Les pneus neige sont obligatoires en hiver, et certaines sections nécessitent une conduite prudente. Des navettes locales opèrent depuis le village d'Eidfjord, de 10h à 17h en été, 50 NOK par trajet simple."
     },
@@ -95,6 +97,86 @@
       "tips": "Conseils d'Hébergement",
       "tipsContent": "Le village d'Eidfjord est très petit avec des options d'hébergement limitées; pendant la haute saison (juin à août), réservez au moins deux mois à l'avance. Si vous conduisez et recherchez l'expérience naturelle ultime, consider campground on Hardangervidda plateau, but you need to bring your own tent or RV. Norway's \"freedom to roam\" permet le camping dans la nature pour une nuit; maintenez une distance de sécurité des rivières et emportez toutes vos ordures."
     }
+  },
+  "transport": {
+    "title": "Guide de Transport Détaillé",
+    "subtitle": "Avion, train, bus, taxi, voiture ou navette : toutes les façons d'atteindre la cascade",
+    "intro": "Vøringsfossen se trouve près du village d'Eidfjord, à la lisière sud du plateau de Hardangervidda, et est accessible toute l'année. Voici les moyens de transport les plus courants, pour choisir celui qui correspond à votre itinéraire.",
+    "airport": {
+      "title": "En Avion (Aéroport le Plus Proche)",
+      "content": "L'aéroport international le plus proche est celui de Bergen Flesland (BGO), à environ 160 km de la cascade—soit environ 3 heures de route, combinables avec les paysages de fjords le long de la Riksvei 7. Plusieurs comptoirs de location de voitures se trouvent dans le hall des arrivées, ou vous pouvez prendre la navette aéroport jusqu'au centre de Bergen puis continuer en train et en bus. L'aéroport d'Oslo Gardermoen (OSL) est une autre option, à environ 5 heures de route, idéale pour ceux qui prévoient un road-trip le long du plateau de Hardangervidda."
+    },
+    "bus": {
+      "title": "En Bus",
+      "content": "Le principal nœud est Voss : après le train de Bergen à Voss, prenez la ligne de bus 940 vers Eidfjord—environ 4 départs par jour, soit environ 4 heures au total. En été, des bus longue distance directs partent aussi de Bergen via la route du Hardanger. Les services sont nettement réduits le dimanche et les jours fériés—consultez toujours les horaires en temps réel avant de partir."
+    },
+    "taxi": {
+      "title": "En Taxi",
+      "content": "Le village d'Eidfjord propose des services de taxi réservables par téléphone à l'avance. Du centre du village au point de vue de la cascade, comptez environ 15 à 20 minutes de trajet—pratique pour les voyageurs chargés ou pressés. La demande est plus forte la nuit et en hiver ; il est conseillé de réserver la veille."
+    },
+    "car": {
+      "title": "En Voiture",
+      "content": "Depuis Bergen : prenez la E16 pendant environ 2h30 jusqu'à Voss, puis suivez les panneaux vers Eidfjord le long de la Riksvei 7 pendant environ 1 heure. Depuis Oslo, comptez environ 5 heures. En hiver (octobre à avril), des sections de montagne peuvent fermer—les pneus neige sont obligatoires et vérifiez les conditions routières en direct auprès de l'Administration norvégienne des routes publiques (Statens vegvesen) avant le départ."
+    },
+    "train": {
+      "title": "En Train",
+      "content": "La ligne Bergen–Voss prend environ 1h30 avec des départs horaires et figure parmi les plus beaux trajets ferroviaires de Norvège, traversant fjords et sommets enneigés. À Voss, prenez le bus 940 vers Eidfjord pour continuer jusqu'à la cascade. Pas besoin de conduire—idéal si vous préférez éviter la location de voiture."
+    },
+    "shuttle": {
+      "title": "Navette",
+      "content": "En été (juin à août), une navette relie le village d'Eidfjord au point de vue, environ tous les jours de 10h à 17h, à environ 50 NOK l'aller simple. Les horaires varient selon la saison—confirmez le dernier tableau d'affichage à l'office de tourisme du village à votre arrivée."
+    }
+  },
+  "facilities": {
+    "title": "Guide des Installations Pratiques",
+    "subtitle": "Toilettes, stationnement, restauration, courses et ravitaillement : tout ce qu'il faut savoir",
+    "wc": {
+      "title": "Toilettes (WC)",
+      "content": "Des toilettes publiques gratuites sont disponibles au point de vue et au centre de visiteurs, ouvertes chaque jour en haute saison (mai à septembre), avec des fermetures partielles en hiver. Les installations en montagne sont limitées—planifiez vos arrêts et apportez mouchoirs et désinfectant."
+    },
+    "parking": {
+      "title": "Stationnement",
+      "content": "Un grand parking se trouve au bord de la route principale : environ 150 NOK par voiture en été, moitié prix en hiver, avec des places réservées aux camping-cars et bus. Les places se remplissent vite en haute saison (juin à août)—arrivez avant 10h. Le point de vue est à 3 à 5 minutes à pied du parking."
+    },
+    "dining": {
+      "title": "Restauration",
+      "content": "Le centre de visiteurs abrite un café servant boissons chaudes, plats légers et pâtisseries ; le village d'Eidfjord offre également des restaurants et cafés. Les options en montagne sont limitées et les horaires varient selon la saison—apportez de l'eau et des en-cas, certains lieux ferment en hiver."
+    },
+    "shopping": {
+      "title": "Commerces",
+      "content": "Le village d'Eidfjord possède de petites supérettes et épiceries pour l'eau, les en-cas, les articles de première nécessité et l'équipement extérieur comme les cartouches de gaz. Pour de plus gros achats, faites vos courses dans des villes plus grandes comme Voss, Geilo ou Bergen avant votre arrivée—les boutiques du village sont petites."
+    },
+    "fuel": {
+      "title": "Carburant & Recharge",
+      "content": "Une station-service à Eidfjord propose essence et diesel. La Norvège a un fort taux de véhicules électriques, mais les bornes de recharge dans les fjords montagneux sont rares—planifiez vos arrêts avec une application de cartographie des bornes avant le départ ; les stations de recharge les plus denses se trouvent vers Voss ou Geilo."
+    },
+    "accessibility": {
+      "title": "Accessibilité & Services",
+      "content": "Le point de vue supérieur est accessible aux fauteuils roulants et poussettes via une rampe ; la passerelle inférieure nécessite des escaliers et n'est pas adaptée aux fauteuils. Les trousses de premiers soins sont au centre de visiteurs. Le signal mobile est le plus fort autour du centre de visiteurs et du point de vue, et peut disparaître plus profondément dans le canyon."
+    }
+  },
+  "legends": {
+    "title": "Légendes & Histoires",
+    "subtitle": "Dans le folklore norvégien, les chutes d'eau n'ont jamais été un paysage silencieux",
+    "intro": "Dans le folklore norvégien, les chutes d'eau sont les soupirs des géants, le territoire des trolls et les portes des esprits. Les légendes de Vøringsfossen remontent à mille ans, aussi durables que son grondement. La plupart de ces histoires sont des traditions orales plutôt que des faits historiques—lisez-les avec admiration.",
+    "items": [
+      {
+        "title": "Le Secret du Nom",
+        "content": "\"Vøring\" reste un mot d'origine contestée. Une théorie le rattache à une racine du vieux norrois signifiant \"garder\" ou \"avertir\"—le grondement assourdissant des chutes servant d'avertissement de la terre elle-même, disant aux voyageurs que le bord du canyon se trouve devant eux. Une autre théorie le relie à d'anciens noms de fermes locales ; au fil des siècles de tradition orale, le nom est devenu inséparable de la chute d'eau elle-même."
+      },
+      {
+        "title": "La Veille du Troll",
+        "content": "Dans le folklore norvégien, les trolls sont les gardiens des montagnes. La légende raconte qu'un vieux troll vivant au cœur du plateau de Hardangervidda tomba amoureux de la fille d'un gardien de phare au bord du fjord. Chaque pleine lune, il glissait le long des chutes pour contempler sa lumière chaleureuse. Les trolls craignent le soleil et doivent rentrer dans les montagnes avant l'aube—c'est pourquoi, dit-on, la cascade gronde toute la nuit : c'est le battement de cœur du vieux troll rentrant précipitamment chez lui."
+      },
+      {
+        "title": "L'Esprit de l'Eau",
+        "content": "Dans la tradition nordique, une créature mystérieuse appelée Nøkk habite les eaux douces. On croyait que les embruns s'élevant des chutes étaient le souffle du Nøkk. La légende dit qu'un jeune violoneux joua un jour près des chutes ; sa musique émut l'esprit de l'eau, qui sortit des embruns et lui offrit une mélodie \"capable de faire pleurer les rochers\". Dès lors, les chasseurs locaux glissaient une pièce dans leur poche en passant près des chutes, en signe de respect à l'esprit de l'eau."
+      },
+      {
+        "title": "Le Regard Romantique",
+        "content": "Au milieu du XIXe siècle, la Norvège s'acheminait vers l'indépendance vis-à-vis du Danemark. Lorsque le peintre Johan Christian Dahl captura la lumière de Vøringsfossen sur sa toile, il peignit plus qu'un paysage—il peignit l'image qu'une nation se faisait d'elle-même. Sous son pinceau et celui des poètes de son temps, la cascade en vint à incarner \"l'esprit indompté\" de la Norvège : froid, rebelle et intensément vivant. Ce regard fit d'une cascade dans un petit canyon l'âme d'une nation."
+      }
+    ]
   },
   "gallery": {
     "title": "Galerie Photo",
@@ -142,8 +224,10 @@
   },
   "mapSection": {
     "title": "Comment S'y Rendre",
-    "subtitle": "5785 Eidfjord, Norvège",
-    "openMaps": "Voir sur Google Maps"
+    "subtitle": "5785 Eidfjord, Vestland, Norvège · Plus Code C7G2+JH",
+    "openMaps": "Voir sur Google Maps",
+    "officialInfo": "Pour des informations officielles et touristiques régionales, visitez",
+    "officialPortal": "le Portail Touristique Officiel de la Norvège"
   },
   "footer": {
     "rights": "© 2026 Vøringsfossen Association Indépendante de Recherche Touristique · Tous droits réservés.",
@@ -159,6 +243,7 @@
       "bergen": "Bergen Kommune",
       "kulturminnesok": "Kulturminnesøk"
     },
+    "imageRights": "Toutes les images présentées sur ce site web sont la propriété de leurs photographes respectifs.",
     "disclaimer": "Ce site web est un projet indépendant d'informations touristiques tierces. Nous ne sommes pas affiliés au gouvernement local ou à d'autres institutions officielles."
   },
   "privacy": {
@@ -227,6 +312,29 @@
   "officialManagement": {
     "title": "À propos de Vøringsfossen",
     "text": "La cascade Vøringsfossen est gérée conjointement par la Direction Norvégienne des Ressources en Eau et la Municipalité de Hardanger.\nEn tant que l'une des attractions naturelles les plus célèbres de Norvège, Vøringsfossen est désignée comme Zone de Protection du Paysage National et fait partie du système norvégien de protection du patrimoine naturel. Le site dispose d'installations d'observation modernes garantissant la sécurité des visiteurs tout en profitant de cette merveille naturelle."
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Les réponses aux questions les plus courantes sur Vøringsfossen",
+    "items": [
+      {"q": "Où se trouve Vøringsfossen ?", "a": "Vøringsfossen se trouve à Eidfjord, dans le comté de Vestland, en Norvège. Le point de vue est accessible en voiture le long de la Riksvei 7."},
+      {"q": "La visite de Vøringsfossen est-elle gratuite ?", "a": "Oui, l'accès aux plateformes d'observation est gratuit. Le stationnement coûte environ 150 NOK par voiture en été (moitié prix en hiver)."},
+      {"q": "Comment se rendre à Vøringsfossen ?", "a": "En voiture depuis Bergen (environ 2h30 jusqu'à Voss, puis 1 heure le long de la Riksvei 7) ou depuis Oslo (environ 5 heures). Sinon, prenez le train de Bergen à Voss, puis le bus (ligne 940) jusqu'à Eidfjord."},
+      {"q": "Quelle est la meilleure période pour visiter ?", "a": "De mai à septembre, lorsque la fonte des neiges rend la cascade la plus puissante. La cascade est visitable toute l'année."},
+      {"q": "Quelle est la hauteur de Vøringsfossen ?", "a": "La chute totale est d'environ 182 mètres, divisée en deux sections, ce qui en fait l'une des plus hautes chutes d'eau de Norvège."},
+      {"q": "Quels équipements sont disponibles ?", "a": "Un centre de visiteurs avec café et boutique de souvenirs, un parking, des toilettes publiques et une plateforme d'observation moderne accessible en fauteuil roulant."}
+    ]
+  },
+  "sources": {
+    "title": "Sources et Références",
+    "subtitle": "Informations vérifiées auprès de sources officielles et faisant autorité",
+    "intro": "Les informations de ce site ont été rassemblées et vérifiées auprès de sources officielles et faisant autorité, pour garantir leur exactitude et leur actualité.",
+    "items": [
+      {"name": "Visit Norway - Office National Norvégien du Tourisme", "url": "https://www.visitnorway.com/", "desc": "Portail touristique officiel de la Norvège"},
+      {"name": "Fjord Norway", "url": "https://www.fjordnorway.com/", "desc": "Office du tourisme officiel de la région des fjords"},
+      {"name": "Tourisme Hardangerfjord", "url": "https://www.hardangerfjord.com/", "desc": "Informations touristiques officielles de la région de Hardanger"},
+      {"name": "Statens vegvesen", "url": "https://www.vegvesen.no/", "desc": "Administration norvégienne des routes publiques - conditions routières en temps réel"}
+    ]
   },
   "recommendations": {
     "title": "Découvrez Plus",

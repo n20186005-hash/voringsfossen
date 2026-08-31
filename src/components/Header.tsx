@@ -1,12 +1,14 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
 export default function Header() {
   const t = useTranslations('header');
+  const locale = useLocale();
+  const prefix = locale === 'it' ? '' : `/${locale}`;
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -25,15 +27,15 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href="/" className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a href={prefix || '/'} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
           Vøringsfossen
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
-          {(['gallery', 'reviews', 'map'] as const).map((section) => (
+          {(['transport', 'facilities', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
-              href={`/#${section}`}
+              href={`${prefix}/#${section}`}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >

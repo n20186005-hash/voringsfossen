@@ -4,20 +4,18 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: 'Vøringsfossen waterfall全景' },
-  { src: '/gallery/images (2).jpg', alt: 'Måbødalen峡谷风光' },
-  { src: '/gallery/images (3).jpg', alt: '瀑布下游溪流' },
-  { src: '/gallery/images (4).jpg', alt: '观景台远眺' },
-  { src: '/gallery/images (5).jpg', alt: '秋季峡谷色彩' },
-  { src: '/gallery/images (6).jpg', alt: '瀑布水雾奇观' },
-  { src: '/gallery/images (7).jpg', alt: '挪威自然风光' },
-  { src: '/gallery/images (8).jpg', alt: '峡谷岩壁' },
-  { src: '/gallery/images (9).jpg', alt: '瀑布近景' },
-  { src: '/gallery/images (10).jpg', alt: '航拍视角' },
-  { src: '/gallery/images (11).jpg', alt: '黄昏时分' },
-  { src: '/gallery/images (12).jpg', alt: '徒步小径' },
-  { src: '/gallery/images (13).jpg', alt: '瀑布全景' },
-  { src: '/gallery/images (14).jpg', alt: '壮丽峡谷' },
+  { src: '/gallery/images (1).jpg', alt: 'Vøringsfossen - Main view in Eidfjord, Norway' },
+  { src: '/gallery/images (2).jpg', alt: 'Vøringsfossen and the Måbødalen valley in Eidfjord' },
+  { src: '/gallery/images (3).jpg', alt: 'Vøringsfossen waterfall and the river downstream' },
+  { src: '/gallery/images (4).jpg', alt: 'Vøringsfossen viewpoint overlooking the canyon' },
+  { src: '/gallery/images (5).jpg', alt: 'Autumn colors in the Måbødalen valley near Vøringsfossen' },
+  { src: '/gallery/images (6).jpg', alt: 'Mist rising from the Vøringsfossen waterfall' },
+  { src: '/gallery/images (7).jpg', alt: 'Vøringsfossen surrounded by Norwegian highland nature' },
+  { src: '/gallery/images (8).jpg', alt: 'Canyon cliffs at Vøringsfossen in Eidfjord' },
+  { src: '/gallery/images (9).jpg', alt: 'Close-up of the Vøringsfossen waterfall' },
+  { src: '/gallery/images (10).jpg', alt: 'Aerial view of Vøringsfossen and the Hardangervidda plateau' },
+  { src: '/gallery/images (11).jpg', alt: 'Vøringsfossen at dusk in Eidfjord, Norway' },
+  { src: '/gallery/images (12).jpg', alt: 'Hiking trail near the Vøringsfossen viewpoint' },
 ];
 
 export default function Gallery() {
@@ -97,7 +95,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/AgNGvjGEwqCpBbdt8"
+                href="https://maps.app.goo.gl/PZQzhiFGsZvDZa5Y7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

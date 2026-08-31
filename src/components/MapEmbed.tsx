@@ -25,21 +25,21 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1950.683746953125!2d7.24327765!3d60.12345678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNjDCsDA3JzI0LjAiTiA3wrAxNCc1My4wIkU!5e0!3m2!1sen!2sno!4v1714510014129!5m2!1sen!2sno"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14009.533911776904!2d7.2324114!3d60.4265721!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463e5fb3c511f01f%3A0x922df9ae6d08d909!2sV%C3%B8ringsfossen!5e1!3m2!1szh-CN!2s!4v1788189415682!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Vøringsfossen Waterfall"
+            title="Google Maps - Vøringsfossen, Eidfjord, Norway"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/AgNGvjGEwqCpBbdt8"
+            href="https://maps.app.goo.gl/PZQzhiFGsZvDZa5Y7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
@@ -57,6 +57,20 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Official tourism portal link */}
+        <p className="mt-6 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {t('officialInfo')}{' '}
+          <a
+            href="https://www.visitnorway.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialPortal')}
+          </a>
+        </p>
       </div>
     </section>
   );
