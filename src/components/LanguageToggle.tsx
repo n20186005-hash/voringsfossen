@@ -5,10 +5,11 @@ import { useRouter, usePathname } from 'next/navigation';
 import { routing, type Locale } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
-const labels: Record<string, string> = {
-  it: 'Italiano',
+const labels: Record<Locale, string> = {
   en: 'English',
   fr: 'Français',
+  it: 'Italiano',
+  no: 'Norsk',
   'zh-Hant': '繁體中文',
 };
 
@@ -43,14 +44,8 @@ export default function LanguageToggle() {
     }
     
     // Construct new path
-    const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '/';
-    
-    // Navigate
-    if (next === routing.defaultLocale) {
-      router.push(pathWithoutLocale);
-    } else {
-      router.push(`/${next}${pathWithoutLocale === '/' ? '' : pathWithoutLocale}`);
-    }
+    const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '';
+    router.push(`/${next}${pathWithoutLocale}`);
   }
 
   return (
@@ -69,7 +64,7 @@ export default function LanguageToggle() {
           <line x1="2" y1="12" x2="22" y2="12"/>
           <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
         </svg>
-        {labels[locale]}
+        {labels[locale as Locale]}
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className={`transition-transform ${open ? 'rotate-180' : ''}`}>
           <polyline points="6 9 12 15 18 9"/>
         </svg>

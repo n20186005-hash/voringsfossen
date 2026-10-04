@@ -15,9 +15,9 @@
   "hero": {
     "title": "Vøringsfossen (Eidfjord)",
     "subtitle": "La chute d'eau la plus spectaculaire de Norvège",
-    "rating": "4.8(11,265)",
-    "reviewCount": "11,265 avis",
-    "hours": "Ouvert 24h/24",
+    "rating": "4.8",
+    "reviewCount": "11 k+ avis Google",
+    "hours": "Cascade toute l'année · services saisonniers",
     "openMaps": "Voir l'emplacement"
   },
   "intro": {
@@ -26,7 +26,7 @@
     "visitGuide": {
       "title": "Guide de Visite",
       "items": [
-        "Le point d'observation de la cascade est ouvert 24h/24, sans billet requis.",
+        "La cascade est visible toute l'année ; points de vue, sentiers et services sont saisonniers.",
         "Environ 2h30 de route depuis Bergen via la Route 7.",
         "Portez des chaussures de randonnée confortables, il y a des escaliers et des sentiers.",
         "Le printemps et l'été offrent les débits d'eau les plus impressionnants."
@@ -50,9 +50,9 @@
     "basicInfo": {
       "title": "Informations de Base",
       "hours": "Heures d'Ouverture",
-      "hoursContent": "Ouvert toute l'année, mais la meilleure période de visite est de mai à septembre, lorsque la fonte des neiges crée le plus grand volume d'eau et que la cascade displays son pouvoir le plus majestueux. Certaines plateformes d'observation ferment en hiver en raison de la neige, mais vous pouvez voir depuis la route principale. Il est recommandé de vérifier les conditions de circulation en temps réel auprès de l'Administration norvégienne des routes publiques (Statens vegvesen) avant le départ, particulièrement d'octobre à avril lorsque les routes de montagne peuvent être fermées. Les plateformes d'observation elles-mêmes n'ont pas de restrictions d'horaire, mais le centre de visiteurs est ouvert de 10h à 18h en été, avec des horaires réduits le reste de l'année.",
-      "ticket": "Prix des Billets",
-      "ticketContent": "Entrée gratuite aux plateformes d'observation. Cependant, le stationnement est de 150 NOK par voiture en été (environ 100 RMB), réduit de moitié en hiver. Des achats supplémentaires sont requis au café et à la boutique de souvenirs du centre de visiteurs. Les visites guidées (environ 3 heures) organisées localement coûtent environ 600 NOK par personne.",
+      "hoursContent": "La cascade est visible toute l'année depuis les zones accessibles, mais les points de vue, le pont à marches, les sentiers, les parkings et les toilettes sont saisonniers. Ils sont généralement disponibles du printemps à l'automne et peuvent fermer plus tôt ou ouvrir plus tard selon la neige et le verglas. Consultez Norwegian Scenic Routes et Statens vegvesen avant le départ, surtout d'octobre à avril.",
+      "ticket": "Accès et Stationnement",
+      "ticketContent": "L'accès à Vøringsfossen est gratuit. Les informations touristiques officielles du Hardanger indiquent que les parkings de Fossli et Fossatromma sont également gratuits. Les parkings et services peuvent fermer en hiver ou lorsque les conditions sont dangereuses ; vérifiez les informations officielles avant le départ.",
       "address": "Adresse",
       "addressContent": "Vøringsfossen, 5785 Eidfjord, Vestland, Norway",
       "transport": "Transport",
@@ -63,7 +63,7 @@
       "historicalStatus": "Importance Historique",
       "historicalStatusContent": "L'une des chutes d'eau les plus célèbres de Norvège, un hotspot touristique et de recherche géologique depuis le 19e siècle, et le symbole naturel où le plateau de Hardangervidda rencontre les fjords.",
       "historyBackground": "Contexte Historique",
-      "historyBackgroundContent": "L'histoire de Vøringsfossen a commencé il y a environ dix mille ans, lorsque la dernière période glaciaire s'est terminée. Au fur et à mesure que les glaciers se retiraient, ils laissaient derrière eux des fjords en forme de U et des falaises abruptes. L'eau de fonte du plateau de Hardangervidda s'écoulait à travers les vallées de rift, formant cette cascade dans la vallée de Bjoreiddalen. Les premiers enregistrements provenaient de missionnaires dano-norvégiens du 18e siècle, qui l'appelaient \"le rideau d'eau terrifiant\". Mais ce n'est qu'au milieu du 19e siècle, avec la montée du romantisme européen, que les intellectuelle norvégiens ont commencé à considérer leurs chutes d'eau, fjords et glaciers comme des symboles de l'esprit national, truly amenant Vøringsfossen dans la conscience publique. Dans les années 1840, le peintre Johan Christian Dahl a capturé le jeu de lumière ici, et son œuvre a causé une sensation lors de son exposition à Copenhague. Explorateurs et voyageurs ont bientôt suivi. Les Britanniques ont été les premiers à construire un chemin de diligence d'Eidfjord aux chutes, et en 1880 un petit hôtel a ouvert pour les visiteurs épuisés. Pendant la Seconde Guerre mondiale, les combattants de la résistance norvégienne ont utilisé le terrain près des chutes pour cacher des fournitures aux patrouilles nazies. Dans les années 1960, avec l'accès routier établi, c'est devenu un arrêt obligatoire pour les road trips. En 2012, un glissement de terrain a presque changé le cours de la cascade; les scientifiques ont rapidement construit un canal de déviation après une évaluation d'urgence. En 2020, une toute nouvelle plateforme d'observation en porte-à-faux a ouvert, conçue par le cabinet d'architecture norvégien Reiulf Ramstad Arkitekter, qui a passé cinq ans à étudier les formations rocheuses pour finalement créer une plateforme d'observation qui semble pousser naturellement de la falaise. Aujourd'hui, Vøringsfossen attire plus de 300 000 visiteurs par an, mais son âme reste inchangée—cette puissance froide, mouillée, primitive, où chaque ruée d'eau semble raconter la première fissure de glace il y a dix mille ans lorsque le glacier s'est retiré pour la première fois.",
+      "historyBackgroundContent": "L'histoire de Vøringsfossen a commencé il y a environ dix mille ans, lorsque la dernière période glaciaire s'est terminée. Au fur et à mesure que les glaciers se retiraient, ils laissaient derrière eux des fjords en forme de U et des falaises abruptes. L'eau de fonte du plateau de Hardangervidda s'écoulait à travers les vallées de rift, formant cette cascade dans la vallée de Bjoreiddalen. Les premiers enregistrements provenaient de missionnaires dano-norvégiens du 18e siècle, qui l'appelaient \"le rideau d'eau terrifiant\". Mais ce n'est qu'au milieu du 19e siècle, avec la montée du romantisme européen, que les intellectuelle norvégiens ont commencé à considérer leurs chutes d'eau, fjords et glaciers comme des symboles de l'esprit national, truly amenant Vøringsfossen dans la conscience publique. Dans les années 1840, le peintre Johan Christian Dahl a capturé le jeu de lumière ici, et son œuvre a causé une sensation lors de son exposition à Copenhague. Explorateurs et voyageurs ont bientôt suivi. Les Britanniques ont été les premiers à construire un chemin de diligence d'Eidfjord aux chutes, et en 1880 un petit hôtel a ouvert pour les visiteurs épuisés. Pendant la Seconde Guerre mondiale, les combattants de la résistance norvégienne ont utilisé le terrain près des chutes pour cacher des fournitures aux patrouilles nazies. Dans les années 1960, avec l'accès routier établi, c'est devenu un arrêt obligatoire pour les road trips. En 2012, un glissement de terrain a presque changé le cours de la cascade; les scientifiques ont rapidement construit un canal de déviation après une évaluation d'urgence. En 2020, une toute nouvelle plateforme d'observation en porte-à-faux a ouvert, conçue par l'architecte Carl-Viggo Hølmebakk dans le cadre des Routes touristiques nationales de Norvège. Le projet comprend des chemins sécurisés et le pont à marches au-dessus des gorges. Aujourd'hui, Vøringsfossen attire plus de 300 000 visiteurs par an, mais son âme reste inchangée—cette puissance froide, mouillée, primitive, où chaque ruée d'eau semble raconter la première fissure de glace il y a dix mille ans lorsque le glacier s'est retiré pour la première fois.",
       "culturalValue": "Valeur Culturelle",
       "culturalValueContent": "Comme source d'inspiration pendant la période du romantisme national norvégien, elle est apparue dans de nombreuses peintures et poèmes. La culture samie locale la considère comme sacrée, et des vestiges sacrificiels demeurent à ce jour."
     },
@@ -81,7 +81,7 @@
       "steps": "Étapes du Circuit",
       "stepsContent": "Tôt le matin, marchez sur la nouvelle plateforme d'observation en acier—elle vous donnera une sensation vertigineuse de flotter au-dessus du canyon, avec la cascade rugissant à une douzaine de mètres à votre droite\nDescendez lentement les escaliers le long de la paroi rocheuse, chaque pas révélant l'eau taillant différentes formes sur le rocher, le son devenant plus fort, assez fort pour briser toutes vos pensées vagabondes\nDescendez à une plateforme rocheuse naturelle à mi-chemin—ici il y a presque pas de touristes—vous pouvez vous asseoir sur de la mousse mouillée par les embruns et regarder tranquillement où la cascade se divise en deux courants\nContinuez vers le bas jusqu'au sentier de planche en bois au fond, où le point final est un petit pavillon en bois; debout ici, les embruns de la cascade humidifieront instantanément vos cheveux, et des arcs-en-ciel doubles apparaissent lorsque la lumière du soleil brille à travers\nSi votre énergie le permet, depuis la fin du sentier de planche, marchez encore 200 mètres plus profondément dans le canyon, où un tas de pierres ancien laissé par des chasseurs se trouve—vous pouvez voir le profil complet de la cascade de côté\nRetournez au deuxième étage du centre de visiteurs, commandez un chocolat chaud, asseyez-vous près de la fenêtre du sol au plafond et regardez la lumière et l'ombre se déplacer lentement sur la cascade; attendez jusqu'après 14h quand les groupes en bus partent, et toute la zone retrouve sa tranquillité",
       "tips": "Conseils pour le Circuit",
-      "tipsContent": "Ne portez jamais de talons hauts ou de chaussures en cuir—le sentier de planche et les sections rocheuses sont extrêmement glissants. Portez des chaussures de randonnée imperméables. Il n'y a pas de rambardes au bord de la plateforme, alors soyez extrêmement prudent lorsque vous prenez des photos, especialmente les jours de vent quand les embruns rendent les surfaces métalliques aussi glissantes que de la glace. Si vous voulez éviter les foules, try to avoid Norwegian public holidays like Constitution Day on May 17th."
+      "tipsContent": "Portez des chaussures imperméables avec une bonne adhérence : embruns, pluie, neige et verglas peuvent rendre les chemins et surfaces métalliques glissants. Le parcours officiel utilise des chemins sécurisés et des clôtures de protection, mais les pentes et la météo de montagne exigent toujours de la prudence. Ne franchissez jamais les barrières et n'entrez pas sur un sentier fermé."
     },
     "photography": {
       "title": "Guide Photographique",
@@ -136,7 +136,7 @@
     },
     "parking": {
       "title": "Stationnement",
-      "content": "Un grand parking se trouve au bord de la route principale : environ 150 NOK par voiture en été, moitié prix en hiver, avec des places réservées aux camping-cars et bus. Les places se remplissent vite en haute saison (juin à août)—arrivez avant 10h. Le point de vue est à 3 à 5 minutes à pied du parking."
+      "content": "D'après les informations touristiques officielles du Hardanger, les parkings de Fossli et Fossatromma sont gratuits. Ces deux zones donnent accès à différentes parties du parcours panoramique. Capacité, accès routier et services sont saisonniers et peuvent être affectés par la neige ; arrivez tôt en haute saison et respectez les fermetures."
     },
     "dining": {
       "title": "Restauration",
@@ -230,7 +230,7 @@
     "officialPortal": "le Portail Touristique Officiel de la Norvège"
   },
   "footer": {
-    "rights": "© 2026 Vøringsfossen Association Indépendante de Recherche Touristique · Tous droits réservés.",
+    "rights": "© 2026 Guide indépendant de Vøringsfossen.",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
     "cookies": "Paramètres des Cookies",
@@ -310,15 +310,15 @@
     "saved": "Préférences enregistrées !"
   },
   "officialManagement": {
-    "title": "À propos de Vøringsfossen",
-    "text": "La cascade Vøringsfossen est gérée conjointement par la Direction Norvégienne des Ressources en Eau et la Municipalité de Hardanger.\nEn tant que l'une des attractions naturelles les plus célèbres de Norvège, Vøringsfossen est désignée comme Zone de Protection du Paysage National et fait partie du système norvégien de protection du patrimoine naturel. Le site dispose d'installations d'observation modernes garantissant la sécurité des visiteurs tout en profitant de cette merveille naturelle."
+    "title": "Guide indépendant",
+    "text": "Ce site n'est pas le site officiel de Vøringsfossen. Les aménagements font partie des Routes touristiques nationales de Norvège. Avant le départ, vérifiez toujours la route, la météo, l'accès saisonnier et la sécurité auprès des sources officielles et régionales responsables."
   },
   "faq": {
     "title": "Questions Fréquentes",
     "subtitle": "Les réponses aux questions les plus courantes sur Vøringsfossen",
     "items": [
       {"q": "Où se trouve Vøringsfossen ?", "a": "Vøringsfossen se trouve à Eidfjord, dans le comté de Vestland, en Norvège. Le point de vue est accessible en voiture le long de la Riksvei 7."},
-      {"q": "La visite de Vøringsfossen est-elle gratuite ?", "a": "Oui, l'accès aux plateformes d'observation est gratuit. Le stationnement coûte environ 150 NOK par voiture en été (moitié prix en hiver)."},
+      {"q": "La visite de Vøringsfossen est-elle gratuite ?", "a": "Oui. L'accès est gratuit et les informations touristiques officielles du Hardanger indiquent que les parkings de Fossli et Fossatromma sont gratuits. Les fermetures saisonnières peuvent toucher parkings et services."},
       {"q": "Comment se rendre à Vøringsfossen ?", "a": "En voiture depuis Bergen (environ 2h30 jusqu'à Voss, puis 1 heure le long de la Riksvei 7) ou depuis Oslo (environ 5 heures). Sinon, prenez le train de Bergen à Voss, puis le bus (ligne 940) jusqu'à Eidfjord."},
       {"q": "Quelle est la meilleure période pour visiter ?", "a": "De mai à septembre, lorsque la fonte des neiges rend la cascade la plus puissante. La cascade est visitable toute l'année."},
       {"q": "Quelle est la hauteur de Vøringsfossen ?", "a": "La chute totale est d'environ 182 mètres, divisée en deux sections, ce qui en fait l'une des plus hautes chutes d'eau de Norvège."},

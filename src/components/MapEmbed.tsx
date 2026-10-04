@@ -20,10 +20,6 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14009.533911776904!2d7.2324114!3d60.4265721!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463e5fb3c511f01f%3A0x922df9ae6d08d909!2sV%C3%B8ringsfossen!5e1!3m2!1szh-CN!2s!4v1788189415682!5m2!1szh-CN!2s"
             width="100%"
@@ -39,7 +35,7 @@ export default function MapEmbed() {
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/PZQzhiFGsZvDZa5Y7"
+            href="https://maps.app.goo.gl/AgNGvjGEwqCpBbdt8"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"

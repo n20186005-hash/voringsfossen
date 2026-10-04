@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "title": "Vøringsfossen i Eidfjord – Parkering, Utsiktspunkt og Besøksguide",
+    "description": "Planlegg besøket til Vøringsfossen i Eidfjord. Se gratis parkering, utsiktspunkt, trappebroen, sesongstenginger, turmuligheter og veien fra Bergen."
+  },
+  "header": {
+    "home": "Forside",
+    "transport": "Reise",
+    "facilities": "Fasiliteter",
+    "gallery": "Bilder",
+    "reviews": "Vurderinger",
+    "map": "Kart",
+    "backToHome": "Tilbake til forsiden"
+  },
+  "hero": {
+    "title": "Vøringsfossen i Eidfjord",
+    "subtitle": "Parkering, utsiktspunkt og sesonginformasjon",
+    "rating": "4.8",
+    "reviewCount": "11 000+ Google-anmeldelser",
+    "hours": "Fossen hele året · anlegg sesongåpent",
+    "openMaps": "Vis i kart"
+  },
+  "intro": {
+    "title": "Opplev Vøringsfossen",
+    "description": "Vøringsfossen ligger i Eidfjord i Vestland og er et av de mest kjente fossefallene langs Nasjonal turistveg Hardangervidda. Vannet faller 182 meter ned i Måbødalen. Utsiktspunkter, sikrede gangveier og trappebroen gir flere perspektiver på fossen når anlegget er åpent.",
+    "visitGuide": {
+      "title": "Kort besøksguide",
+      "items": [
+        "Fossen kan sees hele året, mens utsiktspunkt, stier og serviceanlegg er sesongåpne.",
+        "Fossli og Fossatromma har gratis parkering ifølge offisiell besøksinformasjon.",
+        "Bruk sko med godt grep; vannsprut, regn og is kan gjøre underlaget glatt.",
+        "Sjekk åpne veier og anlegg før du reiser, særlig fra oktober til april."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Høydepunkter",
+      "items": [
+        "182 meter samlet fallhøyde",
+        "Trappebro over juvet",
+        "Nasjonal turistveg Hardangervidda"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Besøksguide til Vøringsfossen",
+    "coreIntro": {
+      "title": "Kort om fossen",
+      "content": "Vøringsfossen fører vann fra Hardangervidda ned i den bratte Måbødalen. Vannføring, sikt og føreforhold varierer mye gjennom året. På åpne sommerdager kan du følge det tilrettelagte anlegget mellom Fossli og Fossatromma; om vinteren kan snø og is føre til at utsiktspunkt, bro, stier, parkering eller toaletter er stengt."
+    },
+    "basicInfo": {
+      "title": "Praktisk informasjon",
+      "hours": "Sesong og åpning",
+      "hoursContent": "Fossen er synlig hele året fra områder som er tilgjengelige, men utsiktspunkt, trappebro, stier, parkeringsplasser og toaletter er sesongåpne. De er vanligvis tilgjengelige fra vår til høst, med datoer som avhenger av snø og is. Sjekk Nasjonale turistveger og Statens vegvesen før avreise.",
+      "ticket": "Adgang og parkering",
+      "ticketContent": "Det er gratis å besøke Vøringsfossen. Offisiell besøksinformasjon for Hardanger oppgir også gratis parkering ved Fossli og Fossatromma. Vinterstenging eller krevende forhold kan påvirke tilgangen.",
+      "address": "Adresse",
+      "addressContent": "Vøringsfossen, 5785 Eidfjord, Norge",
+      "transport": "Slik kommer du hit",
+      "transportContent": "Vøringsfossen ligger ved riksvei 7 over Hardangervidda, omtrent 20 minutter med bil fra Eidfjord sentrum under normale forhold. Fra Bergen følger du E16 mot Voss og videre mot Hardanger og Eidfjord. Kollektiv- og skytteltilbud varierer med sesongen; kontroller gjeldende rutetider før du reiser."
+    },
+    "history": {
+      "title": "Historie og landskap",
+      "historicalStatus": "Et tidlig reisemål",
+      "historicalStatusContent": "Vøringsfossen ble et kjent reisemål på 1800-tallet og er i dag et sentralt stopp langs Nasjonal turistveg Hardangervidda.",
+      "historyBackground": "Utviklingen av utsiktsanlegget",
+      "historyBackgroundContent": "Det moderne besøksanlegget er utviklet trinnvis som del av Nasjonale turistveger. Arkitekt Carl-Viggo Hølmebakk har tegnet prosjektet, inkludert sikrede gangforbindelser, utsiktspunkt og trappebroen som åpnet i 2020.",
+      "culturalValue": "Landskapsverdi",
+      "culturalValueContent": "Fossen viser overgangen mellom høyfjellet på Hardangervidda og fjordlandskapet i Eidfjord. Tilretteleggingen er utformet for å gi innsyn i landskapet uten å skjule juvet og fossens skala."
+    },
+    "architecture": {
+      "title": "Arkitektur og utsiktspunkt",
+      "features": "Trappebro og gangveier",
+      "featuresContent": "Trappebroen krysser juvet med 99 trinn og binder sammen deler av det tilrettelagte besøksanlegget. Følg skilting og stengte porter når vær eller vedlikehold begrenser adgangen.",
+      "style": "Tilpasset terrenget",
+      "styleContent": "Stål, stein og tydelige geometriske linjer er brukt for å føre besøkende gjennom det bratte terrenget. Arkitekturen er tegnet av Carl-Viggo Hølmebakk for Nasjonale turistveger."
+    },
+    "tourRoute": {
+      "title": "Forslag til besøksrunde",
+      "overview": "Mellom Fossli og Fossatromma",
+      "overviewContent": "Hovedområdet er organisert rundt Fossli og Fossatromma. Når hele anlegget er åpent, kan du bruke omtrent 1–2 timer på utsiktspunktene, trappene og trappebroen. Snø, is, vedlikehold eller høyt vann kan stenge deler av ruten.",
+      "steps": "Steg for steg",
+      "stepsContent": "Velg Fossli eller Fossatromma etter dagens tilgang og parkeringsforhold\nLes informasjonstavlene og kontroller hvilke stier og utsiktspunkt som er åpne\nFølg den merkede og sikrede ruten uten å krysse sperringer\nBeregn ekstra tid ved vått underlag, trapper og skiftende fjellvær\nReturner langs skiltet rute og sjekk veiforhold før videre kjøring",
+      "tips": "Sikkerhet",
+      "tipsContent": "Bruk vanntette sko med godt grep. Den offisielle ruten har sikrede stier og sikkerhetsgjerder, men bratte fall, vannsprut og raskt skiftende fjellvær krever fortsatt forsiktighet. Kryss aldri sperringer, og gå ikke inn på en stengt sti."
+    },
+    "photography": {
+      "title": "Fotografering",
+      "spots": "Motiver",
+      "spotsContent": "Hovedutsiktspunktene: oversikt over fossen og Måbødalen\nTrappebroen: linjer i arkitekturen mot juvet\nFossatromma: perspektiv mot vannfallet og det bratte landskapet\nFossli: vid utsikt når sikt og åpne stier tillater det",
+      "tips": "Fototips",
+      "tipsContent": "Beskytt kamera og telefon mot vannsprut. Hold deg på den sikrede ruten, ikke blokker smale passasjer, og kontroller lokale regler før eventuell droneflyging."
+    },
+    "accommodation": {
+      "title": "Overnatting",
+      "recommendations": "Hvor kan du bo?",
+      "recommendationsContent": "Eidfjord: nærmest fossen og et godt utgangspunkt for en tidlig start\nVoss: større utvalg og forbindelse mot Bergen\nGeilo: praktisk for reisende som krysser Hardangervidda fra øst",
+      "tips": "Planlegging",
+      "tipsContent": "Bestill tidlig i hovedsesongen. Kontroller kjøretid og veiforhold før du velger base, og bruk offisielle bestillingskanaler for oppdatert tilgjengelighet."
+    }
+  },
+  "transport": {
+    "title": "Slik kommer du til Vøringsfossen",
+    "subtitle": "Bil, buss og sesongtransport til Eidfjord og fossen",
+    "intro": "Riksvei 7 er hovedadkomsten. Vær og sesong påvirker både fjellveien og kollektivtilbudet, så kontroller oppdaterte reiseopplysninger før avreise.",
+    "airport": {
+      "title": "Med fly",
+      "content": "Bergen lufthavn er det vanligste utgangspunktet for reisende fra vest. Fortsett med leiebil eller kollektivtransport via Bergen, Voss og Eidfjord. Oslo lufthavn kan passe for en lengre biltur over Hardangervidda."
+    },
+    "bus": {
+      "title": "Med buss",
+      "content": "Bussforbindelser til Eidfjord varierer gjennom året. Søk på Entur eller hos gjeldende operatør for datoen du skal reise; en billett til Eidfjord innebærer ikke nødvendigvis transport helt opp til utsiktspunktene."
+    },
+    "taxi": {
+      "title": "Med taxi",
+      "content": "Taxi fra Eidfjord kan være et alternativ når sesongtransport ikke går. Bestill på forhånd, avtal retur og bekreft pris og hentested direkte med operatøren."
+    },
+    "car": {
+      "title": "Med bil",
+      "content": "Følg riksvei 7 fra Eidfjord mot Hardangervidda. Fra Bergen går vanlig rute via Voss og Hardanger. Fra øst følger du riksvei 7 over fjellet når veien er åpen. Sjekk trafikkmeldinger, kolonnekjøring og vinterkrav hos Statens vegvesen."
+    },
+    "train": {
+      "title": "Med tog",
+      "content": "Det går ikke tog til Eidfjord. Bergen–Voss-banen kan kombineres med buss videre, men korrespondanser og siste etappe til fossen må kontrolleres for aktuell dato."
+    },
+    "shuttle": {
+      "title": "Sesongtransport",
+      "content": "Det kan gå sesongbasert transport mellom Eidfjord og Vøringsfossen i hovedsesongen. Operatør, stopp og rutetider kan endres fra år til år; bekreft tilbudet hos Visit Eidfjord eller turistinformasjonen før du planlegger en bilfri tur."
+    }
+  },
+  "facilities": {
+    "title": "Praktiske fasiliteter",
+    "subtitle": "Parkering, toaletter, mat og tilgjengelighet",
+    "wc": {
+      "title": "Toaletter",
+      "content": "Toaletter er knyttet til det sesongåpne besøksanlegget og kan være stengt om vinteren. Planlegg stopp før du kjører opp på fjellet."
+    },
+    "parking": {
+      "title": "Parkering",
+      "content": "Parkering ved Fossli og Fossatromma er gratis ifølge offisiell besøksinformasjon for Hardanger. Områdene gir tilgang til ulike deler av utsiktsruten. Kapasitet, veiadkomst og fasiliteter er sesongavhengige."
+    },
+    "dining": {
+      "title": "Mat og drikke",
+      "content": "Servering i området er sesongavhengig. Ta med vann og enkel mat, og sjekk åpningstider samme dag. Eidfjord sentrum har flere tilbud i hovedsesongen."
+    },
+    "shopping": {
+      "title": "Butikker",
+      "content": "Kjøp nødvendige varer i Eidfjord, Voss eller Geilo før du kjører videre. Utvalget nær fossen er begrenset og sesongavhengig."
+    },
+    "fuel": {
+      "title": "Drivstoff og lading",
+      "content": "Planlegg drivstoff eller lading før fjellovergangen. Bruk en oppdatert lade- eller drivstoffapp, siden kapasitet og tilgjengelighet kan endres."
+    },
+    "accessibility": {
+      "title": "Tilgjengelighet",
+      "content": "Deler av området har trinnfri tilgang, mens trappebroen og flere forbindelser har trapper og bratte partier. Kontroller dagens åpne adkomst og følg skiltet tilgjengelig rute."
+    }
+  },
+  "legends": {
+    "title": "Fortellinger og landskap",
+    "subtitle": "Fossen i norsk reisehistorie og fortellertradisjon",
+    "intro": "Vøringsfossen har inspirert reisende, kunstnere og lokale fortellinger. Skill mellom dokumentert historie og muntlige sagn når du leser videre.",
+    "items": [
+      {
+        "title": "Navnet Vøringsfossen",
+        "content": "Navnets språklige opphav er omdiskutert. Derfor bør forklaringer leses som tolkninger, ikke som et endelig dokumentert svar."
+      },
+      {
+        "title": "Reiseliv på 1800-tallet",
+        "content": "Da reisen gjennom Hardanger ble mer kjent på 1800-tallet, ble Vøringsfossen et viktig mål for besøkende som søkte dramatiske norske landskap."
+      },
+      {
+        "title": "Vann og fjell",
+        "content": "Kontrasten mellom Hardangerviddas åpne høyfjell og Måbødalen gjør fossen til et tydelig bilde på overgangen fra vidde til fjord."
+      },
+      {
+        "title": "Moderne landskapsarkitektur",
+        "content": "Dagens anlegg viser hvordan utsikt, sikkerhet og arkitektur er forsøkt samlet i et krevende terreng."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Bildegalleri",
+    "subtitle": "Utsikt over fossen og Måbødalen",
+    "captions": [
+      "Panorama over Vøringsfossen",
+      "Måbødalen",
+      "Elven nedenfor fossen",
+      "Utsikt fra anlegget",
+      "Høstfarger i juvet",
+      "Vannsprut fra fossen"
+    ],
+    "viewAll": "Vis stedet i Google Maps"
+  },
+  "reviews": {
+    "title": "Google-vurdering",
+    "declaration": "Vurderingen er en avrundet øyeblikksverdi fra Google Maps. Åpne den eksterne lenken for oppdatert antall og nye anmeldelser.",
+    "moreReviews": "Se i Google Maps",
+    "items": []
+  },
+  "mapSection": {
+    "title": "Kart og posisjon",
+    "subtitle": "5785 Eidfjord, Norge · Plus Code C7G2+JH",
+    "openMaps": "Åpne i Google Maps",
+    "officialInfo": "For offisielle oppdateringer, se",
+    "officialPortal": "Nasjonale turistveger"
+  },
+  "footer": {
+    "rights": "© 2026 Vøringsfossen uavhengig besøksguide.",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "cookies": "Informasjonskapsler",
+    "officialResourcesTitle": "Offisielle kilder og nyttige lenker",
+    "officialLinks": {
+      "council": "Visit Norway",
+      "tourism": "Hardangerfjord",
+      "england": "Fjord Norway",
+      "norway": "Norway.no",
+      "bergen": "Bergen kommune",
+      "kulturminnesok": "Kulturminnesøk"
+    },
+    "imageRights": "Bildene på nettstedet tilhører sine respektive fotografer og rettighetshavere.",
+    "disclaimer": "Dette er en uavhengig besøksguide og er ikke tilknyttet kommunen eller andre offentlige institusjoner. Kontroller alltid kritisk reise- og sikkerhetsinformasjon hos offisielle kilder."
+  },
+  "privacy": {
+    "title": "Personvernerklæring",
+    "lastUpdated": "Sist oppdatert: oktober 2026",
+    "sections": [
+      {"heading": "1. Opplysninger", "content": "Vi samler normalt ikke inn personopplysninger direkte. Tekniske data kan behandles av nødvendige nettjenester og valgte analyseverktøy."},
+      {"heading": "2. Bruk", "content": "Opplysninger brukes bare til å levere, sikre og forbedre nettstedet. Vi selger ikke personopplysninger."},
+      {"heading": "3. Informasjonskapsler", "content": "Du kan styre valgfrie informasjonskapsler på innstillingssiden og i nettleseren."},
+      {"heading": "4. Sikkerhet", "content": "Vi bruker rimelige tiltak for å beskytte data, men ingen overføring over internett er helt risikofri."}
+    ]
+  },
+  "terms": {
+    "title": "Bruksvilkår",
+    "lastUpdated": "Sist oppdatert: oktober 2026",
+    "sections": [
+      {"heading": "1. Aksept", "content": "Ved å bruke nettstedet godtar du disse vilkårene."},
+      {"heading": "2. Informasjonsformål", "content": "Nettstedet er en uavhengig guide. Innholdet erstatter ikke offisielle meldinger om vei, vær eller sikkerhet."},
+      {"heading": "3. Opphavsrett", "content": "Tekst, bilder og grafikk kan ikke gjenbrukes uten tillatelse med mindre annet er oppgitt."},
+      {"heading": "4. Ansvar", "content": "Reiseinformasjon kan endres. Kontroller kritiske opplysninger hos offisielle kilder før avreise."}
+    ]
+  },
+  "cookieSettings": {
+    "title": "Innstillinger for informasjonskapsler",
+    "description": "Administrer valgene dine.",
+    "essential": {"title": "Nødvendige informasjonskapsler", "description": "Kreves for grunnleggende funksjoner.", "badge": "Alltid aktiv"},
+    "analytics": {"title": "Analyse", "description": "Hjelper oss å forstå hvordan nettstedet brukes."},
+    "marketing": {"title": "Markedsføring", "description": "Kan brukes til å måle aktivitet på tvers av nettsteder."},
+    "save": "Lagre valg",
+    "saved": "Valgene er lagret"
+  },
+  "officialManagement": {
+    "title": "Uavhengig guide",
+    "text": "Dette nettstedet er ikke den offisielle nettsiden for Vøringsfossen. Besøksanlegget inngår i Nasjonale turistveger, og vei-, vær- og sesonginformasjon bør alltid kontrolleres hos ansvarlige offentlige og regionale aktører."
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "subtitle": "Praktiske svar om Vøringsfossen",
+    "items": [
+      {"q": "Hvor ligger Vøringsfossen?", "a": "Vøringsfossen ligger ved riksvei 7 i Eidfjord kommune i Vestland, langs Nasjonal turistveg Hardangervidda."},
+      {"q": "Er det gratis å besøke Vøringsfossen?", "a": "Ja. Besøket er gratis, og offisiell Hardanger-informasjon oppgir gratis parkering ved Fossli og Fossatromma."},
+      {"q": "Er Vøringsfossen åpen om vinteren?", "a": "Fossen kan sees hele året fra tilgjengelige områder, men utsiktspunkt, trappebro, stier, parkering og toaletter kan være stengt på grunn av snø og is."},
+      {"q": "Hvordan kommer jeg til Vøringsfossen?", "a": "Med bil følger du riksvei 7 fra Eidfjord mot Hardangervidda. Kollektiv- og sesongtransport må kontrolleres for aktuell dato."},
+      {"q": "Hvor høy er Vøringsfossen?", "a": "Vøringsfossen har en samlet fallhøyde på omtrent 182 meter."},
+      {"q": "Hvem tegnet det moderne besøksanlegget?", "a": "Arkitekt Carl-Viggo Hølmebakk tegnet anlegget for Nasjonale turistveger, inkludert trappebroen som åpnet i 2020."}
+    ]
+  },
+  "sources": {
+    "title": "Kilder",
+    "subtitle": "Offisiell informasjon for planlegging",
+    "intro": "Sesong, vei og åpne fasiliteter kan endres. Bruk disse kildene før avreise.",
+    "items": [
+      {"name": "Nasjonale turistveger — Vøringsfossen", "url": "https://www.nasjonaleturistveger.no/no/turistvegene/hardangervidda/voringsfossen/", "desc": "Offisiell informasjon om anlegget, arkitekturen og sesongen"},
+      {"name": "Visit Norway — Vøringsfossen", "url": "https://www.visitnorway.no/listings/v%C3%B8ringsfossen/13034/", "desc": "Nasjonal reiseinformasjon"},
+      {"name": "Hardangerfjord", "url": "https://www.hardangerfjord.com/", "desc": "Regional besøks- og parkeringsinformasjon"},
+      {"name": "Statens vegvesen", "url": "https://www.vegvesen.no/trafikk", "desc": "Oppdaterte trafikk- og veiforhold"}
+    ]
+  },
+  "recommendations": {
+    "title": "Utforsk mer",
+    "attractionsTitle": "I nærheten",
+    "toursTitle": "Planlegg reisen",
+    "attractions": [],
+    "tours": []
+  }
+}

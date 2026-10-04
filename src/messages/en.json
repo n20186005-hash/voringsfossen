@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Vøringsfossen Waterfall (Eidfjord) - Guide & Location | Norway",
-    "description": "Complete guide to Vøringsfossen Waterfall in Eidfjord, Vestland, Norway. Hours, directions, practical facilities, legends, photos and reviews."
+    "title": "Vøringsfossen Waterfall: Parking, Viewpoints & Visit Guide | Eidfjord",
+    "description": "Plan your visit to Vøringsfossen in Eidfjord, Norway. See free parking, viewpoints, the step bridge, seasonal closures, hiking routes and directions from Bergen."
   },
   "header": {
     "home": "Home",
@@ -13,11 +13,11 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Vøringsfossen (Eidfjord)",
-    "subtitle": "Norway's most spectacular waterfall wonder",
-    "rating": "4.8(11,265)",
-    "reviewCount": "11,265 reviews",
-    "hours": "Open 24 hours",
+    "title": "Vøringsfossen Waterfall in Eidfjord",
+    "subtitle": "Parking, viewpoints and seasonal visit information",
+    "rating": "4.8",
+    "reviewCount": "11K+ Google reviews",
+    "hours": "Waterfall year-round · facilities seasonal",
     "openMaps": "View Location"
   },
   "intro": {
@@ -26,7 +26,7 @@
     "visitGuide": {
       "title": "Visit Guide",
       "items": [
-        "The waterfall viewpoint is open 24/7, no tickets required.",
+        "The waterfall can be seen year-round, while viewpoints, trails and visitor facilities are seasonal.",
         "Approximately 2.5 hours drive from Bergen via Route 7.",
         "Wear comfortable hiking shoes as there are stairs and trails.",
         "Spring and summer offer the most dramatic water flow."
@@ -50,9 +50,9 @@
     "basicInfo": {
       "title": "Basic Information",
       "hours": "Opening Hours",
-      "hoursContent": "Open year-round, but the best viewing period is May to September, when snowmelt creates the largest water volume and the waterfall displays its most majestic power. Some viewing platforms close in winter due to snow, but you can view from the main road. It is recommended to check real-time road conditions with the Norwegian Public Roads Administration (Statens vegvesen) before departure, especially from October to April when mountain roads may be closed. The viewing platforms themselves have no time restrictions, but the visitor center hours are 10:00-18:00 daily in summer, shorter in other seasons.",
-      "ticket": "Ticket Price",
-      "ticketContent": "Free entry to viewing platforms. However, parking is 150 NOK per car in summer (approximately 100 RMB), halved in winter. Additional purchases required at the visitor center café and gift shop. Guided hiking tours (approximately 3 hours) organized locally cost about 600 NOK per person.",
+      "hoursContent": "The waterfall is visible year-round from accessible areas, but the viewpoints, step bridge, paths, parking areas and toilets are seasonal. They are normally available from spring into autumn and may close earlier or open later depending on snow and ice. Check Norwegian Scenic Routes and Statens vegvesen before travelling, especially from October to April.",
+      "ticket": "Admission & Parking",
+      "ticketContent": "Access to Vøringsfossen is free. Official Hardanger visitor information states that parking at both Fossli and Fossatromma is free. Parking areas and visitor facilities can close in winter or during unsafe conditions, so check current official information before departure.",
       "address": "Address",
       "addressContent": "Vøringsfossen, 5785 Eidfjord, Vestland, Norway",
       "transport": "Transportation",
@@ -63,9 +63,9 @@
       "historicalStatus": "Historical Significance",
       "historicalStatusContent": "One of Norway's most famous waterfalls, a tourism and geological research hotspot since the 19th century, and the natural symbol where Hardangervidda plateau meets the fjords.",
       "historyBackground": "Historical Background",
-      "historyBackgroundContent": "The story of Vøringsfossen began roughly ten thousand years ago, when the last ice age ended. As glaciers retreated, they left behind U-shaped fjords and steep cliffs. Meltwater from Hardangervidda flowed through the rift valleys, forming this waterfall in the Bjoreiddalen valley. The first records came from 18th-century Danish-Norwegian missionaries, who called it \"the terrifying water curtain.\" But it wasn't until the mid-19th century, with the rise of European Romanticism, that Norwegian intellectuals began viewing their nation's waterfalls, fjords, and glaciers as symbols of national spirit, truly bringing Vøringsfossen into public awareness. In the 1840s, painter Johan Christian Dahl captured the play of light here, and his work caused a sensation when exhibited in Copenhagen. Explorers and travelers soon followed. The British were the first to build a carriage path from Eidfjord to the falls, and in 1880 a small hotel opened for weary visitors. During WWII, Norwegian resistance fighters used the terrain near the falls to hide supplies from Nazi patrols. In the 1960s, with road access established, it became a must-stop for road trips. In 2012, a landslide nearly changed the waterfall's course; scientists quickly built a diversion channel after emergency assessment. In 2020, an entirely new cantilever viewing platform opened, designed by Norwegian architecture firm Reiulf Ramstad Arkitekter, who spent five years studying rock formations to finally create a viewing platform that appears to grow naturally from the cliff. Today, Vøringsfossen attracts over 300,000 visitors annually, but its soul remains unchanged—that cold, wet, primal power, where every rush of water seems to tell of the first crack of ice ten thousand years ago when the glacier first retreated.",
+      "historyBackgroundContent": "The story of Vøringsfossen began roughly ten thousand years ago, when the last ice age ended. As glaciers retreated, they left behind U-shaped fjords and steep cliffs. Meltwater from Hardangervidda flowed through the rift valleys, forming this waterfall in the Bjoreiddalen valley. The first records came from 18th-century Danish-Norwegian missionaries, who called it \"the terrifying water curtain.\" But it wasn't until the mid-19th century, with the rise of European Romanticism, that Norwegian intellectuals began viewing their nation's waterfalls, fjords, and glaciers as symbols of national spirit, truly bringing Vøringsfossen into public awareness. In the 1840s, painter Johan Christian Dahl captured the play of light here, and his work caused a sensation when exhibited in Copenhagen. Explorers and travelers soon followed. The British were the first to build a carriage path from Eidfjord to the falls, and in 1880 a small hotel opened for weary visitors. During WWII, Norwegian resistance fighters used the terrain near the falls to hide supplies from Nazi patrols. In the 1960s, with road access established, it became a must-stop for road trips. In 2012, a landslide nearly changed the waterfall's course; scientists quickly built a diversion channel after emergency assessment. In 2020, an entirely new cantilever viewing platform opened, designed by architect Carl-Viggo Hølmebakk as part of Norwegian Scenic Routes. The project includes secured paths and the step bridge across the gorge. Today, Vøringsfossen attracts over 300,000 visitors annually, but its soul remains unchanged—that cold, wet, primal power, where every rush of water seems to tell of the first crack of ice ten thousand years ago when the glacier first retreated.",
       "culturalValue": "Cultural Value",
-      "culturalValueContent": "As the inspiration source during Norway's National Romantic period, it has appeared in many paintings and poems. Local Sami culture regards it as sacred, and sacrificial relics remain to this day."
+      "culturalValueContent": "Vøringsfossen became an important destination during the growth of Norwegian landscape tourism in the 19th century. Today it forms part of the Hardangervidda Norwegian Scenic Route and is interpreted through official paths, viewpoints and landscape architecture."
     },
     "architecture": {
       "title": "Architectural Features",
@@ -77,11 +77,11 @@
     "tourRoute": {
       "title": "Tour Route",
       "overview": "Tour Route Overview",
-      "overviewContent": "It is recommended to arrive before 10 AM, before tour buses arrive in large numbers, when light slants across the waterfall creating the sharpest shadows. The entire visit takes about 1.5 to 2 hours, including the main viewing platform, lower trails, and visitor center. The pace should be slow—because with every few steps, the angle changes and the water's form transforms entirely. After parking, first walk to the upper viewing platform for the panoramic view, then descend the stairs for 25 minutes to the wooden boardwalk at the canyon floor. Viewing from below is a completely different experience: you will be enveloped by mist, as if standing in an endless storm. Finally, return to the visitor center for hot coffee, watching the waterfall continue its eternal dance outside the window.",
-      "steps": "Tour Route Steps",
-      "stepsContent": "In the early morning, walk onto the new steel viewing platform—it will give you a dizzying sensation of floating above the canyon, with the waterfall roaring down just a dozen meters to your right\nSlowly descend the stairs along the cliff face, each step revealing water carving different shapes on the rock, the sound growing louder, loud enough to shatter all your wandering thoughts\nDescend to a natural rock platform halfway down—here there are almost no tourists—you can sit on moss wet with mist and quietly watch where the waterfall splits into two streams\nContinue down to the wooden boardwalk at the bottom, where the endpoint is a small wooden pavilion; standing here, the waterfall's mist will instantly dampen your hair, and double rainbows appear when sunlight shines through\nIf your energy permits, from the boardwalk's end walk another 200 meters deeper into the canyon, where an ancient stone pile left by hunters stands—you can see the waterfall's full profile from the side\nReturn to the second floor of the visitor center, order a hot cocoa, sit by the floor-to-ceiling window and watch light and shadow slowly move across the waterfall; wait until after 2 PM when bus tours leave, and the entire area regains its tranquility",
-      "tips": "Tour Route Tips",
-      "tipsContent": "Never wear high heels or leather shoes—the boardwalk and rocky sections are extremely slippery. Wear waterproof hiking shoes. There are no railings at the platform edge, so be extremely careful when taking photos, especially on windy days when mist makes metal surfaces as slippery as ice. If you want to avoid crowds, try to avoid Norwegian public holidays like Constitution Day on May 17th."
+      "overviewContent": "The main visitor area is arranged around Fossli and Fossatromma, with viewpoints connected by marked, well-secured paths, stairs and the step bridge. Allow about 1–2 hours for the viewpoints when the full route is open. Snow, ice, maintenance or high water can close parts of the route, so follow barriers and current official notices.",
+      "steps": "Suggested Visit",
+      "stepsContent": "Choose Fossli or Fossatromma based on current access and parking information\nRead the information boards and check which paths and viewpoints are open\nFollow the marked, secured route between viewpoints and the step bridge without crossing barriers\nAllow extra time for wet surfaces, stairs and changing mountain weather\nReturn by the signed route and check road conditions before continuing across Hardangervidda",
+      "tips": "Safety Tips",
+      "tipsContent": "Wear waterproof footwear with good grip: spray, rain, snow and ice can make paths and metal surfaces slippery. The official visitor route uses secured paths and safety fences, but steep drops and fast-changing mountain weather still require care. Never cross barriers or enter a closed trail, and keep children close near the gorge."
     },
     "photography": {
       "title": "Photography Guide",
@@ -124,7 +124,7 @@
     },
     "shuttle": {
       "title": "Shuttle Service",
-      "content": "In summer (June–August), a shuttle runs from Eidfjord village to the viewpoint, roughly daily from 10:00 to 17:00, about 50 NOK one way. Schedules vary each season—confirm the latest timetable at the tourist information in the village after you arrive."
+      "content": "Seasonal transport may connect Eidfjord village with Vøringsfossen during the main visitor season. Operators, stops and timetables can change from year to year; confirm the current service with Visit Eidfjord or the local tourist information before planning a car-free visit."
     }
   },
   "facilities": {
@@ -136,7 +136,7 @@
     },
     "parking": {
       "title": "Parking",
-      "content": "A large parking area sits beside the main road: about 150 NOK per car in summer, halved in winter, with designated spaces for RVs and buses. Spaces fill quickly during peak season (June–August)—arrive before 10 AM. The viewpoint is a 3–5 minute walk from the parking."
+      "content": "Parking at Fossli and Fossatromma is free according to official Hardanger visitor information. Both areas provide access to different parts of the viewpoint route. Capacity, road access and facilities are seasonal and can be affected by snow; arrive early in peak summer and obey closure signs."
     },
     "dining": {
       "title": "Dining",
@@ -230,7 +230,7 @@
     "officialPortal": "the Norway Official Tourism Portal"
   },
   "footer": {
-    "rights": "© 2026 Vøringsfossen Independent Travel Research Association · All rights reserved.",
+    "rights": "© 2026 Vøringsfossen Independent Visitor Guide.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -310,17 +310,17 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Vøringsfossen",
-    "text": "Vøringsfossen waterfall is jointly managed and maintained by the Norwegian Water Resources Directorate and the Hardanger Municipality.\nAs one of Norway's most famous natural attractions, Vøringsfossen is designated as a National Landscape Protection Area and is part of Norway's natural heritage protection system. The site features modern viewing facilities ensuring visitor safety while enjoying the natural wonder."
+    "title": "Independent visitor guide",
+    "text": "This is not the official website for Vøringsfossen. The visitor facilities form part of Norwegian Scenic Routes. Always verify road, weather, seasonal access and safety information with the responsible official and regional sources before travelling."
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "subtitle": "Answers to the most common questions about Vøringsfossen",
     "items": [
       {"q": "Where is Vøringsfossen located?", "a": "Vøringsfossen is located in Eidfjord, Vestland County, Norway. The viewpoint is reachable by car along the Riksvei 7."},
-      {"q": "Is Vøringsfossen free to visit?", "a": "Yes, access to the viewing platforms is free. Parking costs about 150 NOK per car in summer (halved in winter)."},
-      {"q": "How do I get to Vøringsfossen?", "a": "By car from Bergen (about 2.5 hours to Voss, then 1 hour along the Riksvei 7) or from Oslo (about 5 hours). Alternatively, take the train from Bergen to Voss, then bus (route 940) to Eidfjord."},
-      {"q": "When is the best time to visit?", "a": "From May to September, when snowmelt makes the waterfall most powerful. The waterfall is visitable year-round."},
+      {"q": "Is Vøringsfossen free to visit?", "a": "Yes. Access to Vøringsfossen is free, and official Hardanger visitor information states that parking at Fossli and Fossatromma is free. Seasonal closures can affect parking and facilities."},
+      {"q": "How do I get to Vøringsfossen?", "a": "Drive on Norwegian Scenic Route Hardangervidda (Route 7) from Eidfjord, or use a confirmed seasonal connection from Eidfjord village. Public transport changes by season, so check current timetables before travelling."},
+      {"q": "When is the best time to visit?", "a": "The main visitor season is from spring to autumn. The waterfall is visible year-round from accessible areas, but viewpoints, the step bridge, trails, parking and toilets can close because of snow and ice."},
       {"q": "How tall is Vøringsfossen?", "a": "The total drop is about 182 meters, divided into two sections, making it one of the highest waterfalls in Norway."},
       {"q": "What facilities are available?", "a": "A visitor center with café and souvenir shop, a parking area, public restrooms, and a modern viewing platform accessible by wheelchair."}
     ]
@@ -330,10 +330,10 @@
     "subtitle": "Information verified from official and authoritative sources",
     "intro": "The information on this site has been gathered and verified from official and authoritative sources to ensure accuracy and up-to-dateness.",
     "items": [
-      {"name": "Visit Norway - Official Norwegian Tourism Board", "url": "https://www.visitnorway.com/", "desc": "Official tourism portal of Norway"},
-      {"name": "Fjord Norway", "url": "https://www.fjordnorway.com/", "desc": "Official tourism board of the fjord region"},
-      {"name": "Hardangerfjord Tourism", "url": "https://www.hardangerfjord.com/", "desc": "Official tourism information for the Hardanger region"},
-      {"name": "Statens vegvesen", "url": "https://www.vegvesen.no/", "desc": "Norwegian Public Roads Administration - live road conditions"}
+      {"name": "Norwegian Scenic Routes — Vøringsfossen", "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/voringsfossen/", "desc": "Official information on viewpoints, architecture and seasonal access"},
+      {"name": "Visit Norway — Vøringsfossen", "url": "https://www.visitnorway.com/listings/voringsfossen/158686/", "desc": "Official national tourism visitor information"},
+      {"name": "Hardangerfjord Tourism", "url": "https://www.hardangerfjord.com/", "desc": "Official regional visitor and parking information"},
+      {"name": "Statens vegvesen", "url": "https://www.vegvesen.no/trafikk", "desc": "Norwegian Public Roads Administration live road conditions"}
     ]
   },
   "recommendations": {

@@ -5,10 +5,10 @@ import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
-export default function Header() {
+export default function Header({ showLanguageToggle = true }: { showLanguageToggle?: boolean }) {
   const t = useTranslations('header');
   const locale = useLocale();
-  const prefix = locale === 'it' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -35,7 +35,7 @@ export default function Header() {
           {(['transport', 'facilities', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
-              href={`${prefix}/#${section}`}
+              href={`${prefix}#${section}`}
               className="text-sm font-medium transition-colors"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
@@ -46,7 +46,7 @@ export default function Header() {
 
         <div className="flex items-center gap-2">
           <ThemeToggle />
-          <LanguageToggle />
+          {showLanguageToggle && <LanguageToggle />}
         </div>
       </div>
     </header>

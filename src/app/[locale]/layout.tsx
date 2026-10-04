@@ -2,16 +2,22 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import {
+  HERO_IMAGE_PATH,
+  SITE_NAME,
+  SITE_URL,
+  languageAlternates,
+  localeMeta,
+  localizedUrl,
+  type SiteLocale,
+} from '@/lib/site';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
-const baseUrl = 'https://voringsfossen.org';
-const heroImage = `${baseUrl}/gallery/images%20(1).jpg`;
-const mapsUrl = 'https://maps.app.goo.gl/PZQzhiFGsZvDZa5Y7';
-const govtTourismUrl = 'https://www.visitnorway.com/';
+const heroImage = `${SITE_URL}${HERO_IMAGE_PATH}`;
 
 export async function generateMetadata({
   params,
@@ -19,43 +25,39 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  const siteLocale = locale as SiteLocale;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-
-  const itUrl = `${baseUrl}/`;
-  const enUrl = `${baseUrl}/en`;
-  const frUrl = `${baseUrl}/fr`;
-  const zhUrl = `${baseUrl}/zh-Hant`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const selfUrl = localizedUrl(siteLocale);
 
   return {
     title: messages.meta.title,
     description: messages.meta.description,
-    metadataBase: new URL(baseUrl),
+    metadataBase: new URL(SITE_URL),
     alternates: {
       canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      languages: languageAlternates(),
     },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: 'Vøringsfossen',
-      locale: locale === 'zh-Hant' ? 'zh_TW' : locale,
+      siteName: SITE_NAME,
+      locale: localeMeta[siteLocale].ogLocale,
       type: 'website',
       images: [
         {
           url: heroImage,
           width: 1200,
-          height: 800,
-          alt: 'Vøringsfossen - Main view in Eidfjord, Norway',
+          height: 900,
+          alt: 'Vøringsfossen waterfall and viewpoints in Eidfjord, Norway',
         },
       ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
+      images: [heroImage],
     },
   };
 }
@@ -73,71 +75,34 @@ export default async function LocaleLayout({
     notFound();
   }
 
-  setRequestLocale(locale);
+  const siteLocale = locale as SiteLocale;
+  setRequestLocale(siteLocale);
   const messages = await getMessages() as any;
-
-  const faqItems = messages?.faq?.items || [];
+  const htmlLanguage = localeMeta[siteLocale].htmlLang;
 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'TouristAttraction',
-        '@id': `${baseUrl}/#attraction`,
-        name: 'Vøringsfossen',
-        alternateName: ['Vøringsfossen', 'Eidfjord Vøringsfossen'],
-        description: messages.meta.description,
-        url: baseUrl,
-        image: [heroImage],
-        isAccessibleForFree: true,
-        address: {
-          '@type': 'PostalAddress',
-          streetAddress: 'Vøringsfossen',
-          addressLocality: 'Eidfjord',
-          addressRegion: 'Vestland',
-          postalCode: '5785',
-          addressCountry: 'NO',
-        },
-        geo: {
-          '@type': 'GeoCoordinates',
-          latitude: 60.4265721,
-          longitude: 7.2324114,
-        },
-        hasMap: mapsUrl,
-        sameAs: [mapsUrl, govtTourismUrl],
-      },
-      {
-        '@type': 'FAQPage',
-        '@id': `${baseUrl}/#faq`,
-        mainEntity: faqItems.map((item: { q: string; a: string }) => ({
-          '@type': 'Question',
-          name: item.q,
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: item.a,
-          },
-        })),
-      },
-      {
         '@type': 'Organization',
-        '@id': `${baseUrl}/#organization`,
-        name: 'Vøringsfossen Guide',
-        url: baseUrl,
-        logo: `${baseUrl}/icons/icon.svg`,
+        '@id': `${SITE_URL}/#organization`,
+        name: SITE_NAME,
+        url: `${SITE_URL}/en`,
+        logo: `${SITE_URL}/icons/icon.svg`,
       },
       {
         '@type': 'WebSite',
-        '@id': `${baseUrl}/#website`,
-        url: baseUrl,
-        name: 'Vøringsfossen Guide',
-        inLanguage: locale === 'zh-Hant' ? 'zh-Hant' : locale,
-        publisher: { '@id': `${baseUrl}/#organization` },
+        '@id': `${SITE_URL}/#website`,
+        url: `${SITE_URL}/en`,
+        name: SITE_NAME,
+        inLanguage: Object.values(localeMeta).map(({htmlLang}) => htmlLang),
+        publisher: { '@id': `${SITE_URL}/#organization` },
       },
     ],
   };
 
   return (
-    <html lang={locale === 'zh-Hant' ? 'zh-Hant' : locale} suppressHydrationWarning>
+    <html lang={htmlLanguage} suppressHydrationWarning>
       <head>
         <meta name="theme-color" content="#3a7a8d" />
         <link rel="manifest" href="/manifest.webmanifest" />

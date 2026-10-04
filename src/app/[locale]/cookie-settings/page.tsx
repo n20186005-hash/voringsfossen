@@ -1,4 +1,5 @@
 import { setRequestLocale } from 'next-intl/server';
+import { SITE_NAME, languageAlternates, localizedUrl, type SiteLocale } from '@/lib/site';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
 
@@ -7,22 +8,17 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
+  const { locale } = await params;
+  const siteLocale = locale as SiteLocale;
+  const messages = (await import(`@/messages/${locale}.json`)).default;
+  const path = '/cookie-settings';
 
   return {
+    title: `${messages.cookieSettings.title} | ${SITE_NAME}`,
+    robots: { index: false, follow: true },
     alternates: {
-      canonical: itUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      canonical: localizedUrl(siteLocale, path),
+      languages: languageAlternates(path),
     },
   };
 }
