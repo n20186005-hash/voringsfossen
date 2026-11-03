@@ -1,37 +1,29 @@
-/* Vøringsfossen - Service Worker */
-const CACHE_NAME = 'voringsfossen-v1';
-const CORE_ASSETS = ['/', '/en', '/fr', '/zh-Hant', '/manifest.webmanifest'];
+/*
+ * Vøringsfossen Service Worker — legacy cache cleanup.
+ *
+ * The previous cache-first worker stored the redirect from / to /en.
+ * Serving that cached redirected response during a navigation can cause
+ * Chrome to fail with net::ERR_FAILED. This replacement deliberately does
+ * not intercept fetch requests, leaving routing and caching to the server.
+ *
+ * Keep the script registered so existing visitors receive the replacement
+ * worker and their old caches are cleared on activation.
+ */
+
+const LEGACY_CACHE_PREFIX = 'voringsfossen-';
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches
-      .open(CACHE_NAME)
-      .then((cache) => cache.addAll(CORE_ASSETS))
-      .then(() => self.skipWaiting())
-  );
+  event.waitUntil(self.skipWaiting());
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches
-      .keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k))))
+    caches.keys()
+      .then((keys) => Promise.all(
+        keys
+          .filter((key) => key.startsWith(LEGACY_CACHE_PREFIX))
+          .map((key) => caches.delete(key))
+      ))
       .then(() => self.clients.claim())
-  );
-});
-
-self.addEventListener('fetch', (event) => {
-  if (event.request.method !== 'GET') return;
-  event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request).then((response) => {
-        if (response && response.status === 200 && response.type === 'basic') {
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
-        }
-        return response;
-      });
-    })
   );
 });
