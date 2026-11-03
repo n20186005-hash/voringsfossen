@@ -1,13 +1,19 @@
-/* Vøringsfossen - keep pages fresh and provide a basic offline fallback. */
-const CACHE_NAME = 'voringsfossen-v2';
-const OFFLINE_URL = '/en';
+/*
+ * Vøringsfossen Service Worker — legacy cache cleanup.
+ *
+ * The previous cache-first worker stored the redirect from / to /en.
+ * Serving that cached redirected response during a navigation can cause
+ * Chrome to fail with net::ERR_FAILED. This replacement deliberately does
+ * not intercept fetch requests, leaving routing and caching to the server.
+ *
+ * Keep the script registered so existing visitors receive the replacement
+ * worker and their old caches are cleared on activation.
+ */
+
+const LEGACY_CACHE_PREFIX = 'voringsfossen-';
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then((cache) => cache.add(OFFLINE_URL))
-      .then(() => self.skipWaiting())
-  );
+  event.waitUntil(self.skipWaiting());
 });
 
 self.addEventListener('activate', (event) => {
@@ -15,38 +21,9 @@ self.addEventListener('activate', (event) => {
     caches.keys()
       .then((keys) => Promise.all(
         keys
-          .filter((key) => key.startsWith('voringsfossen-') && key !== CACHE_NAME)
+          .filter((key) => key.startsWith(LEGACY_CACHE_PREFIX))
           .map((key) => caches.delete(key))
       ))
       .then(() => self.clients.claim())
-  );
-});
-
-self.addEventListener('fetch', (event) => {
-  const request = event.request;
-  if (
-    request.method !== 'GET' ||
-    request.mode !== 'navigate' ||
-    new URL(request.url).origin !== self.location.origin
-  ) return;
-
-  event.respondWith(
-    fetch(request)
-      .then((response) => {
-        if (response.ok && response.type === 'basic') {
-          const copy = response.clone();
-          event.waitUntil(
-            caches.open(CACHE_NAME)
-              .then((cache) => cache.put(request, copy))
-              .catch(() => {})
-          );
-        }
-        return response;
-      })
-      .catch(async () =>
-        (await caches.match(request)) ||
-        (await caches.match(OFFLINE_URL)) ||
-        Response.error()
-      )
   );
 });

@@ -11,16 +11,21 @@ export default function middleware(request: NextRequest) {
 
   if (isProductionHost) {
     const forwardedProtocol = request.headers.get('x-forwarded-proto') ?? request.nextUrl.protocol.replace(':', '');
-    const shouldRedirect = hostname !== canonicalHost || forwardedProtocol !== 'https' || request.nextUrl.pathname === '/';
+    const shouldRedirect = hostname !== canonicalHost || forwardedProtocol !== 'https';
 
     if (shouldRedirect) {
       const destination = request.nextUrl.clone();
       destination.protocol = 'https';
       destination.hostname = canonicalHost;
       destination.port = '';
-      if (destination.pathname === '/') destination.pathname = '/en';
       return NextResponse.redirect(destination, 301);
     }
+  }
+
+  // The bare domain has its own English route. It must not be redirected
+  // by next-intl's locale-prefix middleware.
+  if (request.nextUrl.pathname === '/') {
+    return NextResponse.next();
   }
 
   return handleI18nRouting(request);
