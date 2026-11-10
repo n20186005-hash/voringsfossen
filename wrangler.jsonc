@@ -8,5 +8,5 @@
   "services": [{ "binding": "WORKER_SELF_REFERENCE", "service": "voringsfossen" }],
   "images": { "binding": "IMAGES" },
   "observability": { "enabled": true },
-  "build": { "command": "npx opennextjs-cloudflare build" }
+  "build": { "command": "npm run build" }
 }
