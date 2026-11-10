@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Vøringsfossen Chute d'eau (Eidfjord) - Guide et Localisation | Norvège",
-    "description": "Guide complet de la chute d'eau Vøringsfossen à Eidfjord, Vestland, Norvège. Heures, directions, équipements pratiques, légendes, photos et avis."
+    "description": "Préparez la visite de Vøringsfossen à Eidfjord : parkings gratuits, belvédères, passerelle à marches, accès saisonniers, sécurité et découvertes alentour."
   },
   "header": {
     "home": "Accueil",
@@ -66,7 +66,7 @@
       "historyBackground": "Contexte Historique",
       "historyBackgroundContent": "Norwegian Scenic Routes attribue l’aménagement moderne à l’architecte Carl-Viggo Hølmebakk. Il associe chemins sécurisés, ponts, belvédères et bâtiments de services. À proximité, le pont en pierre de Måbø date de 1910 ; l’ancien tracé routier a été remplacé en 1986. Ne pas emprunter l’ancienne route comme itinéraire de transit : l’autorité signale des éboulements.",
       "culturalValue": "Valeur Culturelle",
-      "culturalValueContent": "Comme source d'inspiration pendant la période du romantisme national norvégien, elle est apparue dans de nombreuses peintures et poèmes. La culture samie locale la considère comme sacrée, et des vestiges sacrificiels demeurent à ce jour."
+      "culturalValueContent": "Le paysage relie le plateau du Hardangervidda à la vallée du fjord. Les chemins, belvédères et ouvrages de Norwegian Scenic Routes permettent de découvrir cette transition tout en restant dans les secteurs aménagés et ouverts."
     },
     "architecture": {
       "title": "Caractéristiques Architecturales",
@@ -78,9 +78,9 @@
     "tourRoute": {
       "title": "Circuit Touristique",
       "overview": "Aperçu du Circuit",
-      "overviewContent": "Il est recommandé d'arriver avant 10h, avant l'arrivée des bus de tourisme en grand nombre, lorsque la lumièreslant à travers la cascade créant les ombres les plus nettes. L'ensemble de la visite prend environ 1,5 à 2 heures, incluant la plateforme d'observation principale, les sentiers inférieurs et le centre de visiteurs. Le rythme devrait être lent—car à chaque pas, l'angle change et la forme de l'eau se transforme entièrement. Après le stationnement, first walk to the upper viewing platform for the panoramic view, puis descend the stairs for 25 minutes to the wooden boardwalk at the canyon floor. Viewing from below is a completely different experience: vous serez enveloppé par les embruns, comme si vous étiez debout dans une tempête sans fin. Finalement, retournez au centre de visiteurs pour un café chaud, regardant la cascade continuer sa danse éternelle dehors la fenêtre.",
+      "overviewContent": "Le parcours aménagé s’organise autour de Fossli et Fossatromma, avec des belvédères, des chemins sécurisés, des escaliers et une passerelle à marches. Choisir les secteurs réellement ouverts et prévoir du temps selon sa mobilité et les conditions. Ce circuit ne constitue pas un accès garanti au fond de la gorge. La neige, le verglas et les travaux peuvent fermer certaines liaisons.",
       "steps": "Étapes du Circuit",
-      "stepsContent": "Tôt le matin, marchez sur la nouvelle plateforme d'observation en acier—elle vous donnera une sensation vertigineuse de flotter au-dessus du canyon, avec la cascade rugissant à une douzaine de mètres à votre droite\nDescendez lentement les escaliers le long de la paroi rocheuse, chaque pas révélant l'eau taillant différentes formes sur le rocher, le son devenant plus fort, assez fort pour briser toutes vos pensées vagabondes\nDescendez à une plateforme rocheuse naturelle à mi-chemin—ici il y a presque pas de touristes—vous pouvez vous asseoir sur de la mousse mouillée par les embruns et regarder tranquillement où la cascade se divise en deux courants\nContinuez vers le bas jusqu'au sentier de planche en bois au fond, où le point final est un petit pavillon en bois; debout ici, les embruns de la cascade humidifieront instantanément vos cheveux, et des arcs-en-ciel doubles apparaissent lorsque la lumière du soleil brille à travers\nSi votre énergie le permet, depuis la fin du sentier de planche, marchez encore 200 mètres plus profondément dans le canyon, où un tas de pierres ancien laissé par des chasseurs se trouve—vous pouvez voir le profil complet de la cascade de côté\nRetournez au deuxième étage du centre de visiteurs, commandez un chocolat chaud, asseyez-vous près de la fenêtre du sol au plafond et regardez la lumière et l'ombre se déplacer lentement sur la cascade; attendez jusqu'après 14h quand les groupes en bus partent, et toute la zone retrouve sa tranquillité",
+      "stepsContent": "Choisir Fossli ou Fossatromma selon les accès et parkings ouverts\nLire les panneaux et vérifier les chemins et belvédères accessibles\nSuivre les parcours balisés et sécurisés sans franchir les barrières\nPrévoir une marge pour les escaliers, les sols humides et la météo de montagne\nRevenir par le parcours indiqué et vérifier la route avant de poursuivre",
       "tips": "Conseils pour le Circuit",
       "tipsContent": "Portez des chaussures imperméables avec une bonne adhérence : embruns, pluie, neige et verglas peuvent rendre les chemins et surfaces métalliques glissants. Le parcours officiel utilise des chemins sécurisés et des clôtures de protection, mais les pentes et la météo de montagne exigent toujours de la prudence. Ne franchissez jamais les barrières et n'entrez pas sur un sentier fermé."
     },
@@ -125,7 +125,7 @@
     },
     "shuttle": {
       "title": "Navette",
-      "content": "En été (juin à août), une navette relie le village d'Eidfjord au point de vue, environ tous les jours de 10h à 17h, à environ 50 NOK l'aller simple. Les horaires varient selon la saison—confirmez le dernier tableau d'affichage à l'office de tourisme du village à votre arrivée."
+      "content": "Un transport saisonnier peut relier Eidfjord à Vøringsfossen. Les opérateurs, arrêts, horaires et tarifs peuvent changer ; vérifier le service actuel auprès de Visit Eidfjord ou de l’office de tourisme, ainsi que le retour, avant de prévoir une visite sans voiture."
     }
   },
   "facilities": {
@@ -233,7 +233,7 @@
       "bergen": "Bergen Kommune",
       "kulturminnesok": "Kulturminnesøk"
     },
-    "imageRights": "Toutes les images présentées sur ce site web sont la propriété de leurs photographes respectifs.",
+    "imageRights": "Les images restent soumises au droit d’auteur. Ce guide n’a pas vérifié les auteurs ni les autorisations de réutilisation de la galerie existante et n’accorde aucune licence de réutilisation.",
     "disclaimer": "Ce site web est un projet indépendant d'informations touristiques tierces. Nous ne sommes pas affiliés au gouvernement local ou à d'autres institutions officielles."
   },
   "privacy": {
@@ -260,7 +260,7 @@
       },
       {
         "heading": "3. Propriété Intellectuelle",
-        "content": "Tout le contenu de ce site web, y compris les textes, images et logos, est la propriété du propriétaire du site sauf indication contraire. Toute utilisation, reproduction ou distribution non autorisée est strictement interdite."
+        "content": "Les textes, images et autres éléments restent soumis aux droits applicables. Ce guide ne revendique pas la propriété de chaque élément affiché. Les auteurs et autorisations de réutilisation de la galerie existante n’ont pas été vérifiés ; obtenir les autorisations nécessaires auprès des titulaires concernés avant toute réutilisation."
       },
       {
         "heading": "4. Limitation de Responsabilité",

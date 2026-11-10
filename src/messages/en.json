@@ -66,7 +66,7 @@
       "historyBackground": "Historical Background",
       "historyBackgroundContent": "The modern visitor project is documented by Norwegian Scenic Routes and attributed to architect Carl-Viggo Hølmebakk. It brings secured routes, bridges, viewpoints and service buildings into the steep gorge landscape. Nearby Måbø Bridge provides a separate transport-history stop: the stone arch bridge dates from 1910, and the old road alignment was superseded in 1986. Do not use the old road as a through route; the scenic-route authority reports rockslide closures.",
       "culturalValue": "Cultural Value",
-      "culturalValueContent": "Vøringsfossen became an important destination during the growth of Norwegian landscape tourism in the 19th century. Today it forms part of the Hardangervidda Norwegian Scenic Route and is interpreted through official paths, viewpoints and landscape architecture."
+      "culturalValueContent": "The landscape links the Hardangervidda plateau with the fjord valley. Norwegian Scenic Routes interprets that transition through secured paths, viewpoints and landscape architecture."
     },
     "architecture": {
       "title": "Architectural Features",
@@ -78,7 +78,7 @@
     "tourRoute": {
       "title": "Tour Route",
       "overview": "Tour Route Overview",
-      "overviewContent": "The main visitor area is arranged around Fossli and Fossatromma, with viewpoints connected by marked, well-secured paths, stairs and the step bridge. Allow about 1–2 hours for the viewpoints when the full route is open. Snow, ice, maintenance or high water can close parts of the route, so follow barriers and current official notices.",
+      "overviewContent": "The main visitor area is arranged around Fossli and Fossatromma, with viewpoints connected by marked, secured paths, stairs and the step bridge. Choose the areas that are actually open and allow time according to mobility and conditions. This viewpoint circuit does not guarantee access to the gorge floor. Snow, ice or maintenance can close parts of the route.",
       "steps": "Suggested Visit",
       "stepsContent": "Choose Fossli or Fossatromma based on current access and parking information\nRead the information boards and check which paths and viewpoints are open\nFollow the marked, secured route between viewpoints and the step bridge without crossing barriers\nAllow extra time for wet surfaces, stairs and changing mountain weather\nReturn by the signed route and check road conditions before continuing across Hardangervidda",
       "tips": "Safety Tips",
@@ -233,7 +233,7 @@
       "bergen": "Bergen Kommune",
       "kulturminnesok": "Kulturminnesøk"
     },
-    "imageRights": "All images displayed on this website are the property of their respective photographers.",
+    "imageRights": "Images remain subject to copyright. This guide has not verified the authorship or reuse permissions of the existing gallery and grants no image reuse licence.",
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
   },
   "privacy": {
@@ -260,7 +260,7 @@
       },
       {
         "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+        "content": "Texts, images and other material remain subject to applicable rights. This guide does not claim ownership of every displayed item. Authorship and reuse permissions for the existing gallery have not been verified; obtain the necessary permission from the relevant rights holder before reuse."
       },
       {
         "heading": "4. Limitation of Liability",

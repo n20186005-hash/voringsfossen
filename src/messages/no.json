@@ -57,28 +57,28 @@
       "address": "Adresse",
       "addressContent": "Vøringsfossen, 5785 Eidfjord, Norge",
       "transport": "Slik kommer du hit",
-      "transportContent": "Vøringsfossen ligger ved riksvei 7 over Hardangervidda, omtrent 20 minutter med bil fra Eidfjord sentrum under normale forhold. Fra Bergen følger du E16 mot Voss og videre mot Hardanger og Eidfjord. Kollektiv- og skytteltilbud varierer med sesongen; kontroller gjeldende rutetider før du reiser."
+      "transportContent": "Vøringsfossen ligger ved riksvei 7 mellom Eidfjord og Hardangervidda. Sjekk Statens vegvesen for stenginger, kolonnekjøring og føreforhold. Kontroller Entur og Visit Eidfjord for aktuell dato ved en bilfri reise, inkludert siste etappe til fossen og returen."
     },
     "history": {
       "title": "Historie og landskap",
       "historicalStatus": "Et tidlig reisemål",
-      "historicalStatusContent": "Vøringsfossen ble et kjent reisemål på 1800-tallet og er i dag et sentralt stopp langs Nasjonal turistveg Hardangervidda.",
+      "historicalStatusContent": "Vøringsfossen er et kjent stopp langs Nasjonal turistveg Hardangervidda, mellom høyfjellsplatået og fjorddalen.",
       "historyBackground": "Utviklingen av utsiktsanlegget",
-      "historyBackgroundContent": "Det moderne besøksanlegget er utviklet trinnvis som del av Nasjonale turistveger. Arkitekt Carl-Viggo Hølmebakk har tegnet prosjektet, inkludert sikrede gangforbindelser, utsiktspunkt og trappebroen som åpnet i 2020.",
+      "historyBackgroundContent": "Det moderne besøksanlegget er utviklet som del av Nasjonale turistveger. Arkitekt Carl-Viggo Hølmebakk har tegnet prosjektet med sikrede gangforbindelser, utsiktspunkt og trappebro.",
       "culturalValue": "Landskapsverdi",
       "culturalValueContent": "Fossen viser overgangen mellom høyfjellet på Hardangervidda og fjordlandskapet i Eidfjord. Tilretteleggingen er utformet for å gi innsyn i landskapet uten å skjule juvet og fossens skala."
     },
     "architecture": {
       "title": "Arkitektur og utsiktspunkt",
       "features": "Trappebro og gangveier",
-      "featuresContent": "Trappebroen krysser juvet med 99 trinn og binder sammen deler av det tilrettelagte besøksanlegget. Følg skilting og stengte porter når vær eller vedlikehold begrenser adgangen.",
+      "featuresContent": "Trappebroen binder sammen deler av det tilrettelagte besøksanlegget. Følg skilting og stengte porter når vær eller vedlikehold begrenser adgangen.",
       "style": "Tilpasset terrenget",
       "styleContent": "Stål, stein og tydelige geometriske linjer er brukt for å føre besøkende gjennom det bratte terrenget. Arkitekturen er tegnet av Carl-Viggo Hølmebakk for Nasjonale turistveger."
     },
     "tourRoute": {
       "title": "Forslag til besøksrunde",
       "overview": "Mellom Fossli og Fossatromma",
-      "overviewContent": "Hovedområdet er organisert rundt Fossli og Fossatromma. Når hele anlegget er åpent, kan du bruke omtrent 1–2 timer på utsiktspunktene, trappene og trappebroen. Snø, is, vedlikehold eller høyt vann kan stenge deler av ruten.",
+      "overviewContent": "Hovedområdet er organisert rundt Fossli og Fossatromma, med utsiktspunkt, sikrede gangveier, trapper og trappebroen. Velg de delene som faktisk er åpne, og beregn tid etter bevegelighet og forhold. Denne utsiktsruten gir ikke garantert tilgang til bunnen av juvet. Snø, is eller vedlikehold kan stenge forbindelser.",
       "steps": "Steg for steg",
       "stepsContent": "Velg Fossli eller Fossatromma etter dagens tilgang og parkeringsforhold\nLes informasjonstavlene og kontroller hvilke stier og utsiktspunkt som er åpne\nFølg den merkede og sikrede ruten uten å krysse sperringer\nBeregn ekstra tid ved vått underlag, trapper og skiftende fjellvær\nReturner langs skiltet rute og sjekk veiforhold før videre kjøring",
       "tips": "Sikkerhet",
@@ -157,25 +157,25 @@
     }
   },
   "legends": {
-    "title": "Fortellinger og landskap",
-    "subtitle": "Fossen i norsk reisehistorie og fortellertradisjon",
-    "intro": "Vøringsfossen har inspirert reisende, kunstnere og lokale fortellinger. Skill mellom dokumentert historie og muntlige sagn når du leser videre.",
+    "title": "Landskap og veihistorie",
+    "subtitle": "Dokumentert bakgrunn for besøket",
+    "intro": "Nasjonale turistveger beskriver møtet mellom vann, fjellandskap, veihistorie og moderne arkitektur.",
     "items": [
       {
-        "title": "Navnet Vøringsfossen",
-        "content": "Navnets språklige opphav er omdiskutert. Derfor bør forklaringer leses som tolkninger, ikke som et endelig dokumentert svar."
+        "title": "Fra vidde til juv",
+        "content": "Vannet faller fra Hardangervidda til Måbødalen og viser overgangen mellom høyfjell og fjorddal."
       },
       {
-        "title": "Reiseliv på 1800-tallet",
-        "content": "Da reisen gjennom Hardanger ble mer kjent på 1800-tallet, ble Vøringsfossen et viktig mål for besøkende som søkte dramatiske norske landskap."
+        "title": "To besøksområder",
+        "content": "Fossli og Fossatromma gir ulike perspektiver og forbindes av det tilrettelagte stinettet når anlegget er åpent."
       },
       {
-        "title": "Vann og fjell",
-        "content": "Kontrasten mellom Hardangerviddas åpne høyfjell og Måbødalen gjør fossen til et tydelig bilde på overgangen fra vidde til fjord."
+        "title": "Måbø bru",
+        "content": "Den nærliggende steinhvelvbrua fra 1910 er et fredet veiminne. Den er et eget stopp og må ikke forveksles med trappebroen ved fossen."
       },
       {
         "title": "Moderne landskapsarkitektur",
-        "content": "Dagens anlegg viser hvordan utsikt, sikkerhet og arkitektur er forsøkt samlet i et krevende terreng."
+        "content": "Nasjonale turistveger knytter besøksanleggets utsiktspunkt, sikrede stier, broer og servicebygg til arkitekt Carl-Viggo Hølmebakk."
       }
     ]
   },
@@ -233,7 +233,7 @@
       "bergen": "Bergen kommune",
       "kulturminnesok": "Kulturminnesøk"
     },
-    "imageRights": "Bildene på nettstedet tilhører sine respektive fotografer og rettighetshavere.",
+    "imageRights": "Bildene er fortsatt omfattet av opphavsrett. Guiden har ikke verifisert opphavspersoner eller gjenbrukstillatelser for det eksisterende galleriet og gir ingen lisens til gjenbruk.",
     "disclaimer": "Dette er en uavhengig besøksguide og er ikke tilknyttet kommunen eller andre offentlige institusjoner. Kontroller alltid kritisk reise- og sikkerhetsinformasjon hos offisielle kilder."
   },
   "privacy": {
@@ -260,7 +260,7 @@
       },
       {
         "heading": "3. Opphavsrett",
-        "content": "Tekst, bilder og grafikk kan ikke gjenbrukes uten tillatelse med mindre annet er oppgitt."
+        "content": "Tekst, bilder og annet materiale er underlagt gjeldende rettigheter. Guiden gjør ikke krav på å eie alle viste elementer. Opphavspersoner og gjenbrukstillatelser for det eksisterende galleriet er ikke verifisert; innhent nødvendige tillatelser fra aktuelle rettighetshavere før gjenbruk."
       },
       {
         "heading": "4. Ansvar",
@@ -317,7 +317,7 @@
       },
       {
         "q": "Hvem tegnet det moderne besøksanlegget?",
-        "a": "Arkitekt Carl-Viggo Hølmebakk tegnet anlegget for Nasjonale turistveger, inkludert trappebroen som åpnet i 2020."
+        "a": "Arkitekt Carl-Viggo Hølmebakk har tegnet det moderne besøksanlegget for Nasjonale turistveger, med utsiktspunkt, sikrede gangforbindelser og trappebro."
       }
     ]
   },

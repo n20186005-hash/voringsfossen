@@ -66,7 +66,7 @@
       "historyBackground": "Contesto Storico",
       "historyBackgroundContent": "Norwegian Scenic Routes attribuisce il progetto moderno a Carl-Viggo Hølmebakk. Comprende percorsi protetti, ponti, belvedere ed edifici di servizio. Il vicino ponte in pietra di Måbø risale al 1910; il vecchio tracciato stradale fu sostituito nel 1986. Non usare la vecchia strada come collegamento: l’autorità segnala chiusure per frane.",
       "culturalValue": "Valore Culturale",
-      "culturalValueContent": "Come fonte di ispirazione durante il periodo del Romanticismo nazionale norvegese, è apparsa in molte pitture e poesie. La cultura sami locale la considera sacra, e reliquie di sacrifici rimangono ancora oggi."
+      "culturalValueContent": "Il paesaggio collega l’altopiano dell’Hardangervidda alla valle del fiordo. I percorsi e i belvedere di Norwegian Scenic Routes permettono di osservare questa transizione restando nei settori attrezzati e aperti."
     },
     "architecture": {
       "title": "Caratteristiche Architettoniche",
@@ -78,9 +78,9 @@
     "tourRoute": {
       "title": "Percorso Turistico",
       "overview": "Panoramica del Percorso",
-      "overviewContent": "Si consiglia di arrivare prima delle 10:00, prima che arrivino in gran numero gli autobus turistici, quando la luce cade obliquamente sulla cascata creando le ombre più nitide. L'intera visita richiede circa 1,5-2 ore, incluse la piattaforma di osservazione principale, i sentieri inferiori e il centro visitatori. Il ritmo dovrebbe essere lento—perché ad ogni pochi passi, l'angolo cambia e la forma dell'acqua si trasforma completamente. Dopo aver parcheggiato, per prima cosa cammina verso la piattaforma di osservazione superiore per la vista panoramica, poi scendi le scale per 25 minuti fino al sentiero di legno sul fondo della gola. Guardare dal basso è un'esperienza completamente diversa: sarai avvolto dagli spruzzi, come se stessi in piedi in una tempesta senza fine. Infine, torna al centro visitatori per un caffè caldo, guardando la cascata continuare la sua danza eterna fuori dalla finestra.",
+      "overviewContent": "L’area attrezzata comprende Fossli e Fossatromma, con belvedere, percorsi protetti, scale e il ponte a gradini. Scegliere i settori effettivamente aperti e prevedere il tempo necessario secondo mobilità e condizioni. Questo circuito non garantisce l’accesso al fondo della gola. Neve, ghiaccio o lavori possono chiudere alcuni collegamenti.",
       "steps": "Passaggi del Percorso",
-      "stepsContent": "Di primo mattino, cammina sulla nuova piattaforma di osservazione in acciaio—ti darà una sensazione vertiginosa di fluttuare sopra la gola, con la cascata che ruggisce a una dozzina di metri sulla tua destra\nScendi lentamente le scale lungo la parete della scogliera, ogni passo rivela l'acqua che scava diverse forme sulla roccia, il suono che diventa sempre più forte, abbastanza forte da frantumare tutti i tuoi pensieri vagabondi\nScendi fino a una piattaforma rocciosa naturale a metà strada—qui quasi non ci sono turisti—puoi sederti sul muschio bagnato dagli spruzzi e guardare tranquilmente dove la cascata si divide in due flussi\nContinua fino in fondo al sentiero di legno, dove il punto finale è un piccolo padiglione di legno; in piedi qui, gli spruzzi della cascata ti bagneranno istantaneamente i capelli, e appariranno arcobaleni doppi quando la luce del sole filtra attraverso\nSe le tue energie lo permettono, dalla fine del sentiero di legno cammina ancora 200 metri più in profondità nella gola, dove si trova un antico mucchio di pietre lasciato dai cacciatori—puoi vedere il profilo completo della cascata di lato\nTorna al secondo piano del centro visitatori, ordina un cacao caldo, siediti vicino alla finestra dal pavimento al soffitto e guarda luce e ombra muoversi lentamente sulla cascata; aspetta fino alle 14 circa quando i gruppi in autobus partono, e l'intera area ritrova la sua tranquillità",
+      "stepsContent": "Scegliere Fossli o Fossatromma secondo gli accessi e i parcheggi aperti\nLeggere i pannelli e controllare i percorsi e i belvedere accessibili\nSeguire i percorsi segnalati e protetti senza oltrepassare le barriere\nPrevedere un margine per scale, fondo bagnato e meteo di montagna\nRientrare lungo il percorso indicato e verificare la strada prima di proseguire",
       "tips": "Consigli per il Percorso",
       "tipsContent": "Indossa scarpe impermeabili con buona aderenza: spruzzi, pioggia, neve e ghiaccio possono rendere scivolosi sentieri e superfici metalliche. Il percorso ufficiale utilizza sentieri protetti e recinzioni di sicurezza, ma i dislivelli e il meteo di montagna richiedono comunque prudenza. Non superare mai le barriere e non entrare in un sentiero chiuso."
     },
@@ -125,7 +125,7 @@
     },
     "shuttle": {
       "title": "Navetta",
-      "content": "In estate (giugno-agosto), una navetta collega il paese di Eidfjord al punto panoramico, circa tutti i giorni dalle 10:00 alle 17:00, a circa 50 NOK a tratta. Gli orari variano a seconda della stagione—conferma l'ultimo orario all'ufficio turistico del paese al tuo arrivo."
+      "content": "Può essere disponibile un trasporto stagionale tra Eidfjord e Vøringsfossen. Operatori, fermate, orari e tariffe possono cambiare: verificare il servizio attuale e il ritorno con Visit Eidfjord o l’ufficio turistico prima di programmare una visita senza auto."
     }
   },
   "facilities": {
@@ -233,7 +233,7 @@
       "bergen": "Bergen Kommune",
       "kulturminnesok": "Kulturminnesøk"
     },
-    "imageRights": "Tutte le immagini esposte su questo sito web sono di proprietà dei rispettivi fotografi.",
+    "imageRights": "Le immagini restano soggette al diritto d’autore. La guida non ha verificato autori o permessi di riutilizzo della galleria esistente e non concede licenze di riutilizzo.",
     "disclaimer": "Questo sito web è un progetto indipendente di informazioni turistiche di terze parti. Non siamo affiliati con il governo locale o altre istituzioni ufficiali."
   },
   "privacy": {
@@ -260,7 +260,7 @@
       },
       {
         "heading": "3. Proprietà Intellettuale",
-        "content": "Tutti i contenuti di questo sito web, inclusi testi, immagini e loghi, sono di proprietà del proprietario del sito se non diversamente indicato. L'uso, la riproduzione o la distribuzione non autorizzati sono rigorosamente vietati."
+        "content": "Testi, immagini e altri materiali restano soggetti ai diritti applicabili. La guida non rivendica la proprietà di ogni elemento mostrato. Autori e permessi di riutilizzo della galleria esistente non sono stati verificati; ottenere le autorizzazioni necessarie dai titolari interessati prima del riutilizzo."
       },
       {
         "heading": "4. Limitazione di Responsabilità",
