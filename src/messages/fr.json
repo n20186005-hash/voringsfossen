@@ -10,34 +10,35 @@
     "gallery": "Galerie",
     "reviews": "Avis",
     "map": "Carte",
-    "backToHome": "Retour à l'accueil"
+    "backToHome": "Retour à l'accueil",
+    "menu": "Menu de navigation"
   },
   "hero": {
     "title": "Vøringsfossen (Eidfjord)",
-    "subtitle": "La chute d'eau la plus spectaculaire de Norvège",
+    "subtitle": "Stationnement, belvédères et accès saisonniers",
     "rating": "4.8",
-    "reviewCount": "11 k+ avis Google",
-    "hours": "Cascade toute l'année · services saisonniers",
+    "reviewCount": "11 493 avis Google · 10 nov. 2026",
+    "hours": "Installations saisonnières · vérifier les fermetures",
     "openMaps": "Voir l'emplacement"
   },
   "intro": {
     "title": "Découvrir la Chute d'eau",
-    "description": "Vøringsfossen est la chute d'eau la plus célèbre de Norvège, située à Eidfjord, dans le comté de Vestland, au cœur du pays des fjords. La cascade plonge de 182 mètres du bord du canyon entre les parois rocheuses abruptes de la vallée de Måbødalen, créant un grondement assourdissant et une vue à couper le souffle. Elle incarne le paysage naturel norvégien : du plateau de Hardangervidda tout proche aux rives du lac Eidfjordvatnet, les visiteurs peuvent facilement explorer les merveilles naturelles qui entourent la cascade.",
+    "description": "Vøringsfossen se situe près de la route 7, à Eidfjord. L’eau descend du plateau du Hardangervidda sur 182 mètres vers Måbødalen. L’aménagement de Norwegian Scenic Routes comprend des belvédères et plus d’un kilomètre de chemins sécurisés. Une route ouverte ne signifie pas que les sentiers sont accessibles.",
     "visitGuide": {
       "title": "Guide de Visite",
       "items": [
-        "La cascade est visible toute l'année ; points de vue, sentiers et services sont saisonniers.",
-        "Environ 2h30 de route depuis Bergen via la Route 7.",
-        "Portez des chaussures de randonnée confortables, il y a des escaliers et des sentiers.",
-        "Le printemps et l'été offrent les débits d'eau les plus impressionnants."
+        "Consulter les avis officiels avant le départ.",
+        "Choisir Fossli ou Fossatromma selon les accès ouverts.",
+        "Prévoir des escaliers et des surfaces mouillées.",
+        "Rester sur les chemins autorisés, derrière les barrières."
       ]
     },
     "alsoKnownAs": {
       "title": "Caractéristiques",
       "items": [
-        "L'une des chutes d'eau les plus hautes de Norvège",
-        "Réserve Naturelle de Måbødalen",
-        "La chute d'eau la plus spectaculaire de Scandinavie"
+        "Chute de 182 mètres vers Måbødalen",
+        "Passerelle à marches entre les deux secteurs",
+        "Route panoramique nationale Hardangervidda"
       ]
     }
   },
@@ -45,34 +46,34 @@
     "title": "Guide Complet de Vøringsfossen",
     "coreIntro": {
       "title": "Introduction Principale",
-      "content": "La première fois que vous découvrez Vøringsfossen, vous ne le voyez pas avec vos yeux—vous l'entendez. Vous êtes encore dans la voiture, vitres à demi ouvertes, quand le grondement lointain arrive en roulant depuis la montagne comme un tonnerre sourd. Le son devient de plus en plus fort jusqu'à ce que vous sortiez et marchiez vers le bord de la falaise, et soudain un rideau d'eau apparaît devant vous—182 mètres de haut, divisé en deux sections. D'abord les chutes elles-mêmes fendent le rocher, puis plongent, s'écrasant dans l'étang profond au fond du canyon, envoyant des embruns à des centaines de mètres. Debout sur la plateforme d'observation, vous pouvez sentir le métal sous vos pieds vibrer légèrement—c'est la transmission de la puissance de la chute d'eau. Les embruns hit your face comme une pluie fine, portant le parfum de mousse et d'aiguilles de pin, et occasionnellement un arc-en-ciel apparaît dans la lumière du soleil. Ce n'est pas un ruisseau de forêt gentil—c'est la puissance brute de la nature nordique en plein affichage. La neige fond dévale la roche de basalte, à travers le plateau de Hardangervidda, puis se jette sans hésitation dans le canyon. Toute la scène rayonne d'un sentiment irrésistible de mouvement, vous faisant sentir que le temps ici a été étiré par le son de l'eau, devenant épais et lourd. Les locaux appellent l'atmosphère de cette région \"fjellstillhet\" (tranquillité de montagne), mais ici, le silence est remplacé par le grondement, pourtant cela apporte une paix intérieure encore plus profonde. Vous comprenez vraiment que sur cette terre norvégienne, la nature est le vrai protagoniste—l'humanité effectue simplement une pause douce à côté."
+      "content": "Le plateau ouvert du Hardangervidda contraste avec les parois de Måbødalen. Les secteurs de Fossli et Fossatromma sont reliés par des belvédères, des ponts et l’ancien chemin muletier. Le débit, les embruns et la visibilité varient. Organiser la visite en fonction des accès réellement ouverts."
     },
     "basicInfo": {
       "title": "Informations de Base",
       "hours": "Heures d'Ouverture",
-      "hoursContent": "La cascade est visible toute l'année depuis les zones accessibles, mais les points de vue, le pont à marches, les sentiers, les parkings et les toilettes sont saisonniers. Ils sont généralement disponibles du printemps à l'automne et peuvent fermer plus tôt ou ouvrir plus tard selon la neige et le verglas. Consultez Norwegian Scenic Routes et Statens vegvesen avant le départ, surtout d'octobre à avril.",
+      "hoursContent": "Norwegian Scenic Routes indique des fermetures hivernales dues à la neige et au sol glissant. Les toilettes de Fossli et Fossatromma sont normalement ouvertes de début avril à novembre. Ces indications saisonnières ne constituent pas un bulletin en temps réel : vérifier les avis officiels.",
       "ticket": "Accès et Stationnement",
       "ticketContent": "L'accès à Vøringsfossen est gratuit. Les informations touristiques officielles du Hardanger indiquent que les parkings de Fossli et Fossatromma sont également gratuits. Les parkings et services peuvent fermer en hiver ou lorsque les conditions sont dangereuses ; vérifiez les informations officielles avant le départ.",
       "address": "Adresse",
       "addressContent": "Vøringsfossen, 5785 Eidfjord, Vestland, Norway",
       "transport": "Transport",
-      "transportContent": "Depuis Bergen, prenez la E16 pendant environ 2h30 jusqu'à Voss, puis tournez vers Eidfjord et continuez le long de la Riksvei 7 pendant environ 1 heure. La conduite est recommandée—les paysages de fjords en chemin sont à couper le souffle. Alternativement, prenez le train de Bergen à Voss (environ 1h30, des trains toutes les heures), puis le bus (Route 940) jusqu'à Eidfjord, environ 4 départs par jour, trajet total environ 4 heures. Depuis Oslo, la conduite prend environ 5 heures. Les pneus neige sont obligatoires en hiver, et certaines sections nécessitent une conduite prudente. Des navettes locales opèrent depuis le village d'Eidfjord, de 10h à 17h en été, 50 NOK par trajet simple."
+      "transportContent": "L’accès se fait par la route 7 depuis Eidfjord ou le plateau. Consulter Statens vegvesen pour les fermetures et la circulation en convoi. Sans voiture, vérifier Entur et Visit Eidfjord pour la date exacte, le dernier trajet jusqu’à la cascade et le retour. Aucun horaire ou tarif fixe de navette n’est garanti."
     },
     "history": {
       "title": "Histoire et Culture",
       "historicalStatus": "Importance Historique",
-      "historicalStatusContent": "L'une des chutes d'eau les plus célèbres de Norvège, un hotspot touristique et de recherche géologique depuis le 19e siècle, et le symbole naturel où le plateau de Hardangervidda rencontre les fjords.",
+      "historicalStatusContent": "Vøringsfossen est un lieu de visite connu du corridor panoramique du Hardangervidda, entre haut plateau et vallée du fjord.",
       "historyBackground": "Contexte Historique",
-      "historyBackgroundContent": "L'histoire de Vøringsfossen a commencé il y a environ dix mille ans, lorsque la dernière période glaciaire s'est terminée. Au fur et à mesure que les glaciers se retiraient, ils laissaient derrière eux des fjords en forme de U et des falaises abruptes. L'eau de fonte du plateau de Hardangervidda s'écoulait à travers les vallées de rift, formant cette cascade dans la vallée de Bjoreiddalen. Les premiers enregistrements provenaient de missionnaires dano-norvégiens du 18e siècle, qui l'appelaient \"le rideau d'eau terrifiant\". Mais ce n'est qu'au milieu du 19e siècle, avec la montée du romantisme européen, que les intellectuelle norvégiens ont commencé à considérer leurs chutes d'eau, fjords et glaciers comme des symboles de l'esprit national, truly amenant Vøringsfossen dans la conscience publique. Dans les années 1840, le peintre Johan Christian Dahl a capturé le jeu de lumière ici, et son œuvre a causé une sensation lors de son exposition à Copenhague. Explorateurs et voyageurs ont bientôt suivi. Les Britanniques ont été les premiers à construire un chemin de diligence d'Eidfjord aux chutes, et en 1880 un petit hôtel a ouvert pour les visiteurs épuisés. Pendant la Seconde Guerre mondiale, les combattants de la résistance norvégienne ont utilisé le terrain près des chutes pour cacher des fournitures aux patrouilles nazies. Dans les années 1960, avec l'accès routier établi, c'est devenu un arrêt obligatoire pour les road trips. En 2012, un glissement de terrain a presque changé le cours de la cascade; les scientifiques ont rapidement construit un canal de déviation après une évaluation d'urgence. En 2020, une toute nouvelle plateforme d'observation en porte-à-faux a ouvert, conçue par l'architecte Carl-Viggo Hølmebakk dans le cadre des Routes touristiques nationales de Norvège. Le projet comprend des chemins sécurisés et le pont à marches au-dessus des gorges. Aujourd'hui, Vøringsfossen attire plus de 300 000 visiteurs par an, mais son âme reste inchangée—cette puissance froide, mouillée, primitive, où chaque ruée d'eau semble raconter la première fissure de glace il y a dix mille ans lorsque le glacier s'est retiré pour la première fois.",
+      "historyBackgroundContent": "Norwegian Scenic Routes attribue l’aménagement moderne à l’architecte Carl-Viggo Hølmebakk. Il associe chemins sécurisés, ponts, belvédères et bâtiments de services. À proximité, le pont en pierre de Måbø date de 1910 ; l’ancien tracé routier a été remplacé en 1986. Ne pas emprunter l’ancienne route comme itinéraire de transit : l’autorité signale des éboulements.",
       "culturalValue": "Valeur Culturelle",
       "culturalValueContent": "Comme source d'inspiration pendant la période du romantisme national norvégien, elle est apparue dans de nombreuses peintures et poèmes. La culture samie locale la considère comme sacrée, et des vestiges sacrificiels demeurent à ce jour."
     },
     "architecture": {
       "title": "Caractéristiques Architecturales",
       "features": "Caractéristiques Architecturales",
-      "featuresContent": "La cascade elle-même est un paysage d'érosion naturel sans structures artificielles. Cependant, la récemment construite \"Vøringfossen Viewpoint\" est une plateforme d'observation en acier en porte-à-faux s'étendant au-dessus de la falaise, devenant un modèle d'architecture moderne en coexistence harmonieuse avec la nature.",
+      "featuresContent": "Plusieurs belvédères, des ponts de différentes tailles, deux bâtiments de services et des parkings composent le site. La passerelle à marches relie Fossli et Fossatromma au-dessus de la Bjoreio et de l’ancien chemin muletier.",
       "style": "Style Architectural",
-      "styleContent": "En tant que cascade naturelle, il n'y a pas de style architectural spécifique. La plateforme d'observation adopte un design moderne minimaliste,强调 l'intégration avec les textures rocheuses environnantes, et sa structure en porte-à-faux asymétrique reflète la révérence de l'architecture nordique pour la nature."
+      "styleContent": "Le projet de Carl-Viggo Hølmebakk ouvre plusieurs perspectives sur la cascade et Måbødalen. L’accessibilité en fauteuil est partielle ; la passerelle et certaines liaisons comportent des escaliers."
     },
     "tourRoute": {
       "title": "Circuit Touristique",
@@ -86,41 +87,41 @@
     "photography": {
       "title": "Guide Photographique",
       "spots": "Spots Photo",
-      "spotsContent": "Côté droit de la plateforme d'observation supérieure: Photographiez avant 10h pour une vue complète de la cascade, utilisez un objectif grand-angle pour inclure le plateau de Hardangervidda lointain, le ciel bleu contrastant avec les embruns blancs\nFin du sentier de planche en bois inférieur: Photos à contre-jour vers 13h, les gouttelettes d'eau deviennent des milliers de diamants étincelants à contre-jour, excellents effets de silhouette\nMontez la petite colline à gauche du parking (environ 3 minutes): Un spot secret peu connu, peut capturer la cascade avec l'eau bleu lac du lointain fjord d'Eidfjord\nEscaliers en bois derrière le centre de visiteurs: Pendant la soirée, utilisez un téléobjectif pour comprimer l'espace, créant profondeur avant et arrière avec la cascade et les pins sur la paroi rocheuse",
+      "spotsContent": "Belvédères ouverts : rester derrière les protections.\nFossli et Fossatromma : comparer les perspectives si les deux secteurs sont accessibles.\nPasserelle : intégrer son architecture sans gêner le passage, uniquement lorsqu’elle est ouverte.",
       "tips": "Conseils Photo",
-      "tipsContent": "L'utilisation d'un filtre polarisant circulaire (CPL) peut éliminer les reflets de l'eau, rendant les couleurs de l'eau plus profondes. Les drones sont interdits près de la cascade—les embruns sont mortels pour les équipements électroniques, et la zone est sous contrôle du parc national. Utilisez un étui imperméable pour votre appareil photo pendant la prise de vue; les embruns peuvent recouvrir la surface de l'objectif d'un film d'eau en quelques minutes."
+      "tipsContent": "Protéger le matériel des embruns et rester sur le chemin sécurisé. Ne jamais franchir une barrière pour une photo. Vérifier les restrictions aériennes et règles locales avant tout projet de vol de drone ; ce guide ne donne aucune autorisation."
     },
     "accommodation": {
       "title": "Recommandations d'Hébergement",
       "recommendations": "Recommandations d'Hébergement",
-      "recommendationsContent": "Choix Économique: Eidfjord Turisthytte auberge de jeunesse à Eidfjord—chambres propres et simples, cuisine partagée pour se restaurer, peut entendre le grondement lointain de la cascade depuis la fenêtre, lits environ 300 NOK par nuit\nExpérience Unique: Skinnarbu Hytte sur le plateau de Hardangervidda au-dessus de la cascade—une cabane de montagne traditionnelle en bois convertie en gîte avec seulement cinq chambres, le propriétaire vous racontera comment les Samis faisaient paître les rennes ici, les étoiles nocturnes comme un gâteau au chocolat saupoudré de sucre en poudre\nLuxe: Eidfjord Fjordhotel à Eidfjord—chambres avec fenêtres du sol au plafond donnant sur le fjord, dîner avec viande de renne et saumon fraîchement péché, jacuzzi extérieur, regardant le crépuscule lointain engloutir la cascade, environ 2 000 NOK par nuit",
+      "recommendationsContent": "Eidfjord : une base pour associer cascade, fjord et Norsk Natursenter.\nCôté plateau : choisir selon la suite du voyage et les conditions de la route 7.\nVérifier disponibilités, prestations et tarifs directement auprès de chaque hébergement.",
       "tips": "Conseils d'Hébergement",
-      "tipsContent": "Le village d'Eidfjord est très petit avec des options d'hébergement limitées; pendant la haute saison (juin à août), réservez au moins deux mois à l'avance. Si vous conduisez et recherchez l'expérience naturelle ultime, consider campground on Hardangervidda plateau, but you need to bring your own tent or RV. Norway's \"freedom to roam\" permet le camping dans la nature pour une nuit; maintenez une distance de sécurité des rivières et emportez toutes vos ordures."
+      "tipsContent": "Choisir son hébergement selon les accès routiers confirmés et le retour prévu. Les fermetures en montagne peuvent modifier le trajet. Vérifier séparément les règles des campings et du stationnement de nuit."
     }
   },
   "transport": {
     "title": "Guide de Transport Détaillé",
     "subtitle": "Avion, train, bus, taxi, voiture ou navette : toutes les façons d'atteindre la cascade",
-    "intro": "Vøringsfossen se trouve près du village d'Eidfjord, à la lisière sud du plateau de Hardangervidda, et est accessible toute l'année. Voici les moyens de transport les plus courants, pour choisir celui qui correspond à votre itinéraire.",
+    "intro": "La route 7 relie Eidfjord au Hardangervidda. Distinguer l’état de la route de celui des chemins de visite. Garder une marge pour la météo et les services saisonniers.",
     "airport": {
       "title": "En Avion (Aéroport le Plus Proche)",
-      "content": "L'aéroport international le plus proche est celui de Bergen Flesland (BGO), à environ 160 km de la cascade—soit environ 3 heures de route, combinables avec les paysages de fjords le long de la Riksvei 7. Plusieurs comptoirs de location de voitures se trouvent dans le hall des arrivées, ou vous pouvez prendre la navette aéroport jusqu'au centre de Bergen puis continuer en train et en bus. L'aéroport d'Oslo Gardermoen (OSL) est une autre option, à environ 5 heures de route, idéale pour ceux qui prévoient un road-trip le long du plateau de Hardangervidda."
+      "content": "Bergen ou Oslo peuvent être le point de départ d’un voyage plus long. Vérifier toute la chaîne de transport jusqu’à Eidfjord puis à la cascade ; ne pas supposer une correspondance le jour même."
     },
     "bus": {
       "title": "En Bus",
-      "content": "Le principal nœud est Voss : après le train de Bergen à Voss, prenez la ligne de bus 940 vers Eidfjord—environ 4 départs par jour, soit environ 4 heures au total. En été, des bus longue distance directs partent aussi de Bergen via la route du Hardanger. Les services sont nettement réduits le dimanche et les jours fériés—consultez toujours les horaires en temps réel avant de partir."
+      "content": "Chercher sur Entur et auprès de l’opérateur pour la date choisie. Confirmer l’arrêt exact et le dernier retour. Un bus pour Eidfjord ne dessert pas nécessairement Fossli ou Fossatromma."
     },
     "taxi": {
       "title": "En Taxi",
-      "content": "Le village d'Eidfjord propose des services de taxi réservables par téléphone à l'avance. Du centre du village au point de vue de la cascade, comptez environ 15 à 20 minutes de trajet—pratique pour les voyageurs chargés ou pressés. La demande est plus forte la nuit et en hiver ; il est conseillé de réserver la veille."
+      "content": "Réserver l’aller et le retour avec un opérateur. Confirmer le lieu de prise en charge ouvert et le prix ; ne pas compter sur un taxi disponible sur place."
     },
     "car": {
       "title": "En Voiture",
-      "content": "Depuis Bergen : prenez la E16 pendant environ 2h30 jusqu'à Voss, puis suivez les panneaux vers Eidfjord le long de la Riksvei 7 pendant environ 1 heure. Depuis Oslo, comptez environ 5 heures. En hiver (octobre à avril), des sections de montagne peuvent fermer—les pneus neige sont obligatoires et vérifiez les conditions routières en direct auprès de l'Administration norvégienne des routes publiques (Statens vegvesen) avant le départ."
+      "content": "Suivre la route 7 depuis Eidfjord ou le plateau. Vérifier Statens vegvesen avant de partir pour les fermetures, les convois et les exigences de conduite. Respecter la signalisation même si le GPS propose de continuer."
     },
     "train": {
       "title": "En Train",
-      "content": "La ligne Bergen–Voss prend environ 1h30 avec des départs horaires et figure parmi les plus beaux trajets ferroviaires de Norvège, traversant fjords et sommets enneigés. À Voss, prenez le bus 940 vers Eidfjord pour continuer jusqu'à la cascade. Pas besoin de conduire—idéal si vous préférez éviter la location de voiture."
+      "content": "Il n’y a pas de gare à la cascade ni à Eidfjord. Un trajet ferroviaire via Voss nécessite une correspondance vérifiée, y compris le dernier parcours jusqu’au site."
     },
     "shuttle": {
       "title": "Navette",
@@ -132,7 +133,7 @@
     "subtitle": "Toilettes, stationnement, restauration, courses et ravitaillement : tout ce qu'il faut savoir",
     "wc": {
       "title": "Toilettes (WC)",
-      "content": "Des toilettes publiques gratuites sont disponibles au point de vue et au centre de visiteurs, ouvertes chaque jour en haute saison (mai à septembre), avec des fermetures partielles en hiver. Les installations en montagne sont limitées—planifiez vos arrêts et apportez mouchoirs et désinfectant."
+      "content": "Selon Norwegian Scenic Routes, les toilettes de Fossli et Fossatromma ouvrent normalement de début avril à novembre, sous réserve des conditions. La vidange des toilettes de camping-cars et caravanes y est interdite."
     },
     "parking": {
       "title": "Stationnement",
@@ -140,47 +141,47 @@
     },
     "dining": {
       "title": "Restauration",
-      "content": "Le centre de visiteurs abrite un café servant boissons chaudes, plats légers et pâtisseries ; le village d'Eidfjord offre également des restaurants et cafés. Les options en montagne sont limitées et les horaires varient selon la saison—apportez de l'eau et des en-cas, certains lieux ferment en hiver."
+      "content": "Vérifier la restauration auprès de l’exploitant avant de compter dessus. Prévoir eau et provisions. Le site de la cascade est distinct du Norsk Natursenter et de son restaurant à Øvre Eidfjord."
     },
     "shopping": {
       "title": "Commerces",
-      "content": "Le village d'Eidfjord possède de petites supérettes et épiceries pour l'eau, les en-cas, les articles de première nécessité et l'équipement extérieur comme les cartouches de gaz. Pour de plus gros achats, faites vos courses dans des villes plus grandes comme Voss, Geilo ou Bergen avant votre arrivée—les boutiques du village sont petites."
+      "content": "Acheter les produits essentiels au village avant de monter. Ne pas supposer la présence d’une boutique ouverte toute l’année à la cascade."
     },
     "fuel": {
       "title": "Carburant & Recharge",
-      "content": "Une station-service à Eidfjord propose essence et diesel. La Norvège a un fort taux de véhicules électriques, mais les bornes de recharge dans les fjords montagneux sont rares—planifiez vos arrêts avec une application de cartographie des bornes avant le départ ; les stations de recharge les plus denses se trouvent vers Voss ou Geilo."
+      "content": "L’autorité panoramique mentionne des bornes de recharge sur un parking. Vérifier leur disponibilité et prévoir une solution de secours avant la traversée du plateau."
     },
     "accessibility": {
       "title": "Accessibilité & Services",
-      "content": "Le point de vue supérieur est accessible aux fauteuils roulants et poussettes via une rampe ; la passerelle inférieure nécessite des escaliers et n'est pas adaptée aux fauteuils. Les trousses de premiers soins sont au centre de visiteurs. Le signal mobile est le plus fort autour du centre de visiteurs et du point de vue, et peut disparaître plus profondément dans le canyon."
+      "content": "Le site est partiellement accessible en fauteuil. La passerelle et plusieurs liaisons comportent des marches. Consulter le plan officiel et les accès ouverts ; aucun circuit intégral sans marches n’est garanti."
     }
   },
   "legends": {
-    "title": "Légendes & Histoires",
-    "subtitle": "Dans le folklore norvégien, les chutes d'eau n'ont jamais été un paysage silencieux",
-    "intro": "Dans le folklore norvégien, les chutes d'eau sont les soupirs des géants, le territoire des trolls et les portes des esprits. Les légendes de Vøringsfossen remontent à mille ans, aussi durables que son grondement. La plupart de ces histoires sont des traditions orales plutôt que des faits historiques—lisez-les avec admiration.",
+    "title": "Paysage et patrimoine du voyage",
+    "subtitle": "Un contexte documenté",
+    "intro": "Les sources officielles présentent le lien entre l’eau, la montagne, l’histoire des routes et l’architecture contemporaine.",
     "items": [
       {
-        "title": "Le Secret du Nom",
-        "content": "\"Vøring\" reste un mot d'origine contestée. Une théorie le rattache à une racine du vieux norrois signifiant \"garder\" ou \"avertir\"—le grondement assourdissant des chutes servant d'avertissement de la terre elle-même, disant aux voyageurs que le bord du canyon se trouve devant eux. Une autre théorie le relie à d'anciens noms de fermes locales ; au fil des siècles de tradition orale, le nom est devenu inséparable de la chute d'eau elle-même."
+        "title": "Du plateau à la gorge",
+        "content": "L’eau descend du Hardangervidda vers Måbødalen, transition marquante de cette route panoramique."
       },
       {
-        "title": "La Veille du Troll",
-        "content": "Dans le folklore norvégien, les trolls sont les gardiens des montagnes. La légende raconte qu'un vieux troll vivant au cœur du plateau de Hardangervidda tomba amoureux de la fille d'un gardien de phare au bord du fjord. Chaque pleine lune, il glissait le long des chutes pour contempler sa lumière chaleureuse. Les trolls craignent le soleil et doivent rentrer dans les montagnes avant l'aube—c'est pourquoi, dit-on, la cascade gronde toute la nuit : c'est le battement de cœur du vieux troll rentrant précipitamment chez lui."
+        "title": "Deux secteurs",
+        "content": "Fossli et Fossatromma offrent des perspectives différentes et sont reliés lorsque le réseau est ouvert."
       },
       {
-        "title": "L'Esprit de l'Eau",
-        "content": "Dans la tradition nordique, une créature mystérieuse appelée Nøkk habite les eaux douces. On croyait que les embruns s'élevant des chutes étaient le souffle du Nøkk. La légende dit qu'un jeune violoneux joua un jour près des chutes ; sa musique émut l'esprit de l'eau, qui sortit des embruns et lui offrit une mélodie \"capable de faire pleurer les rochers\". Dès lors, les chasseurs locaux glissaient une pièce dans leur poche en passant près des chutes, en signe de respect à l'esprit de l'eau."
+        "title": "Pont de Måbø",
+        "content": "Ce pont en pierre de 1910 est un monument protégé, distinct de la passerelle de la cascade."
       },
       {
-        "title": "Le Regard Romantique",
-        "content": "Au milieu du XIXe siècle, la Norvège s'acheminait vers l'indépendance vis-à-vis du Danemark. Lorsque le peintre Johan Christian Dahl captura la lumière de Vøringsfossen sur sa toile, il peignit plus qu'un paysage—il peignit l'image qu'une nation se faisait d'elle-même. Sous son pinceau et celui des poètes de son temps, la cascade en vint à incarner \"l'esprit indompté\" de la Norvège : froid, rebelle et intensément vivant. Ce regard fit d'une cascade dans un petit canyon l'âme d'une nation."
+        "title": "Architecture paysagère",
+        "content": "Norwegian Scenic Routes attribue les belvédères, ponts et chemins sécurisés à Carl-Viggo Hølmebakk."
       }
     ]
   },
   "gallery": {
     "title": "Galerie Photo",
-    "subtitle": "Vues imprenables de la cascade et du canyon",
+    "subtitle": "Cascades et paysages de montagne. Tous les lieux de prise de vue ne sont pas vérifiés.",
     "captions": [
       "Vue panoramique de Vøringsfossen",
       "Paysage de la vallée de Måbødalen",
@@ -189,38 +190,27 @@
       "Couleurs automnales dans le canyon",
       "Phénomène de brouillard de la cascade"
     ],
-    "viewAll": "Voir sur Google Maps"
+    "viewAll": "Voir sur Google Maps",
+    "photoDescriptions": [
+      "Cascade et vallée verdoyante escarpée",
+      "Eau entre rochers et arbres",
+      "Cascade et rivière sous des falaises",
+      "Chute dans une gorge rocheuse étroite",
+      "Pont au-dessus d’une gorge brumeuse",
+      "Large cascade près d’un versant vert",
+      "Cascades entre hautes falaises",
+      "Deux chutes au bord d’une falaise",
+      "Eaux vives et arbres d’automne",
+      "Fleurs au-dessus d’une vallée de montagne",
+      "Gorge rocheuse sous les nuages",
+      "Cascade au milieu des bois"
+    ]
   },
   "reviews": {
-    "title": "Avis des Visiteurs",
+    "title": "Évaluation des visiteurs sur Google Maps",
     "declaration": "Les commentaires des visiteurs sont disponibles sur Google Maps (lien externe).",
     "moreReviews": "Voir sur Google Maps",
-    "items": [
-      {
-        "name": "Pierre L.",
-        "date": "Mars 2026",
-        "rating": 5,
-        "text": "Absolument époustouflant ! La puissance et le son de la cascade sont inoubliables. La plateforme d'observation est parfaitement conçue pour découvrir la cascade de près."
-      },
-      {
-        "name": "Marie D.",
-        "date": "Février 2026",
-        "rating": 5,
-        "text": "Incontournable lors d'une visite en Norvège ! Même en hiver, la cascade est spectaculaire. Arrivez tôt pour un meilleur stationnement."
-      },
-      {
-        "name": "Jean-Pierre M.",
-        "date": "Janvier 2026",
-        "rating": 4,
-        "text": "Une beauté naturelle extraordinaire, bien que le parking soit petit. Préparez-vous à attendre en haute saison. Prévoyez suffisamment de temps pour la visite."
-      },
-      {
-        "name": "Sophie B.",
-        "date": "Décembre 2025",
-        "rating": 5,
-        "text": "Debout sur la plateforme à regarder l'eau dévaler de cette hauteur... les mots ne peuvent pas décrire le sentiment. Le point fort de notre voyage en Norvège !"
-      }
-    ]
+    "reviewCount": "11 493 avis Google · 10 nov. 2026"
   },
   "mapSection": {
     "title": "Comment S'y Rendre",
@@ -233,7 +223,7 @@
     "rights": "© 2026 Guide indépendant de Vøringsfossen.",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
-    "cookies": "Paramètres des Cookies",
+    "cookies": "Cookies et services externes",
     "officialResourcesTitle": "Ressources et Informations Associées",
     "officialLinks": {
       "council": "Office National Norvégien du Tourisme",
@@ -248,23 +238,11 @@
   },
   "privacy": {
     "title": "Politique de Confidentialité",
-    "lastUpdated": "Dernière mise à jour : Mars 2026",
+    "lastUpdated": "Mise à jour : 10 novembre 2026",
     "sections": [
       {
-        "heading": "1. Collecte d'Informations",
-        "content": "Nous ne collectons généralement pas activement d'informations personnelles identifiables auprès des utilisateurs. Toute information fournie par vous via des formulaires de contact ou des e-mails serakept strictement confidentielle."
-      },
-      {
-        "heading": "2. Utilisation des Informations",
-        "content": "Les informations que nous collectons sont utilisées uniquement pour fournir, maintenir et améliorer nos services, et pour communiquer avec vous. Nous ne vendons ni ne partageons vos informations personnelles avec des tiers à des fins marketing."
-      },
-      {
-        "heading": "3. Cookies et Suivi",
-        "content": "Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur notre site web et conserver certaines informations. Vous pouvez demander à votre navigateur de refuser tous les cookies ou d'indiquer quand un cookie est envoyé."
-      },
-      {
-        "heading": "4. Sécurité des Données",
-        "content": "La sécurité de vos données est importante pour nous. Nous utilisons des moyens commercialement acceptables pour protéger vos données personnelles, bien qu'aucune méthode de transmission sur Internet ne soit sécurisée à 100%."
+        "heading": "Cookies et services externes",
+        "content": "Le site charge Google Analytics, Google Fonts et une carte Google intégrée. Cloudflare assure l’hébergement et peut fournir des mesures de performance. Cette page ne comporte pas de commande de refus au niveau du site. Utiliser les réglages de confidentialité, cookies et données de sites du navigateur ; le blocage peut affecter certaines fonctions."
       }
     ]
   },
@@ -291,8 +269,8 @@
     ]
   },
   "cookieSettings": {
-    "title": "Paramètres des Cookies",
-    "description": "Gérez vos préférences en matière de cookies.",
+    "title": "Cookies et services externes",
+    "description": "Le site charge Google Analytics, Google Fonts et une carte Google intégrée. Cloudflare assure l’hébergement et peut fournir des mesures de performance. Cette page ne comporte pas de commande de refus au niveau du site. Utiliser les réglages de confidentialité, cookies et données de sites du navigateur ; le blocage peut affecter certaines fonctions.",
     "essential": {
       "title": "Cookies Strictement Nécessaires",
       "description": "Requis pour les fonctionnalités de base du site.",
@@ -317,23 +295,67 @@
     "title": "Questions Fréquentes",
     "subtitle": "Les réponses aux questions les plus courantes sur Vøringsfossen",
     "items": [
-      {"q": "Où se trouve Vøringsfossen ?", "a": "Vøringsfossen se trouve à Eidfjord, dans le comté de Vestland, en Norvège. Le point de vue est accessible en voiture le long de la Riksvei 7."},
-      {"q": "La visite de Vøringsfossen est-elle gratuite ?", "a": "Oui. L'accès est gratuit et les informations touristiques officielles du Hardanger indiquent que les parkings de Fossli et Fossatromma sont gratuits. Les fermetures saisonnières peuvent toucher parkings et services."},
-      {"q": "Comment se rendre à Vøringsfossen ?", "a": "En voiture depuis Bergen (environ 2h30 jusqu'à Voss, puis 1 heure le long de la Riksvei 7) ou depuis Oslo (environ 5 heures). Sinon, prenez le train de Bergen à Voss, puis le bus (ligne 940) jusqu'à Eidfjord."},
-      {"q": "Quelle est la meilleure période pour visiter ?", "a": "De mai à septembre, lorsque la fonte des neiges rend la cascade la plus puissante. La cascade est visitable toute l'année."},
-      {"q": "Quelle est la hauteur de Vøringsfossen ?", "a": "La chute totale est d'environ 182 mètres, divisée en deux sections, ce qui en fait l'une des plus hautes chutes d'eau de Norvège."},
-      {"q": "Quels équipements sont disponibles ?", "a": "Un centre de visiteurs avec café et boutique de souvenirs, un parking, des toilettes publiques et une plateforme d'observation moderne accessible en fauteuil roulant."}
+      {
+        "q": "Où se trouve Vøringsfossen ?",
+        "a": "Vøringsfossen se trouve à Eidfjord, dans le comté de Vestland, en Norvège. Le point de vue est accessible en voiture le long de la Riksvei 7."
+      },
+      {
+        "q": "La visite de Vøringsfossen est-elle gratuite ?",
+        "a": "Oui. L'accès est gratuit et les informations touristiques officielles du Hardanger indiquent que les parkings de Fossli et Fossatromma sont gratuits. Les fermetures saisonnières peuvent toucher parkings et services."
+      },
+      {
+        "q": "Comment se rendre à Vøringsfossen ?",
+        "a": "L’accès se fait par la route 7 depuis Eidfjord ou le plateau. Consulter Statens vegvesen pour les fermetures et la circulation en convoi. Sans voiture, vérifier Entur et Visit Eidfjord pour la date exacte, le dernier trajet jusqu’à la cascade et le retour. Aucun horaire ou tarif fixe de navette n’est garanti."
+      },
+      {
+        "q": "Quelle est la meilleure période pour visiter ?",
+        "a": "Norwegian Scenic Routes indique des fermetures hivernales dues à la neige et au sol glissant. Les toilettes de Fossli et Fossatromma sont normalement ouvertes de début avril à novembre. Ces indications saisonnières ne constituent pas un bulletin en temps réel : vérifier les avis officiels."
+      },
+      {
+        "q": "Quelle est la hauteur de Vøringsfossen ?",
+        "a": "Norwegian Scenic Routes décrit une chute de 182 mètres entre le plateau et Måbødalen."
+      },
+      {
+        "q": "Quels équipements sont disponibles ?",
+        "a": "Le site est partiellement accessible en fauteuil. La passerelle et plusieurs liaisons comportent des marches. Consulter le plan officiel et les accès ouverts ; aucun circuit intégral sans marches n’est garanti. Selon Norwegian Scenic Routes, les toilettes de Fossli et Fossatromma ouvrent normalement de début avril à novembre, sous réserve des conditions. La vidange des toilettes de camping-cars et caravanes y est interdite."
+      }
     ]
   },
   "sources": {
     "title": "Sources et Références",
     "subtitle": "Informations vérifiées auprès de sources officielles et faisant autorité",
-    "intro": "Les informations de ce site ont été rassemblées et vérifiées auprès de sources officielles et faisant autorité, pour garantir leur exactitude et leur actualité.",
+    "intro": "Vérification éditoriale : 10 novembre 2026. Consulter les autorités liées pour les accès et la météo actuels ; cette page ne fournit pas l’état en temps réel.",
     "items": [
-      {"name": "Visit Norway - Office National Norvégien du Tourisme", "url": "https://www.visitnorway.com/", "desc": "Portail touristique officiel de la Norvège"},
-      {"name": "Fjord Norway", "url": "https://www.fjordnorway.com/", "desc": "Office du tourisme officiel de la région des fjords"},
-      {"name": "Tourisme Hardangerfjord", "url": "https://www.hardangerfjord.com/", "desc": "Informations touristiques officielles de la région de Hardanger"},
-      {"name": "Statens vegvesen", "url": "https://www.vegvesen.no/", "desc": "Administration norvégienne des routes publiques - conditions routières en temps réel"}
+      {
+        "name": "Visit Norway - Office National Norvégien du Tourisme",
+        "url": "https://www.visitnorway.com/",
+        "desc": "Portail touristique officiel de la Norvège"
+      },
+      {
+        "name": "Fjord Norway",
+        "url": "https://www.fjordnorway.com/",
+        "desc": "Office du tourisme officiel de la région des fjords"
+      },
+      {
+        "name": "Tourisme Hardangerfjord",
+        "url": "https://www.hardangerfjord.com/",
+        "desc": "Informations touristiques officielles de la région de Hardanger"
+      },
+      {
+        "name": "Statens vegvesen",
+        "url": "https://www.vegvesen.no/",
+        "desc": "Administration norvégienne des routes publiques - conditions routières en temps réel"
+      },
+      {
+        "name": "Norwegian Scenic Routes — Hardangervidda",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/",
+        "desc": ""
+      },
+      {
+        "name": "Entur",
+        "url": "https://entur.no/",
+        "desc": ""
+      }
     ]
   },
   "recommendations": {
@@ -341,14 +363,32 @@
     "attractionsTitle": "Attractions à Proximité",
     "toursTitle": "Visites et Activités Recommandées",
     "attractions": [
-      {"name": "Hôtel Ullensvang", "url": "https://www.booking.com"},
-      {"name": "Croisière Hardangerfjord", "url": "https://www.norled.no"},
-      {"name": "Marché aux Poissons de Bergen", "url": "https://www.visitbergen.com"}
+      {
+        "name": "Hôtel Ullensvang",
+        "url": "https://www.booking.com"
+      },
+      {
+        "name": "Croisière Hardangerfjord",
+        "url": "https://www.norled.no"
+      },
+      {
+        "name": "Marché aux Poissons de Bergen",
+        "url": "https://www.visitbergen.com"
+      }
     ],
     "tours": [
-      {"name": "Tour Norway in a Nutshell", "url": "https://www.fjordtours.no"},
-      {"name": "Expérience Croisière dans les Fjords", "url": "https://www.hurtigruten.com"},
-      {"name": "Randonnées aux Chutes d'eau", "url": "https://www.outdoorlife.no"}
+      {
+        "name": "Tour Norway in a Nutshell",
+        "url": "https://www.fjordtours.no"
+      },
+      {
+        "name": "Expérience Croisière dans les Fjords",
+        "url": "https://www.hurtigruten.com"
+      },
+      {
+        "name": "Randonnées aux Chutes d'eau",
+        "url": "https://www.outdoorlife.no"
+      }
     ]
   }
 }

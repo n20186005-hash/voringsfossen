@@ -2,6 +2,9 @@
 node_modules/
 
 # Build output
+.open-next/
+.wrangler/
+.dev.vars*
 .next/
 out/
 dist/
@@ -41,3 +44,4 @@ coverage/
 # Temporary files
 *.tmp
 *.temp
+

@@ -1,0 +1,240 @@
+{
+  "ui": {
+    "nearby": "Autour de la cascade",
+    "subtitle": "Trois approches différentes du paysage d’Eidfjord. Vérifier les accès propres à chaque lieu avant de l’ajouter au voyage.",
+    "read": "Lire le guide",
+    "tips": "Avant le départ",
+    "facts": "Repères pratiques",
+    "route": "Organiser la visite",
+    "sources": "Sources et vérification éditoriale",
+    "checked": "Rédaction de Vøringsfossen Visitor Guide · vérifié le 10 novembre 2026",
+    "related": "Poursuivre la découverte",
+    "map": "Localisation et carte officielle",
+    "back": "Guide de Vøringsfossen"
+  },
+  "guides": [
+    {
+      "slug": "hardangervidda-scenic-route",
+      "title": "Route panoramique Hardangervidda : Eidfjord–Haugastøl",
+      "description": "Préparer les 67 km de route 7 au-delà de Vøringsfossen : plateau, pont de Måbø, conditions hivernales et restrictions cyclistes.",
+      "intro": "Vøringsfossen est une étape d’un voyage plus vaste. La route panoramique nationale suit la route 7 entre Eidfjord et Haugastøl, du fjord au haut plateau par Måbødalen. Ce guide aide à choisir des arrêts ; il ne garantit pas que tous soient accessibles le même jour.",
+      "tips": [
+        "Consulter les alertes avant la traversée du plateau.",
+        "Choisir les arrêts selon la météo et la lumière du jour.",
+        "Ne pas traverser les tunnels de Måbødalen à vélo."
+      ],
+      "facts": [
+        [
+          "Itinéraire",
+          "Eidfjord–Haugastøl, route 7"
+        ],
+        [
+          "Longueur",
+          "67 km de corridor panoramique"
+        ],
+        [
+          "Altitude",
+          "0–1 250 mètres selon l’autorité routière"
+        ]
+      ],
+      "sections": [
+        [
+          "Du fjord au plateau",
+          "La route relie le village du fjord, les parois de la vallée et le plateau ouvert. Sa liste officielle d’arrêts comprend Vøringsfossen, le pont de Måbø, Ørteren et Vardestopp. Choisir selon les conditions, sans imposer un horaire fixe."
+        ],
+        [
+          "Pont de Måbø et ancienne route",
+          "Le pont en pierre date de 1910. Le pont et l’ancienne route ont été protégés en 2009 ; le nouveau tracé de la route 7 a remplacé l’ancien en 1986. L’aire de repos permet de comprendre cette histoire sans suivre l’ancienne route fermée. L’autorité signale des éboulements sur celle-ci."
+        ],
+        [
+          "Saison et sécurité routière",
+          "La route est normalement ouverte au trafic toute l’année, mais le mauvais temps peut entraîner fermetures temporaires ou convois. L’autorité mentionne aussi des restrictions hivernales pour les rennes. Ces contraintes sont distinctes des fermetures des sentiers de la cascade. Consulter Statens vegvesen et respecter les consignes sur place."
+        ],
+        [
+          "Vélo et transports",
+          "La descente de Måbødalen à vélo est interdite à cause des tunnels. L’ancienne route, fermée après des éboulements, n’est pas une déviation cyclable. L’autorité indique le bus comme solution ; confirmer transport du vélo, arrêts et service pour la date auprès de l’opérateur."
+        ],
+        [
+          "Services et suite du voyage",
+          "Il n’existe pas de billet d’entrée commun pour cette route publique. Chaque attraction, restaurant ou hébergement a ses propres conditions. Les toilettes de la cascade ne sont pas une aire de vidange ; l’autorité renvoie vers Øvre Eidfjord. Vérifier les services avant d’en dépendre."
+        ]
+      ],
+      "steps": [
+        "Choisir entre traverser le plateau ou revenir à Eidfjord.",
+        "Lire les alertes et retenir des arrêts accessibles.",
+        "Visiter les secteurs ouverts puis réévaluer les conditions avant de continuer."
+      ],
+      "faq": [
+        [
+          "Une route 7 ouverte garantit-elle les sentiers ouverts ?",
+          "Non. L’état de la route et l’accès saisonnier au site sont deux vérifications distinctes."
+        ],
+        [
+          "Peut-on descendre Måbødalen à vélo ?",
+          "L’autorité interdit la route des tunnels aux cyclistes et indique l’ancienne route fermée par des éboulements. Confirmer une alternative de transport."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norwegian Scenic Routes — Hardangervidda",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/"
+        },
+        {
+          "name": "Måbø Bridge",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/mabo-bru-rasteplass/"
+        },
+        {
+          "name": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/fjelloverganger/"
+        }
+      ],
+      "map": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/#map"
+    },
+    {
+      "slug": "kjeasen",
+      "title": "Fermes de Kjeåsen : route contrôlée et randonnée raide",
+      "description": "Comparer la route en tunnel de Kjeåsen au sentier raide de Simadal : saison, propriété privée et précautions par temps humide.",
+      "intro": "Kjeåsen est une destination distincte au-dessus du fjord, pas une extension du circuit de Vøringsfossen. Les fermes sont à environ 600 mètres d’altitude. La route et la montée à pied depuis Simadal demandent des préparations différentes ; consulter les informations municipales actuelles.",
+      "tips": [
+        "Ne pas marcher ni pédaler dans le tunnel.",
+        "Éviter le sentier lorsqu’il est humide ou verglacé.",
+        "Respecter les fermes, terrains privés et panneaux."
+      ],
+      "facts": [
+        [
+          "Secteur",
+          "Au-dessus de Simadal, commune d’Eidfjord"
+        ],
+        [
+          "En voiture",
+          "Route étroite et tunnel depuis Simadal"
+        ],
+        [
+          "À pied",
+          "Sentier séparé avec cordes et échelles"
+        ]
+      ],
+      "sections": [
+        [
+          "Une visite différente",
+          "L’intérêt réside dans les anciennes fermes et leur relation avec la pente du fjord. La randonnée est beaucoup plus raide que le circuit aménagé de la cascade. Admirer le paysage ne donne pas accès aux bâtiments, cours ou cultures. Suivre les itinéraires indiqués et respecter la vie privée."
+        ],
+        [
+          "Route et tunnel",
+          "La commune décrit une route de 5 km, avec lacets puis tunnel étroit sur environ la moitié du trajet. Elle publie une circulation alternée : montée à l’heure pleine et descente à la demi-heure. Les panneaux et avis actuels font foi. Le tunnel ne doit pas être utilisé à pied ou à vélo."
+        ],
+        [
+          "Choisir la randonnée selon le terrain",
+          "Le départ se situe à Sæ dans Simadal, près de Statkraft. Le sentier comporte cordes, marches en bois et échelles. La commune recommande de bonnes conditions estivales ou automnales ; la fiche régionale déconseille les sols humides ou verglacés. Une courte distance ne signifie pas une randonnée facile : évaluer équipement, forme et capacité à redescendre."
+        ],
+        [
+          "Saison et durée",
+          "La commune situe habituellement l’ouverture routière autour de mai, sans garantir une date précise. Les durées publiées varient : environ 2 h 30 aller-retour dans l’ancienne fiche municipale, 3–4 heures dans la fiche régionale. Garder une marge et demander localement l’état actuel du sentier."
+        ],
+        [
+          "Services et combinaison des étapes",
+          "Les sources n’établissent ni billet de visite actuel, ni restauration, ni horaires pour les intérieurs des fermes. Vérifier toute prestation réservée séparément. Prévoir repas, hébergement et retour depuis Eidfjord ou un itinéraire confirmé ; ne pas supposer la présence de services au sommet."
+        ]
+      ],
+      "steps": [
+        "Consulter les avis municipaux sur route et sentier.",
+        "Choisir la route signalée ou la randonnée séparée ; jamais le tunnel à pied.",
+        "Rester dans les zones autorisées et garder du temps pour le retour."
+      ],
+      "faq": [
+        [
+          "Est-ce la même promenade que Vøringsfossen ?",
+          "Non. Kjeåsen est au-dessus de Simadal avec une montée à pied bien plus raide."
+        ],
+        [
+          "Peut-on monter par la route à pied ?",
+          "La commune indique que le tunnel n’est pas accessible aux piétons ou vélos. Utiliser seulement le sentier séparé si les conditions et votre capacité le permettent."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Eidfjord kommune — Kjeåsen",
+          "url": "https://www.eidfjord.kommune.no/tenester/kultur-idrett-og-fritid/friluftsliv/utferdspunkt/kjeasen-2/"
+        },
+        {
+          "name": "Visit Norway — Kjeåsen hike",
+          "url": "https://www.visitnorway.com/listings/hike-to-kjeasen-view-point/193660/"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Kje%C3%A5sen%20Eidfjord%20Norway"
+    },
+    {
+      "slug": "norsk-natursenter",
+      "title": "Norsk Natursenter à Øvre Eidfjord : exposition et visite",
+      "description": "Film panoramique, géologie, faune, saison et accessibilité : préparer une visite du centre de nature en complément de Vøringsfossen.",
+      "intro": "Norsk Natursenter – Hardanger est un centre d’interprétation intérieur à Øvre Eidfjord, sur la route 7. Il explique les paysages entre fjord, Måbødalen et Hardangervidda. Il possède son propre personnel, ses billets et sa saison ; l’accès à la cascade ne comprend pas cette visite.",
+      "tips": [
+        "Confirmer la saison auprès de l’exploitant.",
+        "Vérifier séparément les horaires du centre et du restaurant.",
+        "Utiliser l’exposition pour comprendre le paysage extérieur."
+      ],
+      "facts": [
+        [
+          "Adresse",
+          "Sæbøtunet 11, 5784 Øvre Eidfjord"
+        ],
+        [
+          "Situation",
+          "Route 7, au-dessous de Måbødalen"
+        ],
+        [
+          "Accessibilité",
+          "Ascenseur entre étages annoncé par l’exploitant"
+        ]
+      ],
+      "sections": [
+        [
+          "Que trouve-t-on à l’intérieur ?",
+          "L’exploitant décrit trois étages consacrés au paysage, à la géologie, au climat, à la faune et à l’usage des ressources par l’homme. Minéraux, fossiles, aquariums de truites et interprétation de la faune complètent l’observation de la cascade. Le film panoramique parcourt fjords, montagnes, chutes et plateau."
+        ],
+        [
+          "Un complément à la cascade",
+          "Le centre apporte un contexte avant ou après un arrêt en plein air. Il répond à un souhait de découverte intérieure, mais son ouverture ne rend pas accessible un sentier fermé. Organiser les deux visites indépendamment selon les conditions et horaires."
+        ],
+        [
+          "Ouverture et billets à confirmer",
+          "Lors de notre vérification, le bandeau de l’exploitant indiquait une fermeture saisonnière, tandis que le corps de page et le pied de page conservaient des dates différentes. Nous ne retenons donc aucune date de réouverture ou plage horaire comme définitive. Consulter la billetterie actuelle pour prix, âges et groupes."
+        ],
+        [
+          "Accessibilité et services",
+          "L’exploitant annonce conception accessible, ascenseur, toilettes, espace bébé, vestiaire et rangement de bagages. Confirmer les besoins précis avant l’arrivée. La nourriture et les boissons apportées ne sont pas autorisées à l’intérieur. Le restaurant Hardangerviddahallen a ses propres horaires saisonniers."
+        ],
+        [
+          "Accès et suite de la journée",
+          "Utiliser l’adresse d’Øvre Eidfjord, et non le parking de la cascade. En transports publics, confirmer arrêt et retour pour la date ; aucun temps ou fréquence fixe n’est supposé. Choisir repas et hébergement selon les services confirmés, puis vérifier route et belvédères avant de poursuivre."
+        ]
+      ],
+      "steps": [
+        "Consulter les pages visite et billetterie pour la date.",
+        "Se rendre à Sæbøtunet 11 et confirmer exposition et film à l’arrivée.",
+        "Revérifier les conditions avant la cascade ou la traversée du plateau."
+      ],
+      "faq": [
+        [
+          "Le centre est-il compris dans la visite gratuite de la cascade ?",
+          "Non. C’est une attraction distincte avec billets et saison propres."
+        ],
+        [
+          "Est-ce une alternative garantie en hiver ?",
+          "Non. L’ouverture est saisonnière, avec des arrangements de groupes distincts ; confirmer directement."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norsk Natursenter — visit",
+          "url": "https://www.norsknatursenter.no/besok-"
+        },
+        {
+          "name": "Norsk Natursenter — exhibition",
+          "url": "https://www.norsknatursenter.no/utstillinga"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Norsk%20Natursenter%20S%C3%A6b%C3%B8tunet%2011%20Eidfjord"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "ui": {
+    "nearby": "Beyond the waterfall",
+    "subtitle": "Three different ways to understand the landscape around Eidfjord. Check each place’s own access before adding it to your trip.",
+    "read": "Read guide",
+    "tips": "Before you go",
+    "facts": "At a glance",
+    "route": "Plan your visit",
+    "sources": "Sources and editorial check",
+    "checked": "Vøringsfossen Visitor Guide editorial team · checked 10 November 2026",
+    "related": "Continue exploring",
+    "map": "Location and official map",
+    "back": "Vøringsfossen visitor guide"
+  },
+  "guides": [
+    {
+      "slug": "hardangervidda-scenic-route",
+      "title": "Hardangervidda Scenic Route: Eidfjord to Haugastøl",
+      "description": "Plan the 67 km Route 7 corridor beyond Vøringsfossen, with plateau stops, Måbø Bridge history, winter road checks and cycling restrictions.",
+      "intro": "Vøringsfossen is one stop on a much larger journey. Norwegian Scenic Route Hardangervidda follows Route 7 between Eidfjord and Haugastøl, moving from the fjord through Måbødalen to an exposed mountain plateau. Treat this as a route-planning guide rather than a promise that every stop can be visited on the same day.",
+      "tips": [
+        "Check road alerts before committing to a plateau crossing.",
+        "Choose open stops according to weather and daylight.",
+        "Cyclists must not ride through the Måbødalen tunnels."
+      ],
+      "facts": [
+        [
+          "Route",
+          "Eidfjord–Haugastøl, Route 7"
+        ],
+        [
+          "Length",
+          "67 km scenic-route corridor"
+        ],
+        [
+          "Elevation",
+          "0–1,250 metres, according to the route authority"
+        ]
+      ],
+      "sections": [
+        [
+          "What changes beyond the waterfall",
+          "The route connects very different landscapes: the steep valley near Eidfjord, the waterfall’s gorge and the open plateau. Its official stop list includes Vøringsfossen, Måbø Bridge, Ørteren and Vardestopp. Select stops for the conditions rather than treating the list as a fixed schedule."
+        ],
+        [
+          "Måbø Bridge and the older road",
+          "The stone arch bridge dates from 1910. The bridge and old road became a protected cultural monument in 2009; the modern Route 7 alignment replaced the old one in 1986. The rest area offers a way to understand the transport history without attempting the closed old road. The scenic-route authority reports rockslides on that former route."
+        ],
+        [
+          "Season, access and road safety",
+          "The public road normally serves year-round traffic, while bad weather can bring temporary closure or convoy driving. The route authority also notes possible winter restrictions for reindeer. These are different from the seasonal closures at Vøringsfossen itself. Use Statens vegvesen’s current mountain-pass information and follow roadside instructions."
+        ],
+        [
+          "Cycling and public transport",
+          "The authority prohibits cycling down Måbødalen because of its tunnels, and says the old road is closed after rockslides. Do not use it as a cycle bypass. It points to bus transport as an alternative; confirm bicycle carriage, stops and the actual service for your date with the operator."
+        ],
+        [
+          "Stops, services and onward planning",
+          "There is no single admission ticket for this public road corridor. Individual attractions, food outlets and overnight stays have their own conditions. The waterfall’s toilets are not motorhome dump stations; the route authority identifies Øvre Eidfjord as the location of the nearest dump station. Confirm service access separately before relying on it."
+        ]
+      ],
+      "steps": [
+        "Decide whether you are crossing the plateau or returning to Eidfjord.",
+        "Read current road alerts and select only accessible stops.",
+        "Visit the waterfall or Måbø Bridge where open, then reassess conditions before continuing."
+      ],
+      "faq": [
+        [
+          "Does an open Route 7 mean the waterfall paths are open?",
+          "No. Road status and the seasonal visitor facility are separate checks."
+        ],
+        [
+          "Can I cycle through Måbødalen?",
+          "The scenic-route authority prohibits cycling through the tunnel road and reports the old road closed by rockslides. Confirm an alternative with the transport operator."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norwegian Scenic Routes — Hardangervidda",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/"
+        },
+        {
+          "name": "Måbø Bridge",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/mabo-bru-rasteplass/"
+        },
+        {
+          "name": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/fjelloverganger/"
+        }
+      ],
+      "map": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/#map"
+    },
+    {
+      "slug": "kjeasen",
+      "title": "Kjeåsen Mountain Farms: Road Access and the Steep Hike",
+      "description": "Compare Kjeåsen’s controlled tunnel road with its separate steep trail above Simadal, including private land, seasonal access and wet-weather cautions.",
+      "intro": "Kjeåsen is a separate mountain-farm destination above the fjord, not an extension of the waterfall’s viewpoint circuit. Its farms sit roughly 600 metres above the water. Reaching them by car and climbing from Simadal involve very different preparations; choose one deliberately and check current municipal information.",
+      "tips": [
+        "Do not walk or cycle through the access tunnel.",
+        "Avoid the steep hiking route when wet or icy.",
+        "Respect working farms, private ground and local signs."
+      ],
+      "facts": [
+        [
+          "Area",
+          "Above Simadal, Eidfjord municipality"
+        ],
+        [
+          "Driving access",
+          "Narrow road and tunnel from Simadal"
+        ],
+        [
+          "Walking access",
+          "Separate steep trail, with ropes and ladders"
+        ]
+      ],
+      "sections": [
+        [
+          "Why make a separate visit?",
+          "The interest here is the relationship between old mountain farms and the steep fjord-side landscape. Unlike the secured waterfall walk, the hike climbs sharply from the valley. A viewpoint visit does not imply permission to enter buildings, yards or cultivated ground. Follow the marked route and respect the residents’ privacy."
+        ],
+        [
+          "Driving: the tunnel is not a footpath",
+          "The municipality describes a 5 km access road, with hairpin bends and a narrow tunnel for roughly half its length. It publishes alternating one-way slots, uphill on the hour and downhill at half past. Treat the current signs and municipal notices as decisive. The tunnel must not be used by walkers or cyclists."
+        ],
+        [
+          "Hiking: choose for conditions, not just distance",
+          "The trail starts by Sæ in Simadal near Statkraft and uses ropes, timber steps and ladders. The municipal trail description recommends good-weather summer and autumn conditions. Visit Norway’s regional listing warns against wet or icy conditions. A short distance does not make this an easy walk; assess footwear, fitness, weather and your ability to descend before setting out."
+        ],
+        [
+          "Season and time estimates",
+          "The road normally opens around May according to the municipality, but that is not confirmation for a particular date. Published hike estimates vary: the older municipal description gives about 2.5 hours return, while the regional listing gives 3–4 hours. Allow a generous margin without treating either as a guarantee. Ask locally about current trail condition."
+        ],
+        [
+          "Admission, services and combining stops",
+          "The sources do not establish a current visitor ticket, food service or opening schedule for farm interiors. Confirm any booked experience separately. Arrange food, accommodation and onward transport around Eidfjord or your confirmed route; do not assume facilities at the top. Add Kjeåsen only when the road or hike fits the conditions and the rest of your day."
+        ]
+      ],
+      "steps": [
+        "Check the municipality’s current road and trail notices.",
+        "Choose the signed driving access or the separate hike; never use the tunnel on foot.",
+        "Visit only permitted areas and leave enough time for the descent or controlled drive back."
+      ],
+      "faq": [
+        [
+          "Is Kjeåsen the same walk as Vøringsfossen?",
+          "No. It is a separate destination above Simadal with a much steeper hiking approach."
+        ],
+        [
+          "Can I walk up the access road?",
+          "The tunnel is not passable on foot or by bicycle according to the municipality. Use the separate trail only when conditions and your ability permit."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Eidfjord kommune — Kjeåsen",
+          "url": "https://www.eidfjord.kommune.no/tenester/kultur-idrett-og-fritid/friluftsliv/utferdspunkt/kjeasen-2/"
+        },
+        {
+          "name": "Visit Norway — Kjeåsen hike",
+          "url": "https://www.visitnorway.com/listings/hike-to-kjeasen-view-point/193660/"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Kje%C3%A5sen%20Eidfjord%20Norway"
+    },
+    {
+      "slug": "norsk-natursenter",
+      "title": "Norsk Natursenter in Øvre Eidfjord: Exhibits and Visit Planning",
+      "description": "Discover the nature centre’s panorama film, geology and wildlife exhibits, seasonal admission and accessibility before pairing it with Vøringsfossen.",
+      "intro": "Norsk Natursenter – Hardanger is an indoor interpretation centre in Øvre Eidfjord on Route 7. It explains the landscapes encountered between the fjord, Måbødalen and Hardangervidda. It is a separate, staffed attraction with its own admission and season, so a waterfall visit does not include entry here.",
+      "tips": [
+        "Confirm the operator’s current season before travelling.",
+        "Check the centre and restaurant hours separately.",
+        "Use the exhibition to add context to an outdoor visit."
+      ],
+      "facts": [
+        [
+          "Address",
+          "Sæbøtunet 11, 5784 Øvre Eidfjord"
+        ],
+        [
+          "Setting",
+          "On Route 7 below Måbødalen"
+        ],
+        [
+          "Access",
+          "Operator lists a lift between exhibition floors"
+        ]
+      ],
+      "sections": [
+        [
+          "What is inside?",
+          "The operator describes a three-floor exhibition about landscape, geology, climate, wildlife and the ways people use natural resources. Mineral and fossil displays, trout aquaria and wildlife interpretation offer a different experience from simply viewing the waterfall. The panorama film follows fjords, mountains, waterfalls and the plateau."
+        ],
+        [
+          "How it complements Vøringsfossen",
+          "The centre gives background to the water and mountain landscape before or after an outdoor stop. It can be useful for visitors seeking an indoor learning experience, but an open centre does not make a closed waterfall path accessible. Choose each visit independently around conditions and the operator’s schedule."
+        ],
+        [
+          "Opening and admission: confirm with the operator",
+          "On our source-check date, the operator’s banner said closed for the season, while the same page retained different regular-season dates in its body and footer. We therefore do not present one reopening date or set of hours as definitive. The centre sells its own tickets; check the current booking page for prices, age categories and any group arrangement."
+        ],
+        [
+          "Accessibility and facilities",
+          "The operator lists universal design and a lift between floors, toilets and baby-changing facilities, cloakroom and luggage storage. Confirm any specific access requirement directly before arrival. It does not allow visitors’ own food and drink inside the centre. Hardangerviddahallen restaurant is a separate service with its own seasonal hours."
+        ],
+        [
+          "Getting there and planning the rest of the day",
+          "Use the exact address in Øvre Eidfjord rather than navigating to the waterfall’s parking area. For public transport, verify the stop and return connection for your date; no frequency or journey time is assumed here. Choose accommodation and meals around confirmed services, then check the road and viewpoint notices before continuing towards Vøringsfossen."
+        ]
+      ],
+      "steps": [
+        "Check the visitor and ticket pages for your date.",
+        "Go to Sæbøtunet 11 and confirm the exhibition and film arrangements on arrival.",
+        "Recheck conditions before continuing to the waterfall or across Hardangervidda."
+      ],
+      "faq": [
+        [
+          "Is the centre part of the free waterfall visit?",
+          "No. It is a separate staffed attraction with its own tickets and opening season."
+        ],
+        [
+          "Is it a guaranteed winter alternative?",
+          "No. The operator has seasonal opening and separate arrangements for groups; confirm directly before travel."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norsk Natursenter — visit",
+          "url": "https://www.norsknatursenter.no/besok-"
+        },
+        {
+          "name": "Norsk Natursenter — exhibition",
+          "url": "https://www.norsknatursenter.no/utstillinga"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Norsk%20Natursenter%20S%C3%A6b%C3%B8tunet%2011%20Eidfjord"
+    }
+  ]
+}

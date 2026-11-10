@@ -10,34 +10,35 @@
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "menu": "Navigation menu"
   },
   "hero": {
     "title": "Vøringsfossen Waterfall in Eidfjord",
     "subtitle": "Parking, viewpoints and seasonal visit information",
     "rating": "4.8",
-    "reviewCount": "11K+ Google reviews",
-    "hours": "Waterfall year-round · facilities seasonal",
+    "reviewCount": "11,493 Google reviews · 10 Nov 2026",
+    "hours": "Seasonal visitor facilities · check closures",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Discover the Waterfall",
-    "description": "Vøringsfossen is Norway's most famous waterfall, located in Eidfjord, Vestland County, in the heart of fjord country. The waterfall plunges 182 meters from the canyon edge between the steep cliffs of the Måbødalen valley, creating a thundering sound and breathtaking view. It stands as a symbol of Norway's natural landscape: from the nearby Hardangervidda plateau to the shores of Eidfjordvatnet lake, visitors can easily explore the natural wonders that surround the waterfall.",
+    "description": "Vøringsfossen lies beside Route 7 in Eidfjord, where water from Hardangervidda falls 182 metres into Måbødalen. Norwegian Scenic Routes has developed viewpoints and more than one kilometre of secured paths around the gorge. The waterfall landscape and the visitor facilities have different seasonal constraints: an open mountain road does not mean that the paths are open.",
     "visitGuide": {
       "title": "Visit Guide",
       "items": [
-        "The waterfall can be seen year-round, while viewpoints, trails and visitor facilities are seasonal.",
-        "Approximately 2.5 hours drive from Bergen via Route 7.",
-        "Wear comfortable hiking shoes as there are stairs and trails.",
-        "Spring and summer offer the most dramatic water flow."
+        "Check Norwegian Scenic Routes and road alerts before departure.",
+        "Choose Fossli or Fossatromma according to current access.",
+        "Expect stairs and wet surfaces; only parts are wheelchair accessible.",
+        "Keep to open, secured paths and respect every barrier."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "One of Norway's highest waterfalls",
-        "Måbødalen Nature Reserve",
-        "Most spectacular waterfall in Scandinavia"
+        "182-metre drop into Måbødalen",
+        "Step bridge between Fossli and Fossatromma",
+        "Norwegian Scenic Route Hardangervidda"
       ]
     }
   },
@@ -45,34 +46,34 @@
     "title": "Complete Vøringsfossen Travel Guide",
     "coreIntro": {
       "title": "Core Introduction",
-      "content": "The first time you experience Vøringsfossen, you don't see it with your eyes—you hear it. You're still in the car, windows half-open, when the distant roar comes rolling down from the mountain like low thunder. The sound grows louder and louder until you step out and walk to the cliff's edge, and suddenly a curtain of water appears before you—182 meters high, divided into two sections. First the falls themselves split the rock, then plunge down, crashing into the deep pool at the canyon floor, sending mist hundreds of meters into the air. Standing on the viewing platform, you can feel the metal beneath your feet vibrating slightly—that's the transmission of the waterfall's power. The mist hits your face like fine rain, carrying the scent of moss and pine needles, and occasionally a rainbow bursts through in the sunlight. This isn't a gentle forest stream—it's the raw power of Nordic nature on full display. Snowmelt cascades down basalt rock, across the wilderness of Hardangervidda plateau, then throws itself into the canyon without hesitation. The entire scene radiates an irresistible sense of movement, making you feel that time here has been stretched by the sound of water, becoming thick and heavy. Locals call the atmosphere of this area \"fjellstillhet\" (mountain stillness), but here, silence is replaced by thunder, yet it brings an even deeper inner peace. You truly understand that on this Norwegian land, nature is the true protagonist—humanity merely pauses gently beside it."
+      "content": "The contrast between the open Hardangervidda plateau and the steep Måbødalen gorge is the central experience here. The developed facility connects the Fossli upper area and Fossatromma lower plateau with viewpoints, bridges and the old pack road. Water flow, spray and visibility vary. Plan around the paths that are actually open, rather than assuming the full circuit is available."
     },
     "basicInfo": {
       "title": "Basic Information",
       "hours": "Opening Hours",
-      "hoursContent": "The waterfall is visible year-round from accessible areas, but the viewpoints, step bridge, paths, parking areas and toilets are seasonal. They are normally available from spring into autumn and may close earlier or open later depending on snow and ice. Check Norwegian Scenic Routes and Statens vegvesen before travelling, especially from October to April.",
+      "hoursContent": "Norwegian Scenic Routes says that parts of the attraction close in winter; its route page warns of winter closure because of snow and slippery ground. Toilets at Fossli and Fossatromma are normally open from early April to November. These are seasonal descriptions, not a live opening report. Check official notices before travel.",
       "ticket": "Admission & Parking",
       "ticketContent": "Access to Vøringsfossen is free. Official Hardanger visitor information states that parking at both Fossli and Fossatromma is free. Parking areas and visitor facilities can close in winter or during unsafe conditions, so check current official information before departure.",
       "address": "Address",
       "addressContent": "Vøringsfossen, 5785 Eidfjord, Vestland, Norway",
       "transport": "Transportation",
-      "transportContent": "From Bergen, drive along E16 for approximately 2.5 hours to Voss, then turn toward Eidfjord and continue along Riksvei 7 for about 1 hour. Driving is recommended—the fjord scenery along the way is breathtaking. Alternatively, take the train from Bergen to Voss (approximately 1.5 hours, hourly departures), then bus (Route 940) to Eidfjord, about 4 departures daily, total journey approximately 4 hours. Driving from Oslo takes approximately 5 hours. Snow tires are mandatory in winter, and some sections require careful driving. Local shuttle buses operate from Eidfjord town, 10:00-17:00 in summer, 50 NOK per one-way trip."
+      "transportContent": "Approach on Route 7 from Eidfjord or the Hardangervidda plateau. Check Statens vegvesen for closures, convoy driving and road conditions. For a car-free journey, check Entur and Visit Eidfjord for your actual travel date and confirm the last leg to the waterfall and the return. No fixed shuttle fare or timetable is promised here."
     },
     "history": {
       "title": "History & Culture",
       "historicalStatus": "Historical Significance",
-      "historicalStatusContent": "One of Norway's most famous waterfalls, a tourism and geological research hotspot since the 19th century, and the natural symbol where Hardangervidda plateau meets the fjords.",
+      "historicalStatusContent": "Vøringsfossen is a well-known Norwegian visitor destination within the Hardangervidda scenic-route corridor. Its landscape links the mountain plateau and the fjord valley.",
       "historyBackground": "Historical Background",
-      "historyBackgroundContent": "The story of Vøringsfossen began roughly ten thousand years ago, when the last ice age ended. As glaciers retreated, they left behind U-shaped fjords and steep cliffs. Meltwater from Hardangervidda flowed through the rift valleys, forming this waterfall in the Bjoreiddalen valley. The first records came from 18th-century Danish-Norwegian missionaries, who called it \"the terrifying water curtain.\" But it wasn't until the mid-19th century, with the rise of European Romanticism, that Norwegian intellectuals began viewing their nation's waterfalls, fjords, and glaciers as symbols of national spirit, truly bringing Vøringsfossen into public awareness. In the 1840s, painter Johan Christian Dahl captured the play of light here, and his work caused a sensation when exhibited in Copenhagen. Explorers and travelers soon followed. The British were the first to build a carriage path from Eidfjord to the falls, and in 1880 a small hotel opened for weary visitors. During WWII, Norwegian resistance fighters used the terrain near the falls to hide supplies from Nazi patrols. In the 1960s, with road access established, it became a must-stop for road trips. In 2012, a landslide nearly changed the waterfall's course; scientists quickly built a diversion channel after emergency assessment. In 2020, an entirely new cantilever viewing platform opened, designed by architect Carl-Viggo Hølmebakk as part of Norwegian Scenic Routes. The project includes secured paths and the step bridge across the gorge. Today, Vøringsfossen attracts over 300,000 visitors annually, but its soul remains unchanged—that cold, wet, primal power, where every rush of water seems to tell of the first crack of ice ten thousand years ago when the glacier first retreated.",
+      "historyBackgroundContent": "The modern visitor project is documented by Norwegian Scenic Routes and attributed to architect Carl-Viggo Hølmebakk. It brings secured routes, bridges, viewpoints and service buildings into the steep gorge landscape. Nearby Måbø Bridge provides a separate transport-history stop: the stone arch bridge dates from 1910, and the old road alignment was superseded in 1986. Do not use the old road as a through route; the scenic-route authority reports rockslide closures.",
       "culturalValue": "Cultural Value",
       "culturalValueContent": "Vøringsfossen became an important destination during the growth of Norwegian landscape tourism in the 19th century. Today it forms part of the Hardangervidda Norwegian Scenic Route and is interpreted through official paths, viewpoints and landscape architecture."
     },
     "architecture": {
       "title": "Architectural Features",
       "features": "Architectural Features",
-      "featuresContent": "The waterfall itself is a natural erosion landscape with no artificial structures. However, the recently built \"Vøringfossen Viewpoint\" is a cantilevered steel structure viewing platform extending over the cliff, becoming a model of modern architecture in harmonious coexistence with nature.",
+      "featuresContent": "The facility includes several viewpoints, large and small bridges, two service buildings and parking areas. Fossli and Fossatromma are linked by the step bridge over the Bjoreio river and the old pack road.",
       "style": "Architectural Style",
-      "styleContent": "As a natural waterfall, there is no specific architectural style. The viewing platform adopts minimalist modern design, emphasizing integration with surrounding rock textures, and its asymmetric cantilever structure reflects Nordic architecture's reverence for nature."
+      "styleContent": "Carl-Viggo Hølmebakk’s project frames different views of the waterfall and Måbødalen while providing secured paths through difficult terrain. Partial wheelchair accessibility does not apply to every connection: the step bridge has stairs."
     },
     "tourRoute": {
       "title": "Tour Route",
@@ -86,41 +87,41 @@
     "photography": {
       "title": "Photography Guide",
       "spots": "Photo Spots",
-      "spotsContent": "Right side of upper viewing platform: Shoot before 10 AM for a full waterfall view, use a wide-angle lens to include the distant Hardangervidda plateau, the blue sky contrasting with white mist\nEnd of lower wooden boardwalk: Backlit shots around 1 PM, water droplets become thousands of sparkling diamonds in backlight, excellent silhouette effects\nClimb the small hill to the left of the parking lot (about 3 minutes): A little-known secret spot, can capture the waterfall with the lake-blue water of distant Eidfjord fjord\nWooden steps behind the visitor center: During evening, use a telephoto lens to compress space, creating foreground and background depth with the waterfall and pines on the rock face",
+      "spotsContent": "Open viewpoints: photograph the waterfall from inside the safety fences.\nFossli and Fossatromma: compare the perspectives when both areas are accessible.\nStep bridge: include the structure without blocking the path; only enter when open.",
       "tips": "Photography Tips",
-      "tipsContent": "Using a circular polarizer (CPL) can eliminate water reflections, making water colors appear deeper. Drones are prohibited near the waterfall—the mist is deadly to electronic equipment, and the area is within national park control. Use a waterproof cover for your camera during shooting; mist can coat the lens surface with a film of water within minutes."
+      "tipsContent": "Protect equipment from spray, keep both feet on the secured path and leave room for other visitors. Do not step beyond barriers for a photograph. Check current local aviation restrictions and landowner rules before considering a drone; this guide does not grant permission to fly."
     },
     "accommodation": {
       "title": "Accommodation Recommendations",
       "recommendations": "Accommodation Recommendations",
-      "recommendationsContent": "Budget Choice: Eidfjord Turisthytte youth hostel in Eidfjord town—rooms are clean and simple, shared kitchen for self-catering, can hear the distant waterfall's faint roar from the window, beds approximately 300 NOK per night\nUnique Experience: Skinnarbu Hytte on Hardangervidda plateau above the waterfall—a traditional wooden mountain hut converted to a guesthouse with only five rooms, the owner will tell you how the Sami people herded reindeer here, night skies like a chocolate cake sprinkled with powdered sugar\nLuxury: Eidfjord Fjordhotel in Eidfjord town—rooms with floor-to-ceiling windows facing the fjord, dinner featuring reindeer meat and fresh-caught salmon, rooftop hot tub, watching distant twilight swallow the waterfall, approximately 2,000 NOK per night",
+      "recommendationsContent": "Eidfjord: consider a village base if you want to combine the waterfall with the fjord and Norsk Natursenter.\nPlateau side: consider your onward journey and the Route 7 weather forecast before choosing accommodation.\nCheck each operator directly for availability, services and prices; no room rate or personal stay is asserted here.",
       "tips": "Accommodation Tips",
-      "tipsContent": "Eidfjord town is very small with limited accommodation options; during peak season (June to August), book at least two months in advance. If driving and seeking the ultimate nature experience, consider campground on Hardangervidda plateau, but you need to bring your own tent or RV. Norway's \"freedom to roam\" allows camping in wilderness for one night; maintain safe distance from rivers and take all garbage with you."
+      "tipsContent": "Choose accommodation around confirmed road access and your return journey. Mountain closures can change the practical route. Check the rules for any campsite or overnight parking location separately."
     }
   },
   "transport": {
     "title": "Getting There in Detail",
     "subtitle": "From airports, trains and buses to driving and shuttles—every way to reach the waterfall",
-    "intro": "Vøringsfossen lies near the village of Eidfjord on the southern edge of the Hardangervidda plateau and is reachable year-round. Below are the most common ways to get there, so you can choose what fits your itinerary.",
+    "intro": "Route 7 connects Eidfjord and the Hardangervidda plateau. Road access and access to the visitor paths are separate checks. Allow flexibility for mountain weather and seasonal services.",
     "airport": {
       "title": "By Air (Nearest Airport)",
-      "content": "The nearest international airport is Bergen Flesland Airport (BGO), about 160 km from the waterfall—roughly a 3-hour drive that can be combined with fjord scenery along the Riksvei 7. Several car-rental desks line the arrivals hall, or you can take the airport express to Bergen city center and continue by train and bus. Oslo Gardermoen Airport (OSL) is another option, about a 5-hour drive, ideal for travelers planning to road-trip along the Hardangervidda plateau."
+      "content": "Bergen and Oslo can be starting points for a longer trip. Plan the full journey to Eidfjord and then the waterfall using current road or transport information; an airport arrival alone does not establish a same-day connection."
     },
     "bus": {
       "title": "By Bus",
-      "content": "The main hub is Voss: after taking the train from Bergen to Voss, transfer to bus route 940 toward Eidfjord—about 4 departures a day, around 4 hours in total. In summer, direct long-distance buses from Bergen also run via the Hardanger route. Services are noticeably reduced on Sundays and public holidays, so always check live timetables before you set out."
+      "content": "Search Entur and the current operator for your travel date. Confirm the actual destination stop, operating days and last return. A service to Eidfjord village may not reach Fossli or Fossatromma."
     },
     "taxi": {
       "title": "By Taxi",
-      "content": "Eidfjord village offers taxi services that can be booked by phone in advance. From the village center to the waterfall viewpoint is about a 15–20 minute ride—handy for travelers with heavy luggage or tight schedules. Demand is higher at night and in winter, so booking a day ahead is recommended."
+      "content": "If using a taxi, arrange the outward and return journeys with an operator in advance. Confirm the open pickup location and price directly; do not depend on finding an unbooked vehicle at the viewpoint."
     },
     "car": {
       "title": "By Car",
-      "content": "From Bergen: take the E16 for about 2.5 hours to Voss, then follow the signs toward Eidfjord along the Riksvei 7 for roughly 1 hour. From Oslo, the drive takes about 5 hours. In winter (October–April), mountain sections may close—winter tires are mandatory, and check live road conditions from the Norwegian Public Roads Administration (Statens vegvesen) before departing."
+      "content": "Use Route 7 from Eidfjord or from the plateau. Check Statens vegvesen immediately before travel for road status, convoy operation and driving requirements. Follow signed closures even if navigation software suggests continuing."
     },
     "train": {
       "title": "By Train",
-      "content": "The Bergen–Voss line takes about 1.5 hours with hourly departures and ranks among Norway's most scenic rail routes, passing fjords and snow-capped peaks. At Voss, transfer to bus route 940 toward Eidfjord to continue to the waterfall. No driving required—ideal if you prefer not to rent a car."
+      "content": "There is no railway station at the waterfall or in Eidfjord. A rail journey via Voss needs a separately verified onward bus or other connection, including the last leg to the visitor area."
     },
     "shuttle": {
       "title": "Shuttle Service",
@@ -132,7 +133,7 @@
     "subtitle": "Everything you need to know about restrooms, parking, dining, shopping, and refueling",
     "wc": {
       "title": "Restrooms (WC)",
-      "content": "Free public restrooms are available at the viewpoint and visitor center, open daily during peak season (May–September), with some closures in winter. Mountain facilities are limited—plan your stops ahead and bring tissues and hand sanitizer."
+      "content": "Norwegian Scenic Routes says toilets at Fossli and Fossatromma normally open from early April to November. Actual access depends on conditions. Motorhome and caravan toilet emptying is not permitted there."
     },
     "parking": {
       "title": "Parking",
@@ -140,47 +141,47 @@
     },
     "dining": {
       "title": "Dining",
-      "content": "The visitor center houses a café serving hot drinks, light meals, and pastries; Eidfjord town offers additional restaurants and cafés. Mountain dining options are limited and hours vary by season—bring water and snacks, as some venues close in winter."
+      "content": "Confirm food service directly with the relevant operator before relying on it. Bring water and suitable provisions for the planned outing; the waterfall visitor area is separate from Norsk Natursenter and its restaurant in Øvre Eidfjord."
     },
     "shopping": {
       "title": "Shopping",
-      "content": "Eidfjord town has small supermarkets and grocery stores for water, snacks, daily necessities, and outdoor supplies such as gas canisters. For larger purchases, shop in bigger towns like Voss, Geilo, or Bergen before you arrive—village stores are small."
+      "content": "Arrange essential supplies before leaving the village. Do not assume there is a year-round shop at the waterfall."
     },
     "fuel": {
       "title": "Fuel & Charging",
-      "content": "A gas station in Eidfjord offers petrol and diesel. Norway has high EV adoption, but charging points in the fjord mountains are sparse—plan your charging stops with a charging map app before departure; the nearest dense charging stations are toward Voss or Geilo."
+      "content": "The scenic-route authority lists EV charging at one of the parking areas. Check the current charging provider for access and availability, and plan a backup before crossing the plateau."
     },
     "accessibility": {
       "title": "Accessibility & Services",
-      "content": "The upper viewpoint is accessible by wheelchair and stroller via a ramp; the lower boardwalk requires stairs and is not wheelchair-friendly. First-aid supplies are kept at the visitor center. Mobile signal is strongest around the visitor center and viewpoint, and may vanish deeper in the canyon."
+      "content": "The official facility is partially wheelchair accessible. Several connections and the step bridge involve stairs. Check the official location map and current access for the exact viewpoint you wish to reach; do not assume a continuous step-free circuit."
     }
   },
   "legends": {
-    "title": "Legends & Stories",
-    "subtitle": "In Norwegian folklore, waterfalls were never silent scenery",
-    "intro": "In Norwegian folklore, waterfalls are the sighs of giants, the territory of trolls, and the doorways of spirits. The legends of Vøringsfossen stretch back a thousand years, as enduring as its roar. Most of these stories are oral traditions rather than historical fact—read them with appreciation.",
+    "title": "Landscape and travel heritage",
+    "subtitle": "Documented context for the visit",
+    "intro": "The route’s official sources describe a meeting of water, mountain landscape, transport history and contemporary architecture.",
     "items": [
       {
-        "title": "The Secret of the Name",
-        "content": "\"Vøring\" remains a word of disputed origin. One theory traces it to an Old Norse root meaning \"to guard\" or \"to warn\"—the thunderous roar of the falls serving as the earth's own warning, telling travelers that the canyon's edge lies ahead. Another theory ties it to ancient local farm names; over centuries of oral tradition, the name became inseparable from the waterfall itself."
+        "title": "Plateau to gorge",
+        "content": "The water descends from Hardangervidda into Måbødalen, creating the sharp transition that defines this part of the scenic route."
       },
       {
-        "title": "The Troll's Vigil",
-        "content": "In Norwegian folklore, trolls are the guardians of the mountains. Legend tells of an old troll dwelling deep in the Hardangervidda plateau who fell in love with the daughter of a lighthouse keeper by the fjord. Every full moon, he would glide down the falls to gaze at her warm light. Trolls fear the sun and must return to the mountains before dawn—which is why, people say, the waterfall roars all night: it is the heartbeat of the old troll hurrying home."
+        "title": "Two visitor areas",
+        "content": "Fossli and Fossatromma offer different perspectives and are connected by the developed path network when open."
       },
       {
-        "title": "The Water Spirit",
-        "content": "In Nordic tradition, a mysterious creature called the Nøkk dwells in fresh water. People believed the mist rising from the falls was the Nøkk's breath. Legend says a young fiddler once played beside the falls; his music moved the water spirit, who emerged from the mist and granted him a melody \"that could make rocks weep.\" From that day, local hunters would slip a coin into their pocket when passing the falls, as a token of respect to the water spirit."
+        "title": "Måbø Bridge",
+        "content": "The nearby stone arch bridge dates from 1910 and is a protected transport monument. It is a separate stop, not the step bridge at the waterfall."
       },
       {
-        "title": "The Romantic Gaze",
-        "content": "In the mid-19th century, Norway was moving toward independence from Denmark. When the painter Johan Christian Dahl captured the light of Vøringsfossen on canvas, he painted more than a landscape—he painted a nation's image of itself. In his hands and those of contemporary poets, the falls came to embody Norway's \"untamed spirit\": cold, defiant, and fiercely alive. That gaze turned a waterfall in a small canyon into the soul of a nation."
+        "title": "Modern landscape architecture",
+        "content": "Norwegian Scenic Routes attributes the waterfall facility to Carl-Viggo Hølmebakk, with viewpoints, secured paths, bridges and service buildings."
       }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Stunning views of the waterfall and canyon",
+    "subtitle": "Waterfalls and mountain landscapes. Capture locations are not all verified.",
     "captions": [
       "Panoramic view of Vøringsfossen",
       "Måbødalen valley scenery",
@@ -189,38 +190,27 @@
       "Autumn colors in the canyon",
       "Waterfall mist phenomenon"
     ],
-    "viewAll": "View locations on Google Maps"
+    "viewAll": "View locations on Google Maps",
+    "photoDescriptions": [
+      "Waterfall and steep green valley",
+      "Water cascading between rocks and trees",
+      "Waterfall and river beneath steep cliffs",
+      "Water dropping through a narrow rocky gorge",
+      "Bridge above a misty gorge",
+      "Broad cascade beside a green hillside",
+      "Waterfalls between high cliff walls",
+      "Two streams falling over a cliff",
+      "Whitewater and autumn trees",
+      "Flowers overlooking a mountain valley",
+      "Rocky gorge under clouds",
+      "Waterfall amid woodland"
+    ]
   },
   "reviews": {
-    "title": "Visitor Reviews",
+    "title": "Google Maps visitor rating",
     "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
     "moreReviews": "View locations on Google Maps",
-    "items": [
-      {
-        "name": "Sarah M.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "Absolutely breathtaking! The power and sound of the waterfall are unforgettable. The viewing platform is perfectly designed for experiencing the falls up close."
-      },
-      {
-        "name": "John D.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "A must-see when visiting Norway! Even in winter, the waterfall is spectacular. Arrive early for better parking."
-      },
-      {
-        "name": "Emma W.",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Stunning natural beauty, though the parking area is small. Be prepared to wait during peak season. Allow plenty of time for your visit."
-      },
-      {
-        "name": "Michael T.",
-        "date": "December 2025",
-        "rating": 5,
-        "text": "Standing on the platform watching water cascade down from such height... words cannot describe the feeling. The highlight of our Norway trip!"
-      }
-    ]
+    "reviewCount": "11,493 Google reviews · 10 Nov 2026"
   },
   "mapSection": {
     "title": "How to Get Here",
@@ -233,7 +223,7 @@
     "rights": "© 2026 Vøringsfossen Independent Visitor Guide.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
+    "cookies": "Cookies and external services",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "council": "Norwegian Tourism Board",
@@ -248,23 +238,11 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: March 2026",
+    "lastUpdated": "Last updated: 10 November 2026",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
-      },
-      {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
-      },
-      {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+        "heading": "Cookies and external services",
+        "content": "This site loads Google Analytics, Google Fonts and an embedded Google Map. Cloudflare hosts the site and may provide performance measurement. There is no site-level opt-out control on this page. Use your browser’s privacy, cookie and site-data controls; blocking resources may affect maps, fonts or other features."
       }
     ]
   },
@@ -291,8 +269,8 @@
     ]
   },
   "cookieSettings": {
-    "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "title": "Cookies and external services",
+    "description": "This site loads Google Analytics, Google Fonts and an embedded Google Map. Cloudflare hosts the site and may provide performance measurement. There is no site-level opt-out control on this page. Use your browser’s privacy, cookie and site-data controls; blocking resources may affect maps, fonts or other features.",
     "essential": {
       "title": "Strictly Necessary Cookies",
       "description": "Required for basic website functionality.",
@@ -317,23 +295,67 @@
     "title": "Frequently Asked Questions",
     "subtitle": "Answers to the most common questions about Vøringsfossen",
     "items": [
-      {"q": "Where is Vøringsfossen located?", "a": "Vøringsfossen is located in Eidfjord, Vestland County, Norway. The viewpoint is reachable by car along the Riksvei 7."},
-      {"q": "Is Vøringsfossen free to visit?", "a": "Yes. Access to Vøringsfossen is free, and official Hardanger visitor information states that parking at Fossli and Fossatromma is free. Seasonal closures can affect parking and facilities."},
-      {"q": "How do I get to Vøringsfossen?", "a": "Drive on Norwegian Scenic Route Hardangervidda (Route 7) from Eidfjord, or use a confirmed seasonal connection from Eidfjord village. Public transport changes by season, so check current timetables before travelling."},
-      {"q": "When is the best time to visit?", "a": "The main visitor season is from spring to autumn. The waterfall is visible year-round from accessible areas, but viewpoints, the step bridge, trails, parking and toilets can close because of snow and ice."},
-      {"q": "How tall is Vøringsfossen?", "a": "The total drop is about 182 meters, divided into two sections, making it one of the highest waterfalls in Norway."},
-      {"q": "What facilities are available?", "a": "A visitor center with café and souvenir shop, a parking area, public restrooms, and a modern viewing platform accessible by wheelchair."}
+      {
+        "q": "Where is Vøringsfossen located?",
+        "a": "Vøringsfossen is located in Eidfjord, Vestland County, Norway. The viewpoint is reachable by car along the Riksvei 7."
+      },
+      {
+        "q": "Is Vøringsfossen free to visit?",
+        "a": "Yes. Access to Vøringsfossen is free, and official Hardanger visitor information states that parking at Fossli and Fossatromma is free. Seasonal closures can affect parking and facilities."
+      },
+      {
+        "q": "How do I get to Vøringsfossen?",
+        "a": "Approach on Route 7 from Eidfjord or the Hardangervidda plateau. Check Statens vegvesen for closures, convoy driving and road conditions. For a car-free journey, check Entur and Visit Eidfjord for your actual travel date and confirm the last leg to the waterfall and the return. No fixed shuttle fare or timetable is promised here."
+      },
+      {
+        "q": "When is the best time to visit?",
+        "a": "Norwegian Scenic Routes says that parts of the attraction close in winter; its route page warns of winter closure because of snow and slippery ground. Toilets at Fossli and Fossatromma are normally open from early April to November. These are seasonal descriptions, not a live opening report. Check official notices before travel."
+      },
+      {
+        "q": "How tall is Vøringsfossen?",
+        "a": "Norwegian Scenic Routes describes a 182-metre drop from the plateau to Måbødalen."
+      },
+      {
+        "q": "What facilities are available?",
+        "a": "The official facility is partially wheelchair accessible. Several connections and the step bridge involve stairs. Check the official location map and current access for the exact viewpoint you wish to reach; do not assume a continuous step-free circuit. Norwegian Scenic Routes says toilets at Fossli and Fossatromma normally open from early April to November. Actual access depends on conditions. Motorhome and caravan toilet emptying is not permitted there."
+      }
     ]
   },
   "sources": {
     "title": "Sources & References",
     "subtitle": "Information verified from official and authoritative sources",
-    "intro": "The information on this site has been gathered and verified from official and authoritative sources to ensure accuracy and up-to-dateness.",
+    "intro": "Editorial source check: 10 November 2026. Use the linked responsible authorities for current access, weather and road information; this page is not a live status service.",
     "items": [
-      {"name": "Norwegian Scenic Routes — Vøringsfossen", "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/voringsfossen/", "desc": "Official information on viewpoints, architecture and seasonal access"},
-      {"name": "Visit Norway — Vøringsfossen", "url": "https://www.visitnorway.com/listings/voringsfossen/158686/", "desc": "Official national tourism visitor information"},
-      {"name": "Hardangerfjord Tourism", "url": "https://www.hardangerfjord.com/", "desc": "Official regional visitor and parking information"},
-      {"name": "Statens vegvesen", "url": "https://www.vegvesen.no/trafikk", "desc": "Norwegian Public Roads Administration live road conditions"}
+      {
+        "name": "Norwegian Scenic Routes — Vøringsfossen",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/voringsfossen/",
+        "desc": "Official information on viewpoints, architecture and seasonal access"
+      },
+      {
+        "name": "Visit Norway — Vøringsfossen",
+        "url": "https://www.visitnorway.com/listings/voringsfossen/158686/",
+        "desc": "Official national tourism visitor information"
+      },
+      {
+        "name": "Hardangerfjord Tourism",
+        "url": "https://www.hardangerfjord.com/",
+        "desc": "Official regional visitor and parking information"
+      },
+      {
+        "name": "Statens vegvesen",
+        "url": "https://www.vegvesen.no/trafikk",
+        "desc": "Norwegian Public Roads Administration live road conditions"
+      },
+      {
+        "name": "Norwegian Scenic Routes — Hardangervidda",
+        "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/",
+        "desc": ""
+      },
+      {
+        "name": "Entur",
+        "url": "https://entur.no/",
+        "desc": ""
+      }
     ]
   },
   "recommendations": {
@@ -341,14 +363,32 @@
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
     "attractions": [
-      {"name": "Ullensvang Hotel", "url": "https://www.booking.com"},
-      {"name": "Hardangerfjord Cruise", "url": "https://www.norled.no"},
-      {"name": "Bergen Fish Market", "url": "https://www.visitbergen.com"}
+      {
+        "name": "Ullensvang Hotel",
+        "url": "https://www.booking.com"
+      },
+      {
+        "name": "Hardangerfjord Cruise",
+        "url": "https://www.norled.no"
+      },
+      {
+        "name": "Bergen Fish Market",
+        "url": "https://www.visitbergen.com"
+      }
     ],
     "tours": [
-      {"name": "Norway in a Nutshell Tour", "url": "https://www.fjordtours.no"},
-      {"name": "Fjord Cruise Experience", "url": "https://www.hurtigruten.com"},
-      {"name": "Waterfall Hiking Tours", "url": "https://www.outdoorlife.no"}
+      {
+        "name": "Norway in a Nutshell Tour",
+        "url": "https://www.fjordtours.no"
+      },
+      {
+        "name": "Fjord Cruise Experience",
+        "url": "https://www.hurtigruten.com"
+      },
+      {
+        "name": "Waterfall Hiking Tours",
+        "url": "https://www.outdoorlife.no"
+      }
     ]
   }
 }

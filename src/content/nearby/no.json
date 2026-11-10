@@ -1,0 +1,240 @@
+{
+  "ui": {
+    "nearby": "Opplev mer rundt fossen",
+    "subtitle": "Tre ulike måter å forstå landskapet rundt Eidfjord på. Kontroller hvert steds egen adkomst før du legger det til reisen.",
+    "read": "Les guiden",
+    "tips": "Før du reiser",
+    "facts": "Kort fortalt",
+    "route": "Planlegg besøket",
+    "sources": "Kilder og redaksjonell kontroll",
+    "checked": "Redaksjonen i Vøringsfossen Visitor Guide · kontrollert 10. november 2026",
+    "related": "Utforsk videre",
+    "map": "Sted og offisielt kart",
+    "back": "Besøksguide til Vøringsfossen"
+  },
+  "guides": [
+    {
+      "slug": "hardangervidda-scenic-route",
+      "title": "Nasjonal turistveg Hardangervidda: Eidfjord–Haugastøl",
+      "description": "Planlegg den 67 km lange strekningen på riksvei 7, med Måbø bru, høyfjellsstopp, vintermeldinger og sykkelrestriksjoner.",
+      "intro": "Vøringsfossen er ett stopp på en større reise. Nasjonal turistveg Hardangervidda følger riksvei 7 fra Eidfjord gjennom Måbødalen til Haugastøl og det åpne høyfjellet. Dette er en veiledning for planlegging, ikke et løfte om at alle stopp kan besøkes samme dag.",
+      "tips": [
+        "Sjekk trafikkmeldinger før fjellovergangen.",
+        "Velg åpne stopp etter vær og dagslys.",
+        "Ikke sykle gjennom tunnelene i Måbødalen."
+      ],
+      "facts": [
+        [
+          "Strekning",
+          "Eidfjord–Haugastøl, riksvei 7"
+        ],
+        [
+          "Lengde",
+          "67 km turistveg"
+        ],
+        [
+          "Høyde",
+          "0–1 250 moh., ifølge veimyndigheten"
+        ]
+      ],
+      "sections": [
+        [
+          "Landskap utover fossen",
+          "Ruten binder sammen fjordbygda, den bratte dalen og den åpne vidda. Den offisielle stopplisten omfatter Vøringsfossen, Måbø bru, Ørteren og Vardestopp. Velg etter dagens forhold, ikke en fast tidsplan."
+        ],
+        [
+          "Måbø bru og gamleveien",
+          "Steinhvelvbrua er fra 1910. Brua og gamleveien ble fredet i 2009, og ny riksvei overtok trafikken i 1986. Rasteplassen gir innblikk i samferdselshistorien uten at du må forsøke å følge den stengte gamleveien. Nasjonale turistveger oppgir steinras på den tidligere ruten."
+        ],
+        [
+          "Sesong og trafikksikkerhet",
+          "Veien er normalt helårsvei, men uvær kan gi kortvarig stenging eller kolonnekjøring. Veimyndigheten nevner også mulige vinterstenginger av hensyn til rein. Dette er noe annet enn vinterstengingen ved Vøringsfossen. Bruk oppdatert fjellovergangsinformasjon og følg skiltingen."
+        ],
+        [
+          "Sykkel og kollektivtransport",
+          "Sykling ned Måbødalen er forbudt på grunn av tunnelene. Gamleveien er stengt etter steinras og er ingen sykkelomkjøring. Myndigheten viser til buss som alternativ; bekreft sykkelplass, stopp og faktisk avgang med operatøren."
+        ],
+        [
+          "Tjenester og overnatting",
+          "Den offentlige veistrekningen har ingen felles inngangsbillett. Attraksjoner, servering og overnatting har egne vilkår. Toalettene ved fossen er ikke tømmestasjon for bobil; turistvegmyndigheten viser til Øvre Eidfjord. Kontroller tilgang til tjenester før du baserer turen på dem."
+        ]
+      ],
+      "steps": [
+        "Bestem om du skal krysse vidda eller vende tilbake til Eidfjord.",
+        "Les aktuelle trafikkmeldinger og velg tilgjengelige stopp.",
+        "Besøk fossen eller Måbø bru der det er åpent, og vurder forholdene på nytt før du kjører videre."
+      ],
+      "faq": [
+        [
+          "Betyr åpen riksvei at fossens stier er åpne?",
+          "Nei. Veistatus og det sesongåpne besøksanlegget må sjekkes hver for seg."
+        ],
+        [
+          "Kan jeg sykle gjennom Måbødalen?",
+          "Turistvegmyndigheten forbyr sykling på tunnelveien og oppgir gamleveien stengt av steinras. Avtal et alternativ med transportoperatøren."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norwegian Scenic Routes — Hardangervidda",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/"
+        },
+        {
+          "name": "Måbø Bridge",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/mabo-bru-rasteplass/"
+        },
+        {
+          "name": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/fjelloverganger/"
+        }
+      ],
+      "map": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/#map"
+    },
+    {
+      "slug": "kjeasen",
+      "title": "Kjeåsen: fjellgårder, biladkomst og bratt tursti",
+      "description": "Sammenlign den regulerte tunnelveien til Kjeåsen med den separate bratte stien fra Simadal, med sesong, privat grunn og værforbehold.",
+      "intro": "Kjeåsen er et eget reisemål over fjorden, ikke en forlengelse av utsiktsrunden ved fossen. Gårdene ligger rundt 600 meter over fjorden. Bilveien og fotturen fra Simadal krever ulik planlegging; velg bevisst og sjekk kommunens aktuelle informasjon.",
+      "tips": [
+        "Ikke gå eller sykle gjennom adkomsttunnelen.",
+        "Unngå den bratte turstien når det er vått eller isete.",
+        "Respekter gårdsdrift, privat grunn og lokale skilt."
+      ],
+      "facts": [
+        [
+          "Område",
+          "Over Simadal i Eidfjord kommune"
+        ],
+        [
+          "Bil",
+          "Smal vei og tunnel fra Simadal"
+        ],
+        [
+          "Til fots",
+          "Egen bratt sti med tau og stiger"
+        ]
+      ],
+      "sections": [
+        [
+          "Hvorfor et eget besøk?",
+          "Her er forholdet mellom gamle fjellgårder og den bratte fjordsiden sentralt. Fotturen er vesentlig brattere enn den sikrede runden ved fossen. Et utsiktsbesøk gir ikke adgang til bygninger, tun eller dyrket mark. Følg merket rute og respekter privatlivet."
+        ],
+        [
+          "Bilveien og tunnelen",
+          "Kommunen beskriver fem kilometer adkomstvei, med hårnålssvinger og smal tunnel på omtrent halve strekningen. Den publiserer enveiskjøring opp på hel time og ned på halv time. Dagens skilting og meldinger gjelder. Tunnelen skal ikke brukes av gående eller syklende."
+        ],
+        [
+          "Fotturen må velges etter forholdene",
+          "Stien starter ved Sæ i Simadal, ved Statkraft, og har tau, tretrinn og stiger. Kommunens turbeskrivelse anbefaler godt vær i sommer- og høstsesongen. Den regionale turistoppføringen advarer mot vått eller isete føre. Kort avstand betyr ikke en lett tur; vurder sko, form, vær og nedstigningen før start."
+        ],
+        [
+          "Sesong og tidsbruk",
+          "Kommunen oppgir normalt veiåpning rundt mai, men det bekrefter ikke en bestemt dato. Turanslag varierer: eldre kommunal beskrivelse gir rundt 2,5 timer tur-retur, mens regional turistinformasjon gir 3–4 timer. Legg inn god margin og spør lokalt om dagens stiforhold."
+        ],
+        [
+          "Tilbud og videre planlegging",
+          "Kildene bekrefter ikke en aktuell besøksbillett, servering eller åpningstid for gårdsinteriører. Avklar eventuelle bestilte opplevelser separat. Planlegg mat, overnatting og videre transport fra Eidfjord eller den bekreftede ruten; ikke forvent tjenester på toppen."
+        ]
+      ],
+      "steps": [
+        "Sjekk kommunens nyeste vei- og stimeldinger.",
+        "Velg skiltet biladkomst eller egen tursti; aldri tunnelen til fots.",
+        "Besøk bare tillatte områder og sett av nok tid til nedstigning eller regulert nedkjøring."
+      ],
+      "faq": [
+        [
+          "Er dette samme tur som Vøringsfossen?",
+          "Nei. Kjeåsen ligger over Simadal og har en langt brattere tursti."
+        ],
+        [
+          "Kan jeg gå bilveien opp?",
+          "Kommunen oppgir at tunnelen ikke kan brukes til fots eller på sykkel. Bruk bare den separate stien når føre og ferdigheter tillater det."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Eidfjord kommune — Kjeåsen",
+          "url": "https://www.eidfjord.kommune.no/tenester/kultur-idrett-og-fritid/friluftsliv/utferdspunkt/kjeasen-2/"
+        },
+        {
+          "name": "Visit Norway — Kjeåsen hike",
+          "url": "https://www.visitnorway.com/listings/hike-to-kjeasen-view-point/193660/"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Kje%C3%A5sen%20Eidfjord%20Norway"
+    },
+    {
+      "slug": "norsk-natursenter",
+      "title": "Norsk Natursenter i Øvre Eidfjord: utstilling og besøksplan",
+      "description": "Les om panoramafilm, geologi og dyreliv, sesongbilletter og tilgjengelighet før du kombinerer natursenteret med Vøringsfossen.",
+      "intro": "Norsk Natursenter – Hardanger er et innendørs formidlingssenter i Øvre Eidfjord ved riksvei 7. Det forklarer landskapet mellom fjorden, Måbødalen og Hardangervidda. Senteret er en egen bemannet attraksjon med billett og sesong; et besøk ved fossen gir ikke inngang her.",
+      "tips": [
+        "Bekreft sesongen hos operatøren før avreise.",
+        "Sjekk senterets og restaurantens tider hver for seg.",
+        "Bruk utstillingen som bakgrunn for landskapsopplevelsen."
+      ],
+      "facts": [
+        [
+          "Adresse",
+          "Sæbøtunet 11, 5784 Øvre Eidfjord"
+        ],
+        [
+          "Beliggenhet",
+          "Ved riksvei 7 nedenfor Måbødalen"
+        ],
+        [
+          "Tilgang",
+          "Operatøren oppgir heis mellom etasjene"
+        ]
+      ],
+      "sections": [
+        [
+          "Hva finnes inne?",
+          "Operatøren beskriver en utstilling over tre etasjer om landskap, geologi, klima, dyreliv og menneskers ressursbruk. Mineraler, fossiler, ørretakvarier og naturformidling gir en annen opplevelse enn å se fossen. Panoramafilmen viser fjord, fjell, fosser og vidde."
+        ],
+        [
+          "Sammen med Vøringsfossen",
+          "Senteret kan gi bakgrunn til vannet og fjellandskapet før eller etter et utendørsstopp. Det er et eget innendørs læringstilbud, men et åpent senter gjør ikke en stengt sti ved fossen tilgjengelig. Planlegg hvert besøk etter forhold og åpningstid."
+        ],
+        [
+          "Åpning og billetter må bekreftes",
+          "Ved kildekontrollen sa operatørens banner sesongstengt, mens samme side hadde forskjellige ordinære sesongdatoer i brødtekst og bunntekst. Derfor oppgir vi ikke én gjenåpningsdato eller åpningstid som endelig. Senteret har egne billetter; sjekk oppdatert bestilling for priser, aldersgrupper og gruppeavtaler."
+        ],
+        [
+          "Tilgjengelighet og fasiliteter",
+          "Operatøren oppgir universell utforming, heis, toaletter, stellerom, garderobe og bagasjeplass. Bekreft spesifikke behov direkte. Medbrakt mat og drikke er ikke tillatt inne. Hardangerviddahallen restaurant er et separat tilbud med egne sesongtider."
+        ],
+        [
+          "Adkomst og resten av dagen",
+          "Bruk adressen i Øvre Eidfjord, ikke fossens parkeringsplass. Med kollektivtransport må stopp og retur bekreftes for datoen; ingen fast frekvens eller reisetid forutsettes. Velg overnatting og mat etter bekreftede tilbud, og sjekk vei- og anleggsmeldinger før du fortsetter mot fossen."
+        ]
+      ],
+      "steps": [
+        "Sjekk besøks- og billettsidene for datoen.",
+        "Reis til Sæbøtunet 11 og avklar utstilling og film ved ankomst.",
+        "Kontroller forholdene før videre tur til fossen eller over Hardangervidda."
+      ],
+      "faq": [
+        [
+          "Er senteret del av det gratis fossebesøket?",
+          "Nei. Det er en egen bemannet attraksjon med egne billetter og sesong."
+        ],
+        [
+          "Er det et sikkert vinteralternativ?",
+          "Nei. Det er sesongåpent med egne gruppeavtaler; bekreft direkte før reisen."
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norsk Natursenter — visit",
+          "url": "https://www.norsknatursenter.no/besok-"
+        },
+        {
+          "name": "Norsk Natursenter — exhibition",
+          "url": "https://www.norsknatursenter.no/utstillinga"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Norsk%20Natursenter%20S%C3%A6b%C3%B8tunet%2011%20Eidfjord"
+    }
+  ]
+}

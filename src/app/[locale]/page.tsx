@@ -1,4 +1,5 @@
 import { getMessages, setRequestLocale } from 'next-intl/server';
+import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
@@ -13,6 +14,7 @@ import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
 import IntentGuides from '@/components/IntentGuides';
 import Footer from '@/components/Footer';
+import NearbyGuides from '@/components/NearbyGuides';
 import { HERO_IMAGE_PATH, MAPS_URL, SITE_URL, localeMeta, localizedUrl, type SiteLocale } from '@/lib/site';
 
 export default async function HomePage({
@@ -21,6 +23,7 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  if (!Object.prototype.hasOwnProperty.call(localeMeta, locale)) notFound();
   const siteLocale = locale as SiteLocale;
   setRequestLocale(siteLocale);
   const messages = await getMessages() as any;
@@ -49,7 +52,7 @@ export default async function HomePage({
         geo: {
           '@type': 'GeoCoordinates',
           latitude: 60.4265721,
-          longitude: 7.2324114,
+          longitude: 7.2514658,
         },
         hasMap: MAPS_URL,
         sameAs: [
@@ -94,6 +97,7 @@ export default async function HomePage({
         <Hero />
         <Intro />
         {locale === 'en' && <IntentGuides />}
+        <NearbyGuides />
         <InfoSection />
         <TransportSection />
         <Gallery />
@@ -109,3 +113,4 @@ export default async function HomePage({
     </>
   );
 }
+

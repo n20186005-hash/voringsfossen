@@ -1,0 +1,240 @@
+{
+  "ui": {
+    "nearby": "瀑布以外的周邊探索",
+    "subtitle": "以三種不同角度認識 Eidfjord 的地景。加入行程前，請分別確認每個目的地的開放與通行條件。",
+    "read": "閱讀指南",
+    "tips": "出發前準備",
+    "facts": "基本資訊",
+    "route": "建議參觀順序",
+    "sources": "來源與編輯查核",
+    "checked": "Vøringsfossen Visitor Guide 編輯團隊 · 查核於 2026 年 11 月 10 日",
+    "related": "延伸探索",
+    "map": "位置與官方地圖",
+    "back": "Vøringsfossen 參觀指南"
+  },
+  "guides": [
+    {
+      "slug": "hardangervidda-scenic-route",
+      "title": "Hardangervidda 景觀公路：Eidfjord 至 Haugastøl",
+      "description": "規劃瀑布以外的 67 公里 7 號公路景觀段，認識高原停靠點、Måbø 橋、冬季路況與自行車限制。",
+      "intro": "Vøringsfossen 只是更長旅程中的一站。Hardangervidda 國家景觀公路沿 7 號公路連接 Eidfjord 與 Haugastøl，從峽灣經 Måbødalen 進入開闊高原。本指南協助選停靠點，不保證同一天可造訪所有地點。",
+      "tips": [
+        "決定跨越高原前先查道路警示。",
+        "按天氣與日照選擇開放停靠點。",
+        "不可騎自行車穿越 Måbødalen 隧道路段。"
+      ],
+      "facts": [
+        [
+          "路段",
+          "Eidfjord–Haugastøl，7 號公路"
+        ],
+        [
+          "長度",
+          "官方景觀路段 67 公里"
+        ],
+        [
+          "海拔",
+          "官方列出 0–1,250 公尺"
+        ]
+      ],
+      "sections": [
+        [
+          "由峽灣到高原",
+          "路線連接峽灣村鎮、陡峭山谷與開闊高原。官方停靠點包括 Vøringsfossen、Måbø 橋、Ørteren 和 Vardestopp。請按條件取捨，而非把清單當固定時刻表。"
+        ],
+        [
+          "Måbø 橋與舊公路",
+          "石拱橋建於 1910 年，橋與舊路於 2009 年列為受保護交通古蹟。1986 年新 7 號公路線取代舊線。可在休息區了解交通歷史，不必冒險走舊路；景觀公路官方指出舊線因落石封閉。"
+        ],
+        [
+          "季節與道路安全",
+          "公路通常提供全年交通，但惡劣天氣可能造成短暫封閉或車隊引導通行。官方亦提及為馴鹿而設的冬季限制。這些與瀑布設施冬季封閉不同，須分別確認。出發前查 Statens vegvesen 山區通行資訊，遵守現場指示。"
+        ],
+        [
+          "自行車與公共交通",
+          "Måbødalen 因多處隧道禁止自行車通行；舊路也因落石封閉，不能當自行車替代道。官方提到可搭巴士，但攜車規則、站點與當日班次須直接向營運商確認。"
+        ],
+        [
+          "服務與後續行程",
+          "公共公路走廊沒有統一景點門票；各景點、餐廳與住宿有自己的條件。瀑布廁所不是露營車排污站；官方指向 Øvre Eidfjord 的排污設施。請另查服務實際可用情況，再以此安排行程。"
+        ]
+      ],
+      "steps": [
+        "決定跨越高原或返回 Eidfjord。",
+        "查當前道路警示，只選可通行停靠點。",
+        "造訪開放的瀑布或 Måbø 橋後，再評估是否繼續上路。"
+      ],
+      "faq": [
+        [
+          "7 號公路開放代表瀑布步道開放嗎？",
+          "不代表。公路狀態與季節性參觀設施必須分別查證。"
+        ],
+        [
+          "可以騎車穿過 Måbødalen 嗎？",
+          "官方禁止自行車走隧道公路，並指出舊路因落石封閉；請另向交通業者確認替代方式。"
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norwegian Scenic Routes — Hardangervidda",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/"
+        },
+        {
+          "name": "Måbø Bridge",
+          "url": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/mabo-bru-rasteplass/"
+        },
+        {
+          "name": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/fjelloverganger/"
+        }
+      ],
+      "map": "https://www.nasjonaleturistveger.no/en/routes/hardangervidda/#map"
+    },
+    {
+      "slug": "kjeasen",
+      "title": "Kjeåsen 山地農場：管制道路與陡峭健行路線",
+      "description": "比較 Kjeåsen 的單向管制隧道路線與 Simadal 陡峭步道，了解季節、私人土地及雨天冰雪注意事項。",
+      "intro": "Kjeåsen 是峽灣上方的獨立目的地，並非瀑布觀景步道的延伸。農場約位於海拔 600 公尺；開車與從 Simadal 徒步上山需要不同準備，請先選方式並查市政當前資訊。",
+      "tips": [
+        "不得步行或騎自行車穿越通行隧道。",
+        "步道潮濕或結冰時避免健行。",
+        "尊重農場作業、私人土地與現場標示。"
+      ],
+      "facts": [
+        [
+          "區域",
+          "Eidfjord 市政區 Simadal 上方"
+        ],
+        [
+          "開車",
+          "由 Simadal 經狹窄道路與隧道"
+        ],
+        [
+          "步行",
+          "另有陡峭步道，含繩索與梯子"
+        ]
+      ],
+      "sections": [
+        [
+          "為何需要獨立安排",
+          "此地的重點是山地農場與陡峭峽灣坡地的關係。徒步路線比瀑布安全觀景步道陡得多。觀景不代表獲准進入住宅、院落或耕地；請沿標示路線並尊重居民隱私。"
+        ],
+        [
+          "道路與隧道",
+          "市政資料說明通行道路長 5 公里，約一半是髮夾彎道路，另一半為狹窄隧道。公告採交替單向：整點上山、半點下山。請以當日標誌與市政公告為準；隧道不能供行人或自行車使用。"
+        ],
+        [
+          "按條件決定是否健行",
+          "步道由 Simadal 的 Sæ、Statkraft 附近出發，包含繩索、木階與梯子。市政步道資料建議夏秋良好天氣，區域旅遊資料警告不要在潮濕或結冰時走。距離短不等於容易，須評估鞋具、體能、天氣及下山能力。"
+        ],
+        [
+          "季節與時長差異",
+          "市政說明道路通常約五月開放，但不等於特定日期已開。舊市政步道資料估來回約 2.5 小時，區域旅遊資料列 3–4 小時，兩者有差異。請保留充分餘裕，並向當地查現況，不把任一估計當保證。"
+        ],
+        [
+          "服務與周邊組合",
+          "來源未證實農場室內當前門票、餐飲或開放時段，預約活動須另查。以 Eidfjord 或已確認路線安排補給、住宿及回程，不假設山頂有服務。只有在道路或健行條件及當日行程合適時再加入這一站。"
+        ]
+      ],
+      "steps": [
+        "查市政最新道路與步道公告。",
+        "選擇標示道路或獨立步道，絕不走隧道。",
+        "只進入允許區域，預留步行下山或管制下山的時間。"
+      ],
+      "faq": [
+        [
+          "這與 Vøringsfossen 是同一條步道嗎？",
+          "不是。Kjeåsen 位於 Simadal 上方，徒步爬升遠較陡峭。"
+        ],
+        [
+          "可以沿汽車道路走上去嗎？",
+          "市政明確說明隧道不能步行或騎車。只有在條件與能力適合時才使用獨立步道。"
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Eidfjord kommune — Kjeåsen",
+          "url": "https://www.eidfjord.kommune.no/tenester/kultur-idrett-og-fritid/friluftsliv/utferdspunkt/kjeasen-2/"
+        },
+        {
+          "name": "Visit Norway — Kjeåsen hike",
+          "url": "https://www.visitnorway.com/listings/hike-to-kjeasen-view-point/193660/"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Kje%C3%A5sen%20Eidfjord%20Norway"
+    },
+    {
+      "slug": "norsk-natursenter",
+      "title": "Øvre Eidfjord 的 Norsk Natursenter：展覽與參觀規劃",
+      "description": "認識全景影片、地質與野生動物展覽，以及自然中心的季節、門票與無障礙資訊，再安排瀑布行程。",
+      "intro": "Norsk Natursenter – Hardanger 位於 Øvre Eidfjord 的 7 號公路旁，是室內自然解說中心，介紹峽灣、Måbødalen 和 Hardangervidda 之間的地景。這是獨立有人員管理的景點，有自己的門票與季節，並不包含在免費瀑布參觀內。",
+      "tips": [
+        "出發前向營運商確認當期季節。",
+        "自然中心與餐廳營業時間分開查。",
+        "用展覽補充對戶外地景的理解。"
+      ],
+      "facts": [
+        [
+          "地址",
+          "Sæbøtunet 11, 5784 Øvre Eidfjord"
+        ],
+        [
+          "位置",
+          "Måbødalen 下方的 7 號公路旁"
+        ],
+        [
+          "無障礙",
+          "營運商列有樓層間電梯"
+        ]
+      ],
+      "sections": [
+        [
+          "室內看什麼",
+          "營運商介紹三層樓展覽，內容涵蓋地景、地質、氣候、野生動物，以及人如何利用自然資源。礦物、化石、鱒魚水族展示與動物解說，提供不同於觀瀑的學習角度。全景影片呈現峽灣、山岳、瀑布及高原。"
+        ],
+        [
+          "如何搭配瀑布",
+          "中心可在戶外停靠前後補充水流與山區地景背景，適合希望增加室內學習內容的旅客。但中心開放不代表瀑布封閉步道可走；兩個景點須按天氣與各自時段獨立安排。"
+        ],
+        [
+          "開放與票價須向業者確認",
+          "查核當日，營運商頁首寫季節性關閉，正文與頁尾卻保留不同一般季節日期。因此本站不將某個重新開放日期或固定時段當作定論。中心有自己的票券，請向當期訂票頁查價格、年齡分類及團體安排。"
+        ],
+        [
+          "無障礙與設施",
+          "營運商列有無障礙設計、電梯、廁所、育嬰設施、衣帽間與行李放置空間。特殊需求請出發前直接確認。室內不允許自行攜入食物飲料；Hardangerviddahallen 餐廳是另有季節時段的服務。"
+        ],
+        [
+          "交通與後續安排",
+          "請導航至 Øvre Eidfjord 的確切地址，而不是瀑布停車場。公共交通須按日期確認站點與回程，不假設固定班次或車程。住宿餐飲以已確認服務安排，再查道路及觀景設施公告，決定是否繼續前往瀑布。"
+        ]
+      ],
+      "steps": [
+        "依日期查參觀及訂票頁。",
+        "到 Sæbøtunet 11，抵達後確認展覽與影片安排。",
+        "前往瀑布或跨越高原前重新查路況。"
+      ],
+      "faq": [
+        [
+          "自然中心包含在免費瀑布參觀中嗎？",
+          "沒有。這是獨立的人員管理景點，另有門票與季節。"
+        ],
+        [
+          "這是保證開放的冬季替代景點嗎？",
+          "不是。一般開放有季節限制，團體另有安排，請出發前直接確認。"
+        ]
+      ],
+      "sources": [
+        {
+          "name": "Norsk Natursenter — visit",
+          "url": "https://www.norsknatursenter.no/besok-"
+        },
+        {
+          "name": "Norsk Natursenter — exhibition",
+          "url": "https://www.norsknatursenter.no/utstillinga"
+        }
+      ],
+      "map": "https://www.google.com/maps/search/?api=1&query=Norsk%20Natursenter%20S%C3%A6b%C3%B8tunet%2011%20Eidfjord"
+    }
+  ]
+}

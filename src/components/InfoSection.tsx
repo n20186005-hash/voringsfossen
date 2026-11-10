@@ -1,4 +1,4 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 
 export default function InfoSection() {
   const t = useTranslations('knowledge');
@@ -312,3 +312,4 @@ export default function InfoSection() {
     </section>
   );
 }
+

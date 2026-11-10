@@ -20,6 +20,8 @@ const photos = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const descriptions = t.raw('photoDescriptions') as string[];
+  const displayPhotos = photos.map((photo, index) => ({ ...photo, alt: descriptions[index] }));
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
@@ -49,7 +51,7 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
+              {displayPhotos.slice(0, 8).map((photo, i) => (
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
@@ -75,7 +77,7 @@ export default function Gallery() {
             </div>
 
             <button
-              onClick={goToPrevious}
+              onClick={() => { goToPrevious(); openLightbox(); }}
               className="absolute left-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
               aria-label="Previous photo"
             >
@@ -84,7 +86,7 @@ export default function Gallery() {
               </svg>
             </button>
             <button
-              onClick={goToNext}
+              onClick={() => { goToNext(); openLightbox(); }}
               className="absolute right-2 top-1/2 -translate-y-1/2 w-10 h-10 bg-white/80 hover:bg-white rounded-full shadow-lg flex items-center justify-center transition-colors"
               aria-label="Next photo"
             >
@@ -135,8 +137,8 @@ export default function Gallery() {
           </button>
 
           <img
-            src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
+            src={displayPhotos[currentIndex].src}
+            alt={displayPhotos[currentIndex].alt}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />
@@ -159,3 +161,4 @@ export default function Gallery() {
     </>
   );
 }
+

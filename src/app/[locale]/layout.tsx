@@ -25,6 +25,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  if (!routing.locales.includes(locale as SiteLocale)) notFound();
   const siteLocale = locale as SiteLocale;
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const selfUrl = localizedUrl(siteLocale);
@@ -144,3 +145,4 @@ export default async function LocaleLayout({
     </html>
   );
 }
+
